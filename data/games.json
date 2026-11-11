@@ -1,0 +1,683 @@
+[
+ {
+  "slug": "saltline",
+  "name": "Saltline",
+  "headline": "A rain-soaked container-port FPS that Claude Fable 5.2 built in about eight hours, every model and sound included.",
+  "maker": "Felix Rieseberg",
+  "maker_handle": "felixrieseberg",
+  "play_url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+  "post_url": "https://x.com/felixrieseberg/status/2119925633564463609",
+  "likes_at_check": 13612,
+  "views_at_check": 3972577,
+  "score": 10,
+  "tags": [
+   "FPS",
+   "Shooter",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [
+   "You know, you should also build me a FPS. Insanely detailed quality pls, something that looks visually like it can keep up with AAA. Make it small in scope (like a tiny level) but …"
+  ],
+  "cover": "assets/covers/saltline.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/42b4e453-c5a4-4e4b-b622-d03c563e290b-saltline-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/bb2ae8dc-11fd-4226-9087-09e88e21f9fd-saltline-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/200d180f-2632-4494-822c-a1d33b7e3e74-saltline-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/8d320efb-8f8d-47e8-a891-b7be2d6357a9-saltline-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/a2b3e3f1-e871-4b74-8668-6734892a7c21-saltline-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/3550902e-2f2b-4ba5-9314-f5d7897413b8-saltline-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/c9285c2f-d2cc-4da5-9f51-618adcd03988-saltline-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/8c74170c-80ea-441a-8738-c346641e6cd2-saltline-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/75328556-01f3-4b68-ba0d-444584c4aad2-saltline-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/saltline"
+ },
+ {
+  "slug": "what-the-water-keeps",
+  "name": "What the Water Keeps",
+  "headline": "A slow, lantern-lit boat ride through eight dreamlike worlds, made with Claude Fable 5.2 and Three.js.",
+  "maker": "Kevin Ngo",
+  "maker_handle": "kevin_t_ngo",
+  "play_url": "https://what-the-water-keeps.vercel.app/",
+  "post_url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+  "likes_at_check": 4133,
+  "views_at_check": 464970,
+  "score": 9,
+  "tags": [
+   "Adventure",
+   "3D",
+   "Cosy"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/what-the-water-keeps.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/d245839a-5048-4b57-a600-bbebddb5f1f1-what-the-water-keeps-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/266ad7a3-9fb7-44de-8c70-04500768badd-what-the-water-keeps-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/e0768675-d2b4-488b-9a7a-bca477c21d2e-what-the-water-keeps-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/1974da7d-623c-4455-912c-304563c816b0-what-the-water-keeps-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/0a5f6c41-ec01-40e6-94cb-4dae333a24c2-what-the-water-keeps-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/f57c33a8-c2b3-4d84-87b6-af4a0b7cab3f-what-the-water-keeps-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/e2d20d6c-6f66-4fb9-b74d-99d65042db2b-what-the-water-keeps-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/876ec9aa-75d5-4e70-8d55-555afc85d815-what-the-water-keeps-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/946fb1f1-e58f-4a81-9a9e-ceb12ba5a9fd-what-the-water-keeps-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/what-the-water-keeps"
+ },
+ {
+  "slug": "oil-paint",
+  "name": "Oil Paint",
+  "headline": "Walk through an autumn forest that looks hand-painted: about 1.5 million brush strokes a frame, at 200 fps in a browser tab.",
+  "maker": "Blendi",
+  "maker_handle": "BlendiByl",
+  "play_url": "https://patch.gg/blendi/oil-paint",
+  "post_url": "https://x.com/BlendiByl/status/2120341251178594532",
+  "likes_at_check": 3970,
+  "views_at_check": 193115,
+  "score": 9,
+  "tags": [
+   "3D",
+   "Cosy",
+   "Sandbox"
+  ],
+  "open_source_url": "https://patch.gg/blendi/oil-paint",
+  "prompts": [],
+  "cover": "assets/covers/oil-paint.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/731ae71b-9cab-481d-bb47-a6a3bd7eb4c5-oil-paint-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/795fbf1c-dd2a-4170-8826-185c3c3ea604-oil-paint-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/1464f85b-8ebe-427b-bb7a-f9c20aba71cb-oil-paint-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/0f151e94-75df-4fac-a4e8-229188a8b868-oil-paint-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/feb5b94d-93f2-4d0d-94b1-d372a858a9f2-oil-paint-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/b293666b-98e8-481d-8599-85329de9bb32-oil-paint-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/212e497f-6b2a-4846-bc18-f670786505d1-oil-paint-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/oil-paint"
+ },
+ {
+  "slug": "starry-night-rider",
+  "name": "Starry Night Rider",
+  "headline": "Ride a bicycle through the village of Van Gogh's The Starry Night, every street painted in swirling brushstrokes.",
+  "maker": "Ebby Amir",
+  "maker_handle": "ebbyamir",
+  "play_url": "https://starrynightrider.com",
+  "post_url": "https://x.com/ebbyamir/status/2120284261089673376",
+  "likes_at_check": 2955,
+  "views_at_check": 173381,
+  "score": 9,
+  "tags": [
+   "3D",
+   "Cosy",
+   "Adventure"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/starry-night-rider.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/3db70e73-3ebb-4ac5-a295-bb1f9ca3d5d2-starry-night-rider-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/dd602ff0-e89e-469b-bb8f-caf22e1bee3a-starry-night-rider-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/59d3e803-a607-4424-b405-430f434388f2-starry-night-rider-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/cff6e27e-2f4e-4e50-a133-d940e4ce8129-starry-night-rider-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/39cee628-9bd7-48c1-b44b-fffa3281b1de-starry-night-rider-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/c3a2a4a1-91ed-4173-90c1-c0ffa18a4aa9-starry-night-rider-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/2ff4ce82-09ed-4e0c-8c7a-a1fe50f1a06b-starry-night-rider-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/starry-night-rider"
+ },
+ {
+  "slug": "mirror-earth",
+  "name": "Mirror Earth",
+  "headline": "The whole planet in voxels, in your browser: go anywhere, break anything, with weather that matches the real Earth live.",
+  "maker": "Matt Shumer",
+  "maker_handle": "mattshumer_",
+  "play_url": "https://www.spawn.co/@mattshumer/earth?room=local",
+  "post_url": "https://x.com/mattshumer_/status/2119877065701036047",
+  "likes_at_check": 2355,
+  "views_at_check": 398601,
+  "score": 9,
+  "tags": [
+   "Open world",
+   "Sandbox",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/mirror-earth.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/1f0773ea-a3fc-40dc-8af4-f73c2180943f-mirror-earth-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/0e41997d-eb67-4efa-ab3f-e93378e3bbbc-mirror-earth-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/76374e06-0f8d-45cf-9fe1-2f733675bae5-mirror-earth-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/91838d0b-e275-493b-86e6-7660ffacd1cf-mirror-earth-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/ade46020-7d57-4f59-adb0-6e988a4dda23-mirror-earth-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/2ded489f-c5ac-4cf9-b75c-06b86aee4061-mirror-earth-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/f9be602f-fc64-4449-93b5-14f0a82770cc-mirror-earth-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/eb665158-ff13-45bc-8223-4536ba803405-mirror-earth-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/70673f2b-9d32-4dc1-bfbd-8c2e97897ba2-mirror-earth-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/mirror-earth"
+ },
+ {
+  "slug": "i-would-have-gotten-away-with-it",
+  "name": "I Would Have Gotten Away With It",
+  "headline": "A reverse Scooby-Doo: you are the villain of Grimsby Manor, and your job is to scare off the meddling kids and their capybara.",
+  "maker": "Ethan Mollick",
+  "maker_handle": "emollick",
+  "play_url": "https://i-would-have-gotten-away-with-it.netlify.app",
+  "post_url": "https://x.com/emollick/status/2119876449494540554",
+  "likes_at_check": 503,
+  "views_at_check": 31835,
+  "score": 9,
+  "tags": [
+   "Strategy",
+   "Story",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/i-would-have-gotten-away-with-it.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/85824133-bcbb-4c3c-afbf-6671df914ac6-i-would-have-gotten-away-with-it-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/fb9e0a8a-f609-4de0-995b-317f35a5187a-i-would-have-gotten-away-with-it-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/268ce030-941f-4ad1-9a61-e7b235bbd51b-i-would-have-gotten-away-with-it-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/b241c17b-b785-4609-bbb1-901609c89ab3-i-would-have-gotten-away-with-it-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/dced04bd-c031-48f0-a838-72810d50a517-i-would-have-gotten-away-with-it-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/aa4da26e-d9c0-48bd-a470-dad12b28f9e0-i-would-have-gotten-away-with-it-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/12628a2b-d816-4fdc-94ff-75253fcb002f-i-would-have-gotten-away-with-it-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/038f3284-2a63-498b-9006-987aa1a64960-i-would-have-gotten-away-with-it-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/75d13cb3-d446-43d4-a057-30da88abb307-i-would-have-gotten-away-with-it-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/i-would-have-gotten-away-with-it"
+ },
+ {
+  "slug": "gilt-and-gutter",
+  "name": "Gilt & Gutter",
+  "headline": "A stylish 1v1 first-person shooter in a gilded arcade hall, where shots of your own colour charge your gun.",
+  "maker": "Kevin Ngo",
+  "maker_handle": "kevin_t_ngo",
+  "play_url": "https://gilt-and-gutter.vercel.app",
+  "post_url": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+  "likes_at_check": 318,
+  "views_at_check": 102134,
+  "score": 9,
+  "tags": [
+   "FPS",
+   "Shooter",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/gilt-and-gutter.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/09e054f0-cc85-41f4-9466-3d3a9d2c376a-gilt-and-gutter-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/99553fee-b283-4dc7-b05a-970c921e3b6a-gilt-and-gutter-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/4342c346-7f1d-4fb7-b6ee-a34fe0ae6f7a-gilt-and-gutter-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/31c4c643-7582-4b46-904b-b0eed04f4ff0-gilt-and-gutter-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/c08aaaa3-478f-46b9-85a3-04bf9ba8b6bf-gilt-and-gutter-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/e73a66d1-ed4c-4336-a943-d09163821692-gilt-and-gutter-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/39ffeeec-bd77-4242-a5f2-31e5acbca1c8-gilt-and-gutter-shot-7.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/80199710-e750-479d-9717-53e24f978421-gilt-and-gutter-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/gilt-and-gutter"
+ },
+ {
+  "slug": "tidewright",
+  "name": "Tidewright",
+  "headline": "Sail a storm-tossed night sea and relight the lighthouses of the Thrumming Isles, built by Claude Fable 5.2.",
+  "maker": "Felix Rieseberg",
+  "maker_handle": "felixrieseberg",
+  "play_url": "https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4",
+  "post_url": "https://x.com/felixrieseberg/status/2119867839033352596",
+  "likes_at_check": 0,
+  "views_at_check": null,
+  "score": 9,
+  "tags": [
+   "Adventure",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/tidewright.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/games/tidewright/shot-1.jpg"
+  ],
+  "trailer": null,
+  "vibegamer_url": "https://vibegamer.io/game/tidewright"
+ },
+ {
+  "slug": "the-clockmakers-heart",
+  "name": "The Clockmaker's Heart",
+  "headline": "Wake a sleeping clockwork giant one gear puzzle at a time, a first draft by Claude Fable 5.2.",
+  "maker": "Felix Rieseberg",
+  "maker_handle": "felixrieseberg",
+  "play_url": "https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa",
+  "post_url": "https://x.com/felixrieseberg/status/2119867839033352596",
+  "likes_at_check": 283,
+  "views_at_check": null,
+  "score": 8,
+  "tags": [
+   "Puzzle",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/the-clockmakers-heart.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/games/the-clockmakers-heart/shot-3.jpg",
+   "https://cdn.vibegamer.io/games/the-clockmakers-heart/shot-1.jpg"
+  ],
+  "trailer": null,
+  "vibegamer_url": "https://vibegamer.io/game/the-clockmakers-heart"
+ },
+ {
+  "slug": "turbo-tails",
+  "name": "Turbo Tails",
+  "headline": "A 3D kart racer with six animal drivers, drifting and items, playable free in the browser with friends.",
+  "maker": "Peter Yang",
+  "maker_handle": "petergyang",
+  "play_url": "https://turbo-tails.vercel.app",
+  "post_url": "https://x.com/petergyang/status/2119901658394358005",
+  "likes_at_check": 137,
+  "views_at_check": 31737,
+  "score": 8,
+  "tags": [
+   "Racing",
+   "Multiplayer",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [
+   "Let's make mobile work please",
+   "Ok let's add multiplayer the simplest way"
+  ],
+  "cover": "assets/covers/turbo-tails.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/0a884567-b58d-463e-91ac-07fa68fbe683-turbo-tails-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/708ce55a-53eb-46a5-bb70-1c15f3e1f2ea-turbo-tails-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/044ba44a-f9ad-434c-86ea-92909096816c-turbo-tails-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/2658d3f7-e9bc-4559-9adb-7a6ed9b9be17-turbo-tails-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/727fa806-0b96-4187-a132-dc607105b6e9-turbo-tails-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/08d25aea-ee48-4fb7-b943-88e35906dfcb-turbo-tails-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/dbbcf363-1697-4f1b-86d0-b76165714735-turbo-tails-shot-7.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/a6772544-11bb-4ea9-9bbe-adb7a9cfe892-turbo-tails-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/turbo-tails"
+ },
+ {
+  "slug": "party-royale",
+  "name": "Party Royale",
+  "headline": "A Fall Guys-style party royale with dozens of jelly-bean players, fake doors and slime floors, made in one try.",
+  "maker": "Matthew Berman",
+  "maker_handle": "MatthewBerman",
+  "play_url": null,
+  "post_url": "https://x.com/MatthewBerman/status/2119868630989254665",
+  "likes_at_check": 97,
+  "views_at_check": 11695,
+  "score": 8,
+  "tags": [
+   "Party",
+   "Multiplayer",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/party-royale.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/ea187d3a-14fd-4a99-96c2-f473b4375b78-party-royale-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/ae2f7313-6160-4465-b537-d533611bc667-party-royale-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/8f3a5c6a-9a90-415e-ba84-ad10fcc0b301-party-royale-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/5a889081-604c-4e00-8e18-a3587c6c4e1d-party-royale-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/336aa080-34cf-4ae3-8202-777e6a245341-party-royale-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/7d483c99-1875-4595-b600-b44be13c80de-party-royale-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/03f22d4e-5b7b-469d-8b2f-675ca0afea6e-party-royale-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/92e0e794-c747-40ec-bb83-7db1442ae0e5-party-royale-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/49accead-dbc4-4cd6-960f-15138797e437-party-royale-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/party-royale"
+ },
+ {
+  "slug": "fablecraft",
+  "name": "Fablecraft",
+  "headline": "An infinite voxel sandbox with HDR lighting in a single HTML file, made in two prompts.",
+  "maker": null,
+  "maker_handle": "RezAIT00",
+  "play_url": null,
+  "post_url": "https://x.com/RezAIT00/status/2119902470205997344",
+  "likes_at_check": 71,
+  "views_at_check": 7909,
+  "score": 8,
+  "tags": [
+   "Sandbox",
+   "Open world",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [
+   "make minecraft single file",
+   "eh looks basic, make it hdr"
+  ],
+  "cover": "assets/covers/fablecraft.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/68b11a86-76d0-470c-80e4-ed64469916d3-fablecraft-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/fb81e579-5b19-4b6c-8d5d-2218f3e565d1-fablecraft-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/c2b0cf79-a562-4c9b-a01d-342fbd2e628e-fablecraft-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/698871cc-d40b-42b2-8548-1ea3fbeee606-fablecraft-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/e587707c-15f3-4644-8c63-e2475ec037eb-fablecraft-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/69fc3d2f-adf5-484b-a423-b58914080eda-fablecraft-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/fe79c633-fbbc-47e8-91d8-c56c79779dfc-fablecraft-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/b8d3a4f6-0185-4a0a-a1e3-bfa9db93c3d2-fablecraft-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/d6708d77-d3f8-427b-b49b-7e50d551e276-fablecraft-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/fablecraft"
+ },
+ {
+  "slug": "rifts",
+  "name": "Rifts",
+  "headline": "An Overwatch-style 3v3 hero brawler with 12 heroes, world-hopping rifts and boss fights, free in the browser.",
+  "maker": "Abbi",
+  "maker_handle": "Pumpnasterr",
+  "play_url": "https://www.spawn.co/@abbidabbi/rifts",
+  "post_url": "https://x.com/Pumpnasterr/status/2119895877250609238",
+  "likes_at_check": 31,
+  "views_at_check": 1825,
+  "score": 8,
+  "tags": [
+   "Action",
+   "Multiplayer",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/rifts.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/86eb2682-b325-4f75-85a8-4cdec688c283-rifts-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/ffc5b09f-8f16-4dec-b08a-cc1eea2e0960-rifts-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/b325d6a7-cdc7-410e-8f45-a03221978ee6-rifts-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/47468c9d-57b9-48e8-9eab-a278f6b5e778-rifts-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/9908dad8-5177-4cde-a3e4-c5146ddf11d8-rifts-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/9e0aeb42-0aa9-4fd2-8b95-5d0625f5947b-rifts-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/4a976e54-8ecf-4737-abbf-4dcd3c5dda4e-rifts-shot-7.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/9bcf3364-8d23-49be-a7f9-9e5df286a760-rifts-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/rifts"
+ },
+ {
+  "slug": "memory-of-teresa-the-storm-spire",
+  "name": "Memory of Teresa: The Storm Spire",
+  "headline": "A dark gothic boss fight on a storm-lashed cathedral spire, lightning against blade, one-shotted with Claude Fable 5.2.",
+  "maker": null,
+  "maker_handle": "OneHitKillDev",
+  "play_url": "https://www.spawn.co/@chocopuff/one-hit-kill",
+  "post_url": "https://x.com/OneHitKillDev/status/2119882801222709524",
+  "likes_at_check": 31,
+  "views_at_check": 1515,
+  "score": 8,
+  "tags": [
+   "Dark fantasy",
+   "Action",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/memory-of-teresa-the-storm-spire.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/f2fb83ed-02ed-4a7b-87fb-09fb086dd8d6-memory-of-teresa-the-storm-spire-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/c4d03b52-9750-40e7-849c-40b4130830c5-memory-of-teresa-the-storm-spire-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/077187da-c959-4c17-8615-be55a0597db7-memory-of-teresa-the-storm-spire-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/8245dcad-ac6f-4623-9862-78a1f81d3ed8-memory-of-teresa-the-storm-spire-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/de2caf91-269d-448c-ab5e-14b266ad00b2-memory-of-teresa-the-storm-spire-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/f7d1bd9f-358e-4ef4-a09d-317fa8a315c4-memory-of-teresa-the-storm-spire-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/35d372d2-bba4-4d66-b571-2d714d68a3c8-memory-of-teresa-the-storm-spire-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/a27cccc9-2e51-40de-b7e1-81e525de22cb-memory-of-teresa-the-storm-spire-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/206acc70-39ed-4212-83bd-6ddbfaf1d3cd-memory-of-teresa-the-storm-spire-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/memory-of-teresa-the-storm-spire"
+ },
+ {
+  "slug": "street-brawler-ii",
+  "name": "Street Brawler II",
+  "headline": "A pixel-art arcade fighter with eight original fighters and eight stages, one-shotted by Claude Fable 5.2 in 35 minutes.",
+  "maker": null,
+  "maker_handle": "BertrandDiouly",
+  "play_url": null,
+  "post_url": "https://x.com/BertrandDiouly/status/2119886197648765001",
+  "likes_at_check": 21,
+  "views_at_check": 559,
+  "score": 8,
+  "tags": [
+   "Retro",
+   "Combat",
+   "2D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/street-brawler-ii.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/9b409623-a1ad-4e4a-a289-c6c62ae86ad7-street-brawler-ii-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/275f03ee-0156-4b1d-bacd-1604c9cc2f95-street-brawler-ii-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/f7bfca6f-48b6-4433-9b6e-63e31d8de1a3-street-brawler-ii-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/29b911d2-c376-4a6d-96ee-899ca8493586-street-brawler-ii-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/cf20f431-081a-4fb9-9bc0-c2714f97e9a1-street-brawler-ii-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/024d791e-77d6-4c7e-8f9c-9a35fa17728d-street-brawler-ii-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/7045290a-1567-4d7e-a46d-b74b80312392-street-brawler-ii-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/cf127fa9-b0bd-4205-a6a0-338d150dbbbe-street-brawler-ii-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/ec5c9678-7632-442e-8dd9-cdef383d375b-street-brawler-ii-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/street-brawler-ii"
+ },
+ {
+  "slug": "toy-room-adventure",
+  "name": "Toy Room Adventure",
+  "headline": "Shrink down to toy size and explore a sunlit kids' bedroom, built by Claude Fable 5.2 from one shared prompt.",
+  "maker": "Sotiris Kaniras",
+  "maker_handle": "itssotsot",
+  "play_url": null,
+  "post_url": "https://x.com/itssotsot/status/2119909017216491720",
+  "likes_at_check": 5,
+  "views_at_check": 343,
+  "score": 8,
+  "tags": [
+   "3D",
+   "Adventure",
+   "Cosy"
+  ],
+  "open_source_url": null,
+  "prompts": [
+   "I want you to create a three.js third-person game where I am Woody from Toy Story inside the house, and I can walk and jump through furniture and objects and find the other characters. Make sure to capture the aesthetic and style of the movie."
+  ],
+  "cover": "assets/covers/toy-room-adventure.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/019d9c98-1025-4c35-a9c1-2db4b7b26768-toy-room-adventure-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/df001f56-61e8-4948-a331-c7055ec1bf6a-toy-room-adventure-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/ce5daf99-9760-44c3-9522-045a4dd49684-toy-room-adventure-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/e8471044-e204-49c7-a5dd-36a7a51edc36-toy-room-adventure-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/8c805dc7-6914-4395-99e7-67096fcffa0a-toy-room-adventure-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/a9c7897c-ed99-45bb-99ab-50f71bb37efd-toy-room-adventure-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/295f71c4-a85d-4983-a422-c47925d38c82-toy-room-adventure-shot-7.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/88cbed5e-e182-42c9-874d-e8b97f2e213d-toy-room-adventure-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/toy-room-adventure"
+ },
+ {
+  "slug": "tokyo-night-gp",
+  "name": "Tokyo Night GP",
+  "headline": "Race five rivals through neon Tokyo at night on wet, reflective asphalt: one prompt, 30 minutes, three.js.",
+  "maker": null,
+  "maker_handle": "nikodemszymansk",
+  "play_url": null,
+  "post_url": "https://x.com/nikodemszymansk/status/2119880518875435022",
+  "likes_at_check": 4,
+  "views_at_check": 1034,
+  "score": 8,
+  "tags": [
+   "Racing",
+   "Driving",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/tokyo-night-gp.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/d4c36f5d-5d33-4120-8c42-52d247b77ae0-tokyo-night-gp-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/f6d85277-8c0e-4dd3-98aa-cdcc3181ccb6-tokyo-night-gp-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/15fff763-9182-49dd-a195-430d12736aff-tokyo-night-gp-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/5a8b53ab-c91b-4b06-9018-a8e5c6580ec7-tokyo-night-gp-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/5b58fc49-a41b-4a7d-aa39-91a46c7ed746-tokyo-night-gp-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/1010239a-3f42-4c13-98f4-b906312bfe3b-tokyo-night-gp-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/cf564086-f486-40a3-b9e5-0cacf494e2af-tokyo-night-gp-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/a5decae6-d1bc-4dab-b12d-2d85bbd8ddd7-tokyo-night-gp-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/986d2063-dd69-4598-92ef-71fd8be8d7b5-tokyo-night-gp-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/tokyo-night-gp"
+ },
+ {
+  "slug": "samurai-duel",
+  "name": "Samurai Duel",
+  "headline": "Two samurai, one red moon: a one-prompt sword-fighting game from Claude Fable 5.2 on High.",
+  "maker": null,
+  "maker_handle": "tymarsha",
+  "play_url": null,
+  "post_url": "https://x.com/tymarsha/status/2119904015454810582",
+  "likes_at_check": 0,
+  "views_at_check": 265,
+  "score": 8,
+  "tags": [
+   "Combat",
+   "Action",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/samurai-duel.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/a8c855e3-8013-4a95-800c-c92d99b58fb2-samurai-duel-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/0891f1e5-1170-4053-90cf-da3e5ce4891f-samurai-duel-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/49cfa3cf-baaf-4c94-9849-c4a32d988b46-samurai-duel-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/c9a075bd-f844-409f-80cc-f6e1d9f9ba7b-samurai-duel-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/477f6f5b-833f-41fa-a0d0-6eb807f782ce-samurai-duel-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/5f8c9b30-c8f7-44fa-bba8-0caf635bebea-samurai-duel-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/4bb3476f-785f-4655-8d0b-5d87503bd0c1-samurai-duel-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/samurai-duel"
+ },
+ {
+  "slug": "aidens-revenge",
+  "name": "Aiden's Revenge",
+  "headline": "A 1–4 player pixel-art beat 'em up dreamed up and drawn by a kid named Aiden, finished overnight with Claude Fable 5.2.",
+  "maker": "Lex Toumbourou",
+  "maker_handle": null,
+  "play_url": "https://aidens-revenge.pages.dev/",
+  "post_url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+  "likes_at_check": 0,
+  "views_at_check": null,
+  "score": 8,
+  "tags": [
+   "Action",
+   "2D",
+   "Co-op",
+   "Retro"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/aidens-revenge.jpg",
+  "screenshots": [],
+  "trailer": null,
+  "vibegamer_url": "https://vibegamer.io/game/aidens-revenge"
+ },
+ {
+  "slug": "hogwarts-royale",
+  "name": "Hogwarts Royale",
+  "headline": "A wizard-school battle royale on brooms, from a single prompt: \"create a mashup of Harry Potter and Fortnite\".",
+  "maker": "Matt Shumer",
+  "maker_handle": "mattshumer_",
+  "play_url": "https://www.spawn.co/@mattshumer/hogwarts-royale",
+  "post_url": "https://x.com/mattshumer_/status/2119872098306810226",
+  "likes_at_check": 307,
+  "views_at_check": 169595,
+  "score": 7,
+  "tags": [
+   "Battle royale",
+   "Fan game",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [
+   "Fable 5.2, create a mashup of Harry Potter and Fortnite"
+  ],
+  "cover": "assets/covers/hogwarts-royale.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/dd875caa-e9f5-4f29-b15e-c3d8e55d340a-hogwarts-royale-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/78eaea7d-5f58-44f9-8889-212c79d3ac65-hogwarts-royale-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/ffac7a82-4900-4f63-9d78-fc1fa75f90f6-hogwarts-royale-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/468a1013-a7aa-44ca-994c-783e5321a35e-hogwarts-royale-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/79cf94c5-6d73-4956-89f4-af4d8b40dec0-hogwarts-royale-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/740942d1-bb02-400f-9e93-5162f2ed58a3-hogwarts-royale-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/361cc8ba-8543-496d-9b12-90c693fc7c3b-hogwarts-royale-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/b851a3a8-a766-4b8d-a7a6-c0d6a740dc8b-hogwarts-royale-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/f073d82b-d2b2-4675-b87c-fd3aa802ca53-hogwarts-royale-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/hogwarts-royale"
+ },
+ {
+  "slug": "the-clockmakers-mansion",
+  "name": "The Clockmaker's Mansion",
+  "headline": "A Roblox horror game where a clock-faced owner hunts you through his mansion, built and trailered by Claude Fable 5.2 over MCP.",
+  "maker": null,
+  "maker_handle": "mihawkxxxxx",
+  "play_url": null,
+  "post_url": "https://x.com/mihawkxxxxx/status/2119909865296699749",
+  "likes_at_check": 11,
+  "views_at_check": 1169,
+  "score": 7,
+  "tags": [
+   "Horror",
+   "3D",
+   "Adventure"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/the-clockmakers-mansion.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/8d635fc0-1dd1-48c8-b3f8-d671515ef4ae-the-clockmakers-mansion-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/3f3f4aff-9370-4a46-b3d0-10a0c0fe04b1-the-clockmakers-mansion-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/0bcae62e-8d14-4d48-aa19-3d80ae9d036b-the-clockmakers-mansion-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/5491cb65-da9c-43ec-95a5-d2a6bcfd78e0-the-clockmakers-mansion-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/6b07fd06-f701-4deb-9564-14495620b711-the-clockmakers-mansion-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/51dea815-4b5e-4045-825f-a66daef42118-the-clockmakers-mansion-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/e7cc9ba7-5358-411f-b903-a05f5315a295-the-clockmakers-mansion-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/the-clockmakers-mansion"
+ },
+ {
+  "slug": "neon-coast",
+  "name": "Neon Coast",
+  "headline": "Fast cars, hot nights, bad ideas: a GTA-style driving game in a pink-lit Miami beach city, from a single prompt.",
+  "maker": null,
+  "maker_handle": "ashwinntwt",
+  "play_url": null,
+  "post_url": "https://x.com/ashwinntwt/status/2119890312382603459",
+  "likes_at_check": 8,
+  "views_at_check": 1103,
+  "score": 7,
+  "tags": [
+   "Driving",
+   "Open world",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "cover": "assets/covers/neon-coast.jpg",
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/f62d5154-3b9d-41ac-b2da-ce35fa923cee-neon-coast-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/30817134-7d59-46d4-b531-efbffe728412-neon-coast-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/cd812bbd-1bcc-428f-a63a-aeef5f356b20-neon-coast-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/3de4d47b-4da4-42b7-beb8-c37d54aad8d5-neon-coast-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/8392889c-c251-426f-8778-0bf85b4c02e6-neon-coast-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/91108698-5117-46bd-8891-7242ff13c2ba-neon-coast-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/e02c8c04-d872-4b55-b991-9c021955ad69-neon-coast-shot-7.jpg",
+   "https://cdn.vibegamer.io/submissions/c3dfe210-6fb2-44ef-a3bf-b74d84fbde52-neon-coast-shot-8.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/488567ac-7b1b-449f-99ab-e3cf01b3659e-neon-coast-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/neon-coast"
+ }
+]

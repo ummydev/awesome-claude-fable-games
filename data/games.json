@@ -135,6 +135,38 @@
   "model": "Claude Fable 5.2"
  },
  {
+  "slug": "age-of-dragon",
+  "name": "Age of Dragon",
+  "headline": "A huge open-world 3D fantasy RPG on a 12 × 12 km island, which its maker puts at about twice Skyrim's map: fly a dragon, ride horses and clear nine dungeons. He says he can't code and built it in a few days with Fable 5.2 and Opus 5.5; a free playable version is promised soon.",
+  "maker": "Mike Houser",
+  "maker_handle": "M__Houser",
+  "play_url": null,
+  "post_url": "https://x.com/M__Houser/status/2120253236309569696",
+  "likes_at_check": 2500,
+  "views_at_check": 350500,
+  "score": 9,
+  "tags": [
+   "Open world",
+   "RPG",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "assets/shots/age-of-dragon-1.jpg",
+   "assets/shots/age-of-dragon-2.jpg",
+   "assets/shots/age-of-dragon-3.jpg",
+   "assets/shots/age-of-dragon-4.jpg",
+   "assets/shots/age-of-dragon-5.jpg"
+  ],
+  "trailer": null,
+  "vibegamer_url": null,
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Claude Fable 5.2 and Claude Opus 5.5",
+  "cover": "assets/covers/age-of-dragon.jpg"
+ },
+ {
   "slug": "mirror-earth",
   "name": "Mirror Earth",
   "headline": "The whole planet in voxels, in your browser: go anywhere, break anything, with weather that matches the real Earth live.",

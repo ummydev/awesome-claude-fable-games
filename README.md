@@ -1,14 +1,14 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-28-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-20-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-29-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-20-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <a href="https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/mosaic.jpg" alt="A wall of covers for games made with Claude Fable 5.2: a wuxia mountain shrine, a Van Gogh bike ride, a desert car battle, a voxel Earth and more" width="100%"></a>
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**28 games · 20 playable in the browser · 5 with prompts** · Updated 2026-11-13
+**29 games · 20 playable in the browser · 5 with prompts** · Updated 2026-11-13
 
-Every game also has a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
+Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
 More from Claude: **[awesome-claude-fable-videos](https://github.com/ummydev/awesome-claude-fable-videos)** (films and 3D worlds) and **[awesome-claude-motion-video](https://github.com/ummydev/awesome-claude-motion-video)** (launch films and motion graphics made with Opus 5.5).
 
@@ -30,6 +30,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#what-the-water-keeps"><img src="assets/covers/what-the-water-keeps.jpg" width="160" alt="What the Water Keeps cover"></a> | **[What the Water Keeps](#what-the-water-keeps)** | [Kevin Ngo](https://x.com/kevin_t_ngo) | Claude Fable 5.2 | [▶ Play](https://what-the-water-keeps.vercel.app/) | [X](https://x.com/kevin_t_ngo/status/2119868968307695818) | 4.1K |  | 9/10 |
 | <a href="#oil-paint"><img src="assets/covers/oil-paint.jpg" width="160" alt="Oil Paint cover"></a> | **[Oil Paint](#oil-paint)** | [Blendi](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play](https://patch.gg/blendi/oil-paint) | [X](https://x.com/BlendiByl/status/2120341251178594532) | 4K |  | 9/10 |
 | <a href="#starry-night-rider"><img src="assets/covers/starry-night-rider.jpg" width="160" alt="Starry Night Rider cover"></a> | **[Starry Night Rider](#starry-night-rider)** | [Ebby Amir](https://x.com/ebbyamir) | Claude Fable 5.2 | [▶ Play](https://starrynightrider.com) | [X](https://x.com/ebbyamir/status/2120284261089673376) | 3K |  | 9/10 |
+| <a href="#age-of-dragon"><img src="assets/covers/age-of-dragon.jpg" width="160" alt="Age of Dragon cover"></a> | **[Age of Dragon](#age-of-dragon)** | [Mike Houser](https://x.com/M__Houser) | Claude Fable 5.2 and Claude Opus 5.5 | video only | [X](https://x.com/M__Houser/status/2120253236309569696) | 2.5K |  | 9/10 |
 | <a href="#mirror-earth"><img src="assets/covers/mirror-earth.jpg" width="160" alt="Mirror Earth cover"></a> | **[Mirror Earth](#mirror-earth)** | [Matt Shumer](https://x.com/mattshumer_) | Claude Fable 5.2 | [▶ Play](https://www.spawn.co/@mattshumer/earth?room=local) | [X](https://x.com/mattshumer_/status/2119877065701036047) | 2.4K |  | 9/10 |
 | <a href="#mist-locked-gate"><img src="assets/covers/mist-locked-gate.jpg" width="160" alt="Mist-Locked Gate (雾锁山门) cover"></a> | **[Mist-Locked Gate (雾锁山门)](#mist-locked-gate)** | [歸藏 (Guizang)](https://x.com/op7418) | Claude Fable 5.2 | [▶ Play](https://op7418.github.io/guizang-game-skill/) | [X](https://x.com/op7418/status/2120694045299327187) | 769 |  | 9/10 |
 | <a href="#i-would-have-gotten-away-with-it"><img src="assets/covers/i-would-have-gotten-away-with-it.jpg" width="160" alt="I Would Have Gotten Away With It cover"></a> | **[I Would Have Gotten Away With It](#i-would-have-gotten-away-with-it)** | [Ethan Mollick](https://x.com/emollick) | Claude Fable 5.2 | [▶ Play](https://i-would-have-gotten-away-with-it.netlify.app) | [X](https://x.com/emollick/status/2119876449494540554) | 503 |  | 9/10 |
@@ -133,6 +134,23 @@ Ride a bicycle through the village of Van Gogh's The Starry Night, every street 
 - **Original post:** https://x.com/ebbyamir/status/2120284261089673376 (3K likes, 173.4K views, checked November 11, 2026)
 - **Tags:** 3D, Cosy, Adventure
 - **Trailer, screenshots and details:** [vibegamer.io/game/starry-night-rider](https://vibegamer.io/game/starry-night-rider?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 9/10 for visuals and polish.</sub>
+
+### Age of Dragon
+<a id="age-of-dragon"></a>
+
+<a href="https://x.com/M__Houser/status/2120253236309569696"><img src="assets/covers/age-of-dragon.jpg" alt="Age of Dragon: cover art" width="100%"></a>
+
+A huge open-world 3D fantasy RPG on a 12 × 12 km island, which its maker puts at about twice Skyrim's map: fly a dragon, ride horses and clear nine dungeons. He says he can't code and built it in a few days with Fable 5.2 and Opus 5.5; a free playable version is promised soon.
+
+<p><img src="assets/shots/age-of-dragon-1.jpg" width="32%" alt="Age of Dragon gameplay screenshot"> <img src="assets/shots/age-of-dragon-2.jpg" width="32%" alt="Age of Dragon gameplay screenshot"> <img src="assets/shots/age-of-dragon-3.jpg" width="32%" alt="Age of Dragon gameplay screenshot"></p>
+
+- **Made by:** Mike Houser ([@M__Houser](https://x.com/M__Houser))
+- **Model:** Claude Fable 5.2 and Claude Opus 5.5
+- **Play:** no public build yet; watch the gameplay video in the post
+- **Original post:** https://x.com/M__Houser/status/2120253236309569696 (2.5K likes, 350.5K views, checked November 13, 2026)
+- **Tags:** Open world, RPG, 3D
 
 <sub>Our score: 9/10 for visuals and polish.</sub>
 

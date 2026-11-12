@@ -332,6 +332,39 @@
   "model": "Claude Fable 5.2"
  },
  {
+  "slug": "danfo-run",
+  "name": "Danfo Run",
+  "headline": "Drive a yellow danfo through Lagos traffic, load passengers and top the live leaderboard. The browser game that went viral in Nigeria as Lagos Run.",
+  "maker": "Eureka",
+  "maker_handle": "eureka_seamless",
+  "play_url": "https://danforun.com",
+  "post_url": "https://x.com/eureka_seamless/status/2103938108668420286",
+  "likes_at_check": 36813,
+  "views_at_check": 14344299,
+  "score": 8,
+  "tags": [
+   "Driving",
+   "Runner",
+   "Arcade"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/8f78f946-f74d-40b5-8f1e-c61797f89aa6-danfo-run-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/b3b82195-d0b4-473a-a4cf-4b28e51753c3-danfo-run-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/9dd26bd3-fe12-4932-9e25-d0af869f93d5-danfo-run-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/f336a58c-c353-4c78-9696-0294efba89e6-danfo-run-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/0efa0e34-252e-4ab7-a23c-3aaf3bd286cc-danfo-run-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/7cb51aab-c13b-4f7f-abec-556539b49501-danfo-run-shot-6.jpg",
+   "https://cdn.vibegamer.io/submissions/8aedf3cd-2fa2-496f-985e-5a4dd8802848-danfo-run-shot-7.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/5fcee40b-f4b8-4654-a267-37ac3efc9563-danfo-run-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/danfo-run",
+  "checked_on": "2026-11-13",
+  "model": "Claude (version not stated)",
+  "cover": "assets/covers/danfo-run.jpg"
+ },
+ {
   "slug": "the-clockmakers-heart",
   "name": "The Clockmaker's Heart",
   "headline": "Wake a sleeping clockwork giant one gear puzzle at a time, a first draft by Claude Fable 5.2.",

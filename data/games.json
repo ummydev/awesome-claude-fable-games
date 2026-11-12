@@ -893,6 +893,74 @@
   "model": "Claude Fable 5.2"
  },
  {
+  "slug": "brasidas",
+  "name": "Brasidas",
+  "headline": "A Halo-style 10v10 team shooter on a ring world: storm a tropical beach or fight across a marble sanctum above the clouds. Made in a few prompts on the AI game maker Tesana by Mike Houser, who also made Aestra.",
+  "maker": "Mike Houser",
+  "maker_handle": "M__Houser",
+  "play_url": "https://tesana.com/game/brasidas",
+  "post_url": "https://x.com/TesanaAI/status/2115049380382437886",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 8,
+  "tags": [
+   "FPS",
+   "Shooter",
+   "Multiplayer",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/ad834a2e-c6c9-489c-8761-79695934f9d6-brasidas-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/3f696eae-6cd8-43df-be8d-f81d1c298bdd-brasidas-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/1dee48e5-ae95-4bc1-a4b2-07e55a90a2b1-brasidas-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/4ea5101e-4f43-4f82-96d3-81b7acad8271-brasidas-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/53b69541-bce2-4c08-b8e5-9f1ed9a2f119-brasidas-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/30fd76cb-cd98-4b68-aa7e-efc6194e4d8f-brasidas-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/f738f7cd-c823-4e96-8c38-dc28ba8118b6-brasidas-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/brasidas",
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Tesana (model not stated)",
+  "cover": "assets/covers/brasidas.jpg"
+ },
+ {
+  "slug": "body-cam",
+  "name": "BODY-CAM",
+  "headline": "A realistic body-camera police shooter: serve a warrant at 1147 Elm St. and clear a run-down house room by room with your squad, now with 5v5 multiplayer. Made by a creator called Juicer on the AI game maker Tesana; its most-played game this week.",
+  "maker": "Juicer",
+  "maker_handle": null,
+  "play_url": "https://tesana.com/game/body-cam",
+  "post_url": "https://x.com/TesanaAI/status/2112043090043449620",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 7.8,
+  "tags": [
+   "FPS",
+   "Shooter",
+   "3D",
+   "Multiplayer"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/ab8b6cc1-a6be-4e5b-80bc-53245fdef72c-body-cam-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/56e2ccd2-2e2f-40b5-874a-a3887dff0353-body-cam-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/56725d61-5e9e-40e6-aa75-012cba1e3409-body-cam-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/b15095ef-0f63-45ad-b6f4-d8213507bf09-body-cam-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/3c149f8a-56b9-4276-aef7-a0be83fa23e5-body-cam-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/8c2f7bd6-609b-4e31-b2e0-5f2ab896cac9-body-cam-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/0e709387-964f-4664-a793-878d2371a564-body-cam-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/body-cam",
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Tesana (model not stated)",
+  "cover": "assets/covers/body-cam.jpg"
+ },
+ {
   "slug": "hogwarts-royale",
   "name": "Hogwarts Royale",
   "headline": "A wizard-school battle royale on brooms, from a single prompt: \"create a mashup of Harry Potter and Fortnite\".",

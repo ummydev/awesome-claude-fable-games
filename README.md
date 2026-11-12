@@ -1,12 +1,12 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-30-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-21-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-32-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-23-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <a href="https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/mosaic.jpg" alt="A wall of covers for games made with Claude Fable 5.2: a wuxia mountain shrine, a Van Gogh bike ride, a desert car battle, a voxel Earth and more" width="100%"></a>
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**30 games · 21 playable in the browser · 5 with prompts** · Updated 2026-11-13
+**32 games · 23 playable in the browser · 5 with prompts** · Updated 2026-11-13
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -53,6 +53,8 @@ Sorted by our score, then by likes on the original post.
 | <a href="#tokyo-night-gp"><img src="assets/covers/tokyo-night-gp.jpg" width="160" alt="Tokyo Night GP cover"></a> | **[Tokyo Night GP](#tokyo-night-gp)** | [@nikodemszymansk](https://x.com/nikodemszymansk) | Claude Fable 5.2 | video only | [X](https://x.com/nikodemszymansk/status/2119880518875435022) | 4 |  | 8/10 |
 | <a href="#samurai-duel"><img src="assets/covers/samurai-duel.jpg" width="160" alt="Samurai Duel cover"></a> | **[Samurai Duel](#samurai-duel)** | [@tymarsha](https://x.com/tymarsha) | Claude Fable 5.2 | video only | [X](https://x.com/tymarsha/status/2119904015454810582) |  |  | 8/10 |
 | <a href="#aidens-revenge"><img src="assets/covers/aidens-revenge.jpg" width="160" alt="Aiden's Revenge cover"></a> | **[Aiden's Revenge](#aidens-revenge)** | Lex Toumbourou | Claude Fable 5.2 | [▶ Play](https://aidens-revenge.pages.dev/) | [blog post](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) |  |  | 8/10 |
+| <a href="#brasidas"><img src="assets/covers/brasidas.jpg" width="160" alt="Brasidas cover"></a> | **[Brasidas](#brasidas)** | [Mike Houser](https://x.com/M__Houser) | Tesana (model not stated) | [▶ Play](https://tesana.com/game/brasidas) | [X](https://x.com/TesanaAI/status/2115049380382437886) |  |  | 8/10 |
+| <a href="#body-cam"><img src="assets/covers/body-cam.jpg" width="160" alt="BODY-CAM cover"></a> | **[BODY-CAM](#body-cam)** | Juicer | Tesana (model not stated) | [▶ Play](https://tesana.com/game/body-cam) | [X](https://x.com/TesanaAI/status/2112043090043449620) |  |  | 7.8/10 |
 | <a href="#hogwarts-royale"><img src="assets/covers/hogwarts-royale.jpg" width="160" alt="Hogwarts Royale cover"></a> | **[Hogwarts Royale](#hogwarts-royale)** | [Matt Shumer](https://x.com/mattshumer_) | Claude Fable 5.2 | [▶ Play](https://www.spawn.co/@mattshumer/hogwarts-royale) | [X](https://x.com/mattshumer_/status/2119872098306810226) | 307 | ✓ | 7/10 |
 | <a href="#the-clockmakers-mansion"><img src="assets/covers/the-clockmakers-mansion.jpg" width="160" alt="The Clockmaker's Mansion cover"></a> | **[The Clockmaker's Mansion](#the-clockmakers-mansion)** | [@mihawkxxxxx](https://x.com/mihawkxxxxx) | Claude Fable 5.2 | video only | [X](https://x.com/mihawkxxxxx/status/2119909865296699749) | 11 |  | 7/10 |
 | <a href="#neon-coast"><img src="assets/covers/neon-coast.jpg" width="160" alt="Neon Coast cover"></a> | **[Neon Coast](#neon-coast)** | [@ashwinntwt](https://x.com/ashwinntwt) | Claude Fable 5.2 | video only | [X](https://x.com/ashwinntwt/status/2119890312382603459) | 8 |  | 7/10 |
@@ -576,6 +578,42 @@ A 1–4 player pixel-art beat 'em up dreamed up and drawn by a kid named Aiden, 
 - **Trailer, screenshots and details:** [vibegamer.io/game/aidens-revenge](https://vibegamer.io/game/aidens-revenge?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8/10 for visuals and polish.</sub>
+
+### Brasidas
+<a id="brasidas"></a>
+
+<a href="https://vibegamer.io/game/brasidas?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/brasidas.jpg" alt="Brasidas: cover art" width="100%"></a>
+
+A Halo-style 10v10 team shooter on a ring world: storm a tropical beach or fight across a marble sanctum above the clouds. Made in a few prompts on the AI game maker Tesana by Mike Houser, who also made Aestra.
+
+<p><img src="https://cdn.vibegamer.io/submissions/ad834a2e-c6c9-489c-8761-79695934f9d6-brasidas-shot-1.jpg" width="32%" alt="Brasidas gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/3f696eae-6cd8-43df-be8d-f81d1c298bdd-brasidas-shot-2.jpg" width="32%" alt="Brasidas gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/1dee48e5-ae95-4bc1-a4b2-07e55a90a2b1-brasidas-shot-3.jpg" width="32%" alt="Brasidas gameplay screenshot"></p>
+
+- **Made by:** Mike Houser ([@M__Houser](https://x.com/M__Houser))
+- **Model:** Tesana (model not stated)
+- **Play:** https://tesana.com/game/brasidas
+- **Original post:** https://x.com/TesanaAI/status/2115049380382437886
+- **Tags:** FPS, Shooter, Multiplayer, 3D
+- **Trailer, screenshots and details:** [vibegamer.io/game/brasidas](https://vibegamer.io/game/brasidas?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8/10 for visuals and polish.</sub>
+
+### BODY-CAM
+<a id="body-cam"></a>
+
+<a href="https://vibegamer.io/game/body-cam?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/body-cam.jpg" alt="BODY-CAM: cover art" width="100%"></a>
+
+A realistic body-camera police shooter: serve a warrant at 1147 Elm St. and clear a run-down house room by room with your squad, now with 5v5 multiplayer. Made by a creator called Juicer on the AI game maker Tesana; its most-played game this week.
+
+<p><img src="https://cdn.vibegamer.io/submissions/ab8b6cc1-a6be-4e5b-80bc-53245fdef72c-body-cam-shot-1.jpg" width="32%" alt="BODY-CAM gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/56e2ccd2-2e2f-40b5-874a-a3887dff0353-body-cam-shot-2.jpg" width="32%" alt="BODY-CAM gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/56725d61-5e9e-40e6-aa75-012cba1e3409-body-cam-shot-3.jpg" width="32%" alt="BODY-CAM gameplay screenshot"></p>
+
+- **Made by:** Juicer
+- **Model:** Tesana (model not stated)
+- **Play:** https://tesana.com/game/body-cam
+- **Original post:** https://x.com/TesanaAI/status/2112043090043449620
+- **Tags:** FPS, Shooter, 3D, Multiplayer
+- **Trailer, screenshots and details:** [vibegamer.io/game/body-cam](https://vibegamer.io/game/body-cam?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
 
 ### Hogwarts Royale
 <a id="hogwarts-royale"></a>

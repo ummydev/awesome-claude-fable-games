@@ -1,12 +1,12 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-22-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-14-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-27-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-19-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-<a href="https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/mosaic.jpg" alt="A wall of covers for games made with Claude Fable 5.2: a Van Gogh bike ride, a kart racer, a gothic boss fight, a voxel Earth and more" width="100%"></a>
+<a href="https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/mosaic.jpg" alt="A wall of covers for games made with Claude Fable 5.2: a wuxia mountain shrine, a Van Gogh bike ride, a desert car battle, a voxel Earth and more" width="100%"></a>
 
 A curated list of **games made with Claude Fable 5.2**, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**22 games · 14 playable in the browser · 5 with prompts** · Updated 2026-11-12
+**27 games · 19 playable in the browser · 5 with prompts** · Updated 2026-11-12
 
 Every game also has a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -31,13 +31,18 @@ Sorted by our score, then by likes on the original post.
 | <a href="#oil-paint"><img src="assets/covers/oil-paint.jpg" width="160" alt="Oil Paint cover"></a> | **[Oil Paint](#oil-paint)** | [Blendi](https://x.com/BlendiByl) | [▶ Play](https://patch.gg/blendi/oil-paint) | [X](https://x.com/BlendiByl/status/2120341251178594532) | 4K |  | 9/10 |
 | <a href="#starry-night-rider"><img src="assets/covers/starry-night-rider.jpg" width="160" alt="Starry Night Rider cover"></a> | **[Starry Night Rider](#starry-night-rider)** | [Ebby Amir](https://x.com/ebbyamir) | [▶ Play](https://starrynightrider.com) | [X](https://x.com/ebbyamir/status/2120284261089673376) | 3K |  | 9/10 |
 | <a href="#mirror-earth"><img src="assets/covers/mirror-earth.jpg" width="160" alt="Mirror Earth cover"></a> | **[Mirror Earth](#mirror-earth)** | [Matt Shumer](https://x.com/mattshumer_) | [▶ Play](https://www.spawn.co/@mattshumer/earth?room=local) | [X](https://x.com/mattshumer_/status/2119877065701036047) | 2.4K |  | 9/10 |
+| <a href="#mist-locked-gate"><img src="assets/covers/mist-locked-gate.jpg" width="160" alt="Mist-Locked Gate (雾锁山门) cover"></a> | **[Mist-Locked Gate (雾锁山门)](#mist-locked-gate)** | [歸藏 (Guizang)](https://x.com/op7418) | [▶ Play](https://op7418.github.io/guizang-game-skill/) | [X](https://x.com/op7418/status/2120694045299327187) | 769 |  | 9/10 |
 | <a href="#i-would-have-gotten-away-with-it"><img src="assets/covers/i-would-have-gotten-away-with-it.jpg" width="160" alt="I Would Have Gotten Away With It cover"></a> | **[I Would Have Gotten Away With It](#i-would-have-gotten-away-with-it)** | [Ethan Mollick](https://x.com/emollick) | [▶ Play](https://i-would-have-gotten-away-with-it.netlify.app) | [X](https://x.com/emollick/status/2119876449494540554) | 503 |  | 9/10 |
 | <a href="#gilt-and-gutter"><img src="assets/covers/gilt-and-gutter.jpg" width="160" alt="Gilt & Gutter cover"></a> | **[Gilt & Gutter](#gilt-and-gutter)** | [Kevin Ngo](https://x.com/kevin_t_ngo) | [▶ Play](https://gilt-and-gutter.vercel.app) | [X](https://x.com/kevin_t_ngo/status/2119900487688622171) | 318 |  | 9/10 |
+| <a href="#the-waking-river"><img src="assets/covers/the-waking-river.jpg" width="160" alt="The Waking River cover"></a> | **[The Waking River](#the-waking-river)** | [Florence](https://x.com/flxrnc) | [▶ Play](https://rivergame-kappa.vercel.app) | [X](https://x.com/flxrnc/status/2120494277528580110) | 86 |  | 9/10 |
 | <a href="#tidewright"><img src="assets/covers/tidewright.jpg" width="160" alt="Tidewright cover"></a> | **[Tidewright](#tidewright)** | [Felix Rieseberg](https://x.com/felixrieseberg) | [▶ Play](https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4) | [X](https://x.com/felixrieseberg/status/2119867839033352596) |  |  | 9/10 |
 | <a href="#the-clockmakers-heart"><img src="assets/covers/the-clockmakers-heart.jpg" width="160" alt="The Clockmaker's Heart cover"></a> | **[The Clockmaker's Heart](#the-clockmakers-heart)** | [Felix Rieseberg](https://x.com/felixrieseberg) | [▶ Play](https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa) | [X](https://x.com/felixrieseberg/status/2119867839033352596) | 283 |  | 8/10 |
+| <a href="#cayley"><img src="assets/covers/cayley.jpg" width="160" alt="Cayley cover"></a> | **[Cayley](#cayley)** | [Lionel Mora](https://x.com/lionel_mora) | [▶ Play](https://lauramionel.github.io/cayley-flight-simulator/) | [X](https://x.com/lionel_mora/status/2120554787812860294) | 280 |  | 8/10 |
+| <a href="#maad-maxxing"><img src="assets/covers/maad-maxxing.jpg" width="160" alt="MAAD MAXXING cover"></a> | **[MAAD MAXXING](#maad-maxxing)** | [Andrew Blumson](https://x.com/Andrew_Blumson) | [▶ Play](https://maad-maxxing.vercel.app) | [X](https://x.com/Andrew_Blumson/status/2120599812512833557) | 165 |  | 8/10 |
 | <a href="#turbo-tails"><img src="assets/covers/turbo-tails.jpg" width="160" alt="Turbo Tails cover"></a> | **[Turbo Tails](#turbo-tails)** | [Peter Yang](https://x.com/petergyang) | [▶ Play](https://turbo-tails.vercel.app) | [X](https://x.com/petergyang/status/2119901658394358005) | 137 | ✓ | 8/10 |
 | <a href="#party-royale"><img src="assets/covers/party-royale.jpg" width="160" alt="Party Royale cover"></a> | **[Party Royale](#party-royale)** | [Matthew Berman](https://x.com/MatthewBerman) | video only | [X](https://x.com/MatthewBerman/status/2119868630989254665) | 97 |  | 8/10 |
 | <a href="#fablecraft"><img src="assets/covers/fablecraft.jpg" width="160" alt="Fablecraft cover"></a> | **[Fablecraft](#fablecraft)** | [@RezAIT00](https://x.com/RezAIT00) | video only | [X](https://x.com/RezAIT00/status/2119902470205997344) | 71 | ✓ | 8/10 |
+| <a href="#lumenvale"><img src="assets/covers/lumenvale.jpg" width="160" alt="Lumenvale cover"></a> | **[Lumenvale](#lumenvale)** | [Sai](https://x.com/sai0xgen) | [▶ Play](https://claude.ai/artifact/9bekwKPUpCNDqEfgR8zwQa) | [X](https://x.com/sai0xgen/status/2120758436581589369) | 35 |  | 8/10 |
 | <a href="#rifts"><img src="assets/covers/rifts.jpg" width="160" alt="Rifts cover"></a> | **[Rifts](#rifts)** | [Abbi](https://x.com/Pumpnasterr) | [▶ Play](https://www.spawn.co/@abbidabbi/rifts) | [X](https://x.com/Pumpnasterr/status/2119895877250609238) | 31 |  | 8/10 |
 | <a href="#memory-of-teresa-the-storm-spire"><img src="assets/covers/memory-of-teresa-the-storm-spire.jpg" width="160" alt="Memory of Teresa: The Storm Spire cover"></a> | **[Memory of Teresa: The Storm Spire](#memory-of-teresa-the-storm-spire)** | [@OneHitKillDev](https://x.com/OneHitKillDev) | [▶ Play](https://www.spawn.co/@chocopuff/one-hit-kill) | [X](https://x.com/OneHitKillDev/status/2119882801222709524) | 31 |  | 8/10 |
 | <a href="#street-brawler-ii"><img src="assets/covers/street-brawler-ii.jpg" width="160" alt="Street Brawler II cover"></a> | **[Street Brawler II](#street-brawler-ii)** | [@BertrandDiouly](https://x.com/BertrandDiouly) | video only | [X](https://x.com/BertrandDiouly/status/2119886197648765001) | 21 |  | 8/10 |
@@ -62,7 +67,7 @@ A rain-soaked container-port FPS that Claude Fable 5.2 built in about eight hour
 
 - **Made by:** Felix Rieseberg ([@felixrieseberg](https://x.com/felixrieseberg))
 - **Play:** https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp
-- **Original post:** https://x.com/felixrieseberg/status/2119925633564463609 (13.6K likes, 4.0M views)
+- **Original post:** https://x.com/felixrieseberg/status/2119925633564463609 (13.6K likes, 4.0M views, checked November 11, 2026)
 - **Tags:** FPS, Shooter, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/saltline](https://vibegamer.io/game/saltline?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -85,7 +90,7 @@ A slow, lantern-lit boat ride through eight dreamlike worlds, made with Claude F
 
 - **Made by:** Kevin Ngo ([@kevin_t_ngo](https://x.com/kevin_t_ngo))
 - **Play:** https://what-the-water-keeps.vercel.app/
-- **Original post:** https://x.com/kevin_t_ngo/status/2119868968307695818 (4.1K likes, 465K views)
+- **Original post:** https://x.com/kevin_t_ngo/status/2119868968307695818 (4.1K likes, 465K views, checked November 11, 2026)
 - **Tags:** Adventure, 3D, Cosy
 - **Trailer, screenshots and details:** [vibegamer.io/game/what-the-water-keeps](https://vibegamer.io/game/what-the-water-keeps?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -102,7 +107,7 @@ Walk through an autumn forest that looks hand-painted: about 1.5 million brush s
 
 - **Made by:** Blendi ([@BlendiByl](https://x.com/BlendiByl))
 - **Play:** https://patch.gg/blendi/oil-paint
-- **Original post:** https://x.com/BlendiByl/status/2120341251178594532 (4K likes, 193.1K views)
+- **Original post:** https://x.com/BlendiByl/status/2120341251178594532 (4K likes, 193.1K views, checked November 11, 2026)
 - **Source:** open source, https://patch.gg/blendi/oil-paint
 - **Tags:** 3D, Cosy, Sandbox
 - **Trailer, screenshots and details:** [vibegamer.io/game/oil-paint](https://vibegamer.io/game/oil-paint?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
@@ -120,7 +125,7 @@ Ride a bicycle through the village of Van Gogh's The Starry Night, every street 
 
 - **Made by:** Ebby Amir ([@ebbyamir](https://x.com/ebbyamir))
 - **Play:** https://starrynightrider.com
-- **Original post:** https://x.com/ebbyamir/status/2120284261089673376 (3K likes, 173.4K views)
+- **Original post:** https://x.com/ebbyamir/status/2120284261089673376 (3K likes, 173.4K views, checked November 11, 2026)
 - **Tags:** 3D, Cosy, Adventure
 - **Trailer, screenshots and details:** [vibegamer.io/game/starry-night-rider](https://vibegamer.io/game/starry-night-rider?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -137,9 +142,26 @@ The whole planet in voxels, in your browser: go anywhere, break anything, with w
 
 - **Made by:** Matt Shumer ([@mattshumer_](https://x.com/mattshumer_))
 - **Play:** https://www.spawn.co/@mattshumer/earth?room=local
-- **Original post:** https://x.com/mattshumer_/status/2119877065701036047 (2.4K likes, 398.6K views)
+- **Original post:** https://x.com/mattshumer_/status/2119877065701036047 (2.4K likes, 398.6K views, checked November 11, 2026)
 - **Tags:** Open world, Sandbox, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/mirror-earth](https://vibegamer.io/game/mirror-earth?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 9/10 for visuals and polish.</sub>
+
+### Mist-Locked Gate (雾锁山门)
+<a id="mist-locked-gate"></a>
+
+<a href="https://vibegamer.io/game/mist-locked-gate?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/mist-locked-gate.jpg" alt="Mist-Locked Gate (雾锁山门): cover art" width="100%"></a>
+
+A wuxia action game in a snowy, lantern-lit mountain shrine, built by Claude Fable 5.2 in one afternoon as a single HTML file.
+
+<p><img src="https://cdn.vibegamer.io/submissions/f10cd3db-8794-489a-ab94-02d193f2d851-mist-locked-gate-shot-1.jpg" width="32%" alt="Mist-Locked Gate (雾锁山门) gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/90709c5a-abf5-4cc9-b6b8-9ca7801d85e9-mist-locked-gate-shot-2.jpg" width="32%" alt="Mist-Locked Gate (雾锁山门) gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/99c7217a-1068-4bf1-8695-949f75ddd5be-mist-locked-gate-shot-3.jpg" width="32%" alt="Mist-Locked Gate (雾锁山门) gameplay screenshot"></p>
+
+- **Made by:** 歸藏 (Guizang) ([@op7418](https://x.com/op7418))
+- **Play:** https://op7418.github.io/guizang-game-skill/
+- **Original post:** https://x.com/op7418/status/2120694045299327187 (769 likes, 176.4K views, checked November 12, 2026)
+- **Tags:** Action, Combat, 3D
+- **Trailer, screenshots and details:** [vibegamer.io/game/mist-locked-gate](https://vibegamer.io/game/mist-locked-gate?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 9/10 for visuals and polish.</sub>
 
@@ -154,7 +176,7 @@ A reverse Scooby-Doo: you are the villain of Grimsby Manor, and your job is to s
 
 - **Made by:** Ethan Mollick ([@emollick](https://x.com/emollick))
 - **Play:** https://i-would-have-gotten-away-with-it.netlify.app
-- **Original post:** https://x.com/emollick/status/2119876449494540554 (503 likes, 31.8K views)
+- **Original post:** https://x.com/emollick/status/2119876449494540554 (503 likes, 31.8K views, checked November 11, 2026)
 - **Tags:** Strategy, Story, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/i-would-have-gotten-away-with-it](https://vibegamer.io/game/i-would-have-gotten-away-with-it?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -171,9 +193,27 @@ A stylish 1v1 first-person shooter in a gilded arcade hall, where shots of your 
 
 - **Made by:** Kevin Ngo ([@kevin_t_ngo](https://x.com/kevin_t_ngo))
 - **Play:** https://gilt-and-gutter.vercel.app
-- **Original post:** https://x.com/kevin_t_ngo/status/2119900487688622171 (318 likes, 102.1K views)
+- **Original post:** https://x.com/kevin_t_ngo/status/2119900487688622171 (318 likes, 102.1K views, checked November 11, 2026)
 - **Tags:** FPS, Shooter, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/gilt-and-gutter](https://vibegamer.io/game/gilt-and-gutter?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 9/10 for visuals and polish.</sub>
+
+### The Waking River
+<a id="the-waking-river"></a>
+
+<a href="https://vibegamer.io/game/the-waking-river?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/the-waking-river.jpg" alt="The Waking River: cover art" width="100%"></a>
+
+Sail a golden boat through five sleeping worlds that wake as you pass, in a browser fantasy game made by Claude Fable 5.2.
+
+<p><img src="https://cdn.vibegamer.io/submissions/19c85d3f-695e-454c-8de6-fd781b3dc490-the-waking-river-shot-1.jpg" width="32%" alt="The Waking River gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/ef0b8dc9-3e35-4c4d-a32a-4bfcc92bac42-the-waking-river-shot-2.jpg" width="32%" alt="The Waking River gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/d7ae9702-f9b7-4aad-b0e9-f0c63f4f2179-the-waking-river-shot-3.jpg" width="32%" alt="The Waking River gameplay screenshot"></p>
+
+- **Made by:** Florence ([@flxrnc](https://x.com/flxrnc))
+- **Play:** https://rivergame-kappa.vercel.app
+- **Original post:** https://x.com/flxrnc/status/2120494277528580110 (86 likes, 4K views, checked November 12, 2026)
+- **Prompt:** the maker shared the full prompt as a PDF, https://drive.google.com/file/d/1P-t5me9yKRK9JjiAZlEfCfpacSv6cjM6/view
+- **Tags:** Adventure, Story, 3D
+- **Trailer, screenshots and details:** [vibegamer.io/game/the-waking-river](https://vibegamer.io/game/the-waking-river?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 9/10 for visuals and polish.</sub>
 
@@ -205,9 +245,44 @@ Wake a sleeping clockwork giant one gear puzzle at a time, a first draft by Clau
 
 - **Made by:** Felix Rieseberg ([@felixrieseberg](https://x.com/felixrieseberg))
 - **Play:** https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa
-- **Original post:** https://x.com/felixrieseberg/status/2119867839033352596 (283 likes)
+- **Original post:** https://x.com/felixrieseberg/status/2119867839033352596 (283 likes, checked November 11, 2026)
 - **Tags:** Puzzle, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/the-clockmakers-heart](https://vibegamer.io/game/the-clockmakers-heart?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8/10 for visuals and polish.</sub>
+
+### Cayley
+<a id="cayley"></a>
+
+<a href="https://vibegamer.io/game/cayley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/cayley.jpg" alt="Cayley: cover art" width="100%"></a>
+
+A browser flight simulator with real wing physics, 9 real aircraft and the whole planet streamed in 3D, built overnight by Claude Fable 5.2.
+
+<p><img src="https://cdn.vibegamer.io/submissions/0c261bdd-fcf9-4c59-b636-10cb622f75b8-cayley-shot-1.jpg" width="32%" alt="Cayley gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/53ab6e43-1493-4a3f-8dbf-8829ae46ec31-cayley-shot-2.jpg" width="32%" alt="Cayley gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/ed0d985f-f52d-40bc-bd0b-6afdd6fe45d5-cayley-shot-3.jpg" width="32%" alt="Cayley gameplay screenshot"></p>
+
+- **Made by:** Lionel Mora ([@lionel_mora](https://x.com/lionel_mora))
+- **Play:** https://lauramionel.github.io/cayley-flight-simulator/
+- **Original post:** https://x.com/lionel_mora/status/2120554787812860294 (280 likes, 14.8K views, checked November 12, 2026)
+- **Source:** open source, https://github.com/lauramionel/cayley-flight-simulator
+- **Tags:** Flight, Simulation, 3D
+- **Trailer, screenshots and details:** [vibegamer.io/game/cayley](https://vibegamer.io/game/cayley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8/10 for visuals and polish.</sub>
+
+### MAAD MAXXING
+<a id="maad-maxxing"></a>
+
+<a href="https://vibegamer.io/game/maad-maxxing?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/maad-maxxing.jpg" alt="MAAD MAXXING: cover art" width="100%"></a>
+
+A Mad Max-style desert car-combat game in three.js and WebGPU, written by Claude Fable 5.2 in 100% code with no models or textures.
+
+<p><img src="https://cdn.vibegamer.io/submissions/9bd81e4e-8f23-4c94-8d1b-77de17a8f1f2-maad-maxxing-shot-1.jpg" width="32%" alt="MAAD MAXXING gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8b62de74-5fc2-4bcc-8c28-62edb6694c65-maad-maxxing-shot-2.jpg" width="32%" alt="MAAD MAXXING gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/13468ed0-a76a-474f-87f5-e4a13f032b18-maad-maxxing-shot-3.jpg" width="32%" alt="MAAD MAXXING gameplay screenshot"></p>
+
+- **Made by:** Andrew Blumson ([@Andrew_Blumson](https://x.com/Andrew_Blumson))
+- **Play:** https://maad-maxxing.vercel.app
+- **Original post:** https://x.com/Andrew_Blumson/status/2120599812512833557 (165 likes, 37.4K views, checked November 12, 2026)
+- **Tags:** Driving, Action, 3D
+- **Trailer, screenshots and details:** [vibegamer.io/game/maad-maxxing](https://vibegamer.io/game/maad-maxxing?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8/10 for visuals and polish.</sub>
 
@@ -222,7 +297,7 @@ A 3D kart racer with six animal drivers, drifting and items, playable free in th
 
 - **Made by:** Peter Yang ([@petergyang](https://x.com/petergyang))
 - **Play:** https://turbo-tails.vercel.app
-- **Original post:** https://x.com/petergyang/status/2119901658394358005 (137 likes, 31.7K views)
+- **Original post:** https://x.com/petergyang/status/2119901658394358005 (137 likes, 31.7K views, checked November 11, 2026)
 - **Tags:** Racing, Multiplayer, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/turbo-tails](https://vibegamer.io/game/turbo-tails?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -248,7 +323,7 @@ A Fall Guys-style party royale with dozens of jelly-bean players, fake doors and
 
 - **Made by:** Matthew Berman ([@MatthewBerman](https://x.com/MatthewBerman))
 - **Play:** no public build yet; watch the gameplay video in the post
-- **Original post:** https://x.com/MatthewBerman/status/2119868630989254665 (97 likes, 11.7K views)
+- **Original post:** https://x.com/MatthewBerman/status/2119868630989254665 (97 likes, 11.7K views, checked November 11, 2026)
 - **Tags:** Party, Multiplayer, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/party-royale](https://vibegamer.io/game/party-royale?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -265,7 +340,7 @@ An infinite voxel sandbox with HDR lighting in a single HTML file, made in two p
 
 - **Made by:** @RezAIT00 ([X](https://x.com/RezAIT00))
 - **Play:** no public build yet; watch the gameplay video in the post
-- **Original post:** https://x.com/RezAIT00/status/2119902470205997344 (71 likes, 7.9K views)
+- **Original post:** https://x.com/RezAIT00/status/2119902470205997344 (71 likes, 7.9K views, checked November 11, 2026)
 - **Tags:** Sandbox, Open world, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/fablecraft](https://vibegamer.io/game/fablecraft?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -280,6 +355,23 @@ eh looks basic, make it hdr
 
 <sub>Our score: 8/10 for visuals and polish.</sub>
 
+### Lumenvale
+<a id="lumenvale"></a>
+
+<a href="https://vibegamer.io/game/lumenvale?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/lumenvale.jpg" alt="Lumenvale: cover art" width="100%"></a>
+
+A gentle open-world fantasy: wake the seven sleeping shrines of a flower valley. Claude Fable 5.2 made the game, its music and its trailer.
+
+<p><img src="https://cdn.vibegamer.io/submissions/bd335f70-2aa4-494d-a610-340bf4b30158-lumenvale-shot-1.jpg" width="32%" alt="Lumenvale gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/2e19e85d-6aeb-4744-89ab-2360e298f584-lumenvale-shot-2.jpg" width="32%" alt="Lumenvale gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/15be30ce-9483-4dde-aeb1-f18104fa97f1-lumenvale-shot-3.jpg" width="32%" alt="Lumenvale gameplay screenshot"></p>
+
+- **Made by:** Sai ([@sai0xgen](https://x.com/sai0xgen))
+- **Play:** https://claude.ai/artifact/9bekwKPUpCNDqEfgR8zwQa
+- **Original post:** https://x.com/sai0xgen/status/2120758436581589369 (35 likes, 1.1K views, checked November 12, 2026)
+- **Tags:** Open world, Adventure, Cosy
+- **Trailer, screenshots and details:** [vibegamer.io/game/lumenvale](https://vibegamer.io/game/lumenvale?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8/10 for visuals and polish.</sub>
+
 ### Rifts
 <a id="rifts"></a>
 
@@ -291,7 +383,7 @@ An Overwatch-style 3v3 hero brawler with 12 heroes, world-hopping rifts and boss
 
 - **Made by:** Abbi ([@Pumpnasterr](https://x.com/Pumpnasterr))
 - **Play:** https://www.spawn.co/@abbidabbi/rifts
-- **Original post:** https://x.com/Pumpnasterr/status/2119895877250609238 (31 likes, 1.8K views)
+- **Original post:** https://x.com/Pumpnasterr/status/2119895877250609238 (31 likes, 1.8K views, checked November 11, 2026)
 - **Tags:** Action, Multiplayer, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/rifts](https://vibegamer.io/game/rifts?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -308,7 +400,7 @@ A dark gothic boss fight on a storm-lashed cathedral spire, lightning against bl
 
 - **Made by:** @OneHitKillDev ([X](https://x.com/OneHitKillDev))
 - **Play:** https://www.spawn.co/@chocopuff/one-hit-kill
-- **Original post:** https://x.com/OneHitKillDev/status/2119882801222709524 (31 likes, 1.5K views)
+- **Original post:** https://x.com/OneHitKillDev/status/2119882801222709524 (31 likes, 1.5K views, checked November 11, 2026)
 - **Tags:** Dark fantasy, Action, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/memory-of-teresa-the-storm-spire](https://vibegamer.io/game/memory-of-teresa-the-storm-spire?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -325,7 +417,7 @@ A pixel-art arcade fighter with eight original fighters and eight stages, one-sh
 
 - **Made by:** @BertrandDiouly ([X](https://x.com/BertrandDiouly))
 - **Play:** no public build yet; watch the gameplay video in the post
-- **Original post:** https://x.com/BertrandDiouly/status/2119886197648765001 (21 likes, 559 views)
+- **Original post:** https://x.com/BertrandDiouly/status/2119886197648765001 (21 likes, 559 views, checked November 11, 2026)
 - **Tags:** Retro, Combat, 2D
 - **Trailer, screenshots and details:** [vibegamer.io/game/street-brawler-ii](https://vibegamer.io/game/street-brawler-ii?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -342,7 +434,7 @@ Shrink down to toy size and explore a sunlit kids' bedroom, built by Claude Fabl
 
 - **Made by:** Sotiris Kaniras ([@itssotsot](https://x.com/itssotsot))
 - **Play:** no public build yet; watch the gameplay video in the post
-- **Original post:** https://x.com/itssotsot/status/2119909017216491720 (5 likes, 343 views)
+- **Original post:** https://x.com/itssotsot/status/2119909017216491720 (5 likes, 343 views, checked November 11, 2026)
 - **Tags:** 3D, Adventure, Cosy
 - **Trailer, screenshots and details:** [vibegamer.io/game/toy-room-adventure](https://vibegamer.io/game/toy-room-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -365,7 +457,7 @@ Race five rivals through neon Tokyo at night on wet, reflective asphalt: one pro
 
 - **Made by:** @nikodemszymansk ([X](https://x.com/nikodemszymansk))
 - **Play:** no public build yet; watch the gameplay video in the post
-- **Original post:** https://x.com/nikodemszymansk/status/2119880518875435022 (4 likes, 1K views)
+- **Original post:** https://x.com/nikodemszymansk/status/2119880518875435022 (4 likes, 1K views, checked November 11, 2026)
 - **Tags:** Racing, Driving, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/tokyo-night-gp](https://vibegamer.io/game/tokyo-night-gp?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -416,7 +508,7 @@ A wizard-school battle royale on brooms, from a single prompt: "create a mashup 
 
 - **Made by:** Matt Shumer ([@mattshumer_](https://x.com/mattshumer_))
 - **Play:** https://www.spawn.co/@mattshumer/hogwarts-royale
-- **Original post:** https://x.com/mattshumer_/status/2119872098306810226 (307 likes, 169.6K views)
+- **Original post:** https://x.com/mattshumer_/status/2119872098306810226 (307 likes, 169.6K views, checked November 11, 2026)
 - **Tags:** Battle royale, Fan game, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/hogwarts-royale](https://vibegamer.io/game/hogwarts-royale?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -439,7 +531,7 @@ A Roblox horror game where a clock-faced owner hunts you through his mansion, bu
 
 - **Made by:** @mihawkxxxxx ([X](https://x.com/mihawkxxxxx))
 - **Play:** no public build yet; watch the gameplay video in the post
-- **Original post:** https://x.com/mihawkxxxxx/status/2119909865296699749 (11 likes, 1.2K views)
+- **Original post:** https://x.com/mihawkxxxxx/status/2119909865296699749 (11 likes, 1.2K views, checked November 11, 2026)
 - **Tags:** Horror, 3D, Adventure
 - **Trailer, screenshots and details:** [vibegamer.io/game/the-clockmakers-mansion](https://vibegamer.io/game/the-clockmakers-mansion?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -456,7 +548,7 @@ Fast cars, hot nights, bad ideas: a GTA-style driving game in a pink-lit Miami b
 
 - **Made by:** @ashwinntwt ([X](https://x.com/ashwinntwt))
 - **Play:** no public build yet; watch the gameplay video in the post
-- **Original post:** https://x.com/ashwinntwt/status/2119890312382603459 (8 likes, 1.1K views)
+- **Original post:** https://x.com/ashwinntwt/status/2119890312382603459 (8 likes, 1.1K views, checked November 11, 2026)
 - **Tags:** Driving, Open world, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/neon-coast](https://vibegamer.io/game/neon-coast?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -467,7 +559,7 @@ Fast cars, hot nights, bad ideas: a GTA-style driving game in a pink-lit Miami b
 - The maker says the game was made with **Claude Fable 5.2** (posts about other models are left out).
 - It looks good: we skip rough prototypes. The score (out of 10) is ours, for visuals, polish and ambition.
 - We open every post and its replies by hand to find the play link, the tools used and any prompt the maker shared.
-- Likes and views are what the original post showed when we checked it (November 11, 2026).
+- Likes and views are what the original post showed on the day we checked it, given with each game.
 - Machine-readable list: [`data/games.json`](data/games.json).
 
 ## Add a game

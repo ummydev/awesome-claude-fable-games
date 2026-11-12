@@ -33,7 +33,8 @@
   "trailer": "https://cdn.vibegamer.io/submissions/75328556-01f3-4b68-ba0d-444584c4aad2-saltline-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/saltline",
   "prompt_note": "the opening of the prompt, from the maker's reply",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "what-the-water-keeps",
@@ -66,7 +67,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/946fb1f1-e58f-4a81-9a9e-ceb12ba5a9fd-what-the-water-keeps-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/what-the-water-keeps",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "oil-paint",
@@ -97,7 +99,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/212e497f-6b2a-4846-bc18-f670786505d1-oil-paint-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/oil-paint",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "starry-night-rider",
@@ -128,7 +131,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/2ff4ce82-09ed-4e0c-8c7a-a1fe50f1a06b-starry-night-rider-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/starry-night-rider",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "mirror-earth",
@@ -161,7 +165,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/70673f2b-9d32-4dc1-bfbd-8c2e97897ba2-mirror-earth-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/mirror-earth",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "mist-locked-gate",
@@ -193,7 +198,8 @@
   "trailer": "https://cdn.vibegamer.io/submissions/f67f924e-8ca5-4333-be86-546a71b63946-mist-locked-gate-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/mist-locked-gate",
   "checked_on": "2026-11-12",
-  "cover": "assets/covers/mist-locked-gate.jpg"
+  "cover": "assets/covers/mist-locked-gate.jpg",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "i-would-have-gotten-away-with-it",
@@ -226,7 +232,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/75d13cb3-d446-43d4-a057-30da88abb307-i-would-have-gotten-away-with-it-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/i-would-have-gotten-away-with-it",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "gilt-and-gutter",
@@ -258,7 +265,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/80199710-e750-479d-9717-53e24f978421-gilt-and-gutter-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/gilt-and-gutter",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "the-waking-river",
@@ -293,7 +301,8 @@
   "checked_on": "2026-11-12",
   "prompt_url": "https://drive.google.com/file/d/1P-t5me9yKRK9JjiAZlEfCfpacSv6cjM6/view",
   "prompt_note": "the maker shared the full prompt as a PDF",
-  "cover": "assets/covers/the-waking-river.jpg"
+  "cover": "assets/covers/the-waking-river.jpg",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "tidewright",
@@ -319,7 +328,8 @@
   ],
   "trailer": null,
   "vibegamer_url": "https://vibegamer.io/game/tidewright",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "the-clockmakers-heart",
@@ -345,7 +355,8 @@
   ],
   "trailer": null,
   "vibegamer_url": "https://vibegamer.io/game/the-clockmakers-heart",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "cayley",
@@ -375,7 +386,8 @@
   "trailer": "https://cdn.vibegamer.io/submissions/3d23d741-fa56-4338-b52c-0772e3496750-cayley-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/cayley",
   "checked_on": "2026-11-12",
-  "cover": "assets/covers/cayley.jpg"
+  "cover": "assets/covers/cayley.jpg",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "maad-maxxing",
@@ -407,7 +419,8 @@
   "trailer": "https://cdn.vibegamer.io/submissions/5b2598f3-5a4a-4ec0-b7f0-37543b64f460-maad-maxxing-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/maad-maxxing",
   "checked_on": "2026-11-12",
-  "cover": "assets/covers/maad-maxxing.jpg"
+  "cover": "assets/covers/maad-maxxing.jpg",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "turbo-tails",
@@ -443,7 +456,8 @@
   "trailer": "https://cdn.vibegamer.io/submissions/a6772544-11bb-4ea9-9bbe-adb7a9cfe892-turbo-tails-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/turbo-tails",
   "prompt_note": "two of the three prompts, from the maker's replies",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "party-royale",
@@ -476,7 +490,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/49accead-dbc4-4cd6-960f-15138797e437-party-royale-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/party-royale",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "fablecraft",
@@ -513,7 +528,8 @@
   "trailer": "https://cdn.vibegamer.io/submissions/d6708d77-d3f8-427b-b49b-7e50d551e276-fablecraft-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/fablecraft",
   "prompt_note": "both prompts, run on extra-high effort",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "lumenvale",
@@ -545,7 +561,8 @@
   "trailer": "https://cdn.vibegamer.io/submissions/43e4a1ff-5fdf-4901-bb90-f02c49e01e4d-lumenvale-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/lumenvale",
   "checked_on": "2026-11-12",
-  "cover": "assets/covers/lumenvale.jpg"
+  "cover": "assets/covers/lumenvale.jpg",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "rifts",
@@ -577,7 +594,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/9bcf3364-8d23-49be-a7f9-9e5df286a760-rifts-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/rifts",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "memory-of-teresa-the-storm-spire",
@@ -610,7 +628,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/206acc70-39ed-4212-83bd-6ddbfaf1d3cd-memory-of-teresa-the-storm-spire-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/memory-of-teresa-the-storm-spire",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "street-brawler-ii",
@@ -643,7 +662,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/ec5c9678-7632-442e-8dd9-cdef383d375b-street-brawler-ii-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/street-brawler-ii",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "toy-room-adventure",
@@ -677,7 +697,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/88cbed5e-e182-42c9-874d-e8b97f2e213d-toy-room-adventure-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/toy-room-adventure",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "tokyo-night-gp",
@@ -710,7 +731,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/986d2063-dd69-4598-92ef-71fd8be8d7b5-tokyo-night-gp-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/tokyo-night-gp",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "samurai-duel",
@@ -741,7 +763,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/4bb3476f-785f-4655-8d0b-5d87503bd0c1-samurai-duel-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/samurai-duel",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "aidens-revenge",
@@ -768,7 +791,8 @@
   ],
   "trailer": null,
   "vibegamer_url": "https://vibegamer.io/game/aidens-revenge",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "hogwarts-royale",
@@ -803,7 +827,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/f073d82b-d2b2-4675-b87c-fd3aa802ca53-hogwarts-royale-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/hogwarts-royale",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "the-clockmakers-mansion",
@@ -834,7 +859,8 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/e7cc9ba7-5358-411f-b903-a05f5315a295-the-clockmakers-mansion-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/the-clockmakers-mansion",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "neon-coast",
@@ -867,6 +893,7 @@
   ],
   "trailer": "https://cdn.vibegamer.io/submissions/488567ac-7b1b-449f-99ab-e3cf01b3659e-neon-coast-trailer.mp4",
   "vibegamer_url": "https://vibegamer.io/game/neon-coast",
-  "checked_on": "2026-11-11"
+  "checked_on": "2026-11-11",
+  "model": "Claude Fable 5.2"
  }
 ]

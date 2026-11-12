@@ -10,6 +10,8 @@ A curated list of **games made with Claude Fable 5.2**, Anthropic's model releas
 
 Every game also has a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
+More from Claude: **[awesome-claude-fable-videos](https://github.com/ummydev/awesome-claude-fable-videos)** (films and 3D worlds) and **[awesome-claude-motion-video](https://github.com/ummydev/awesome-claude-motion-video)** (launch films and motion graphics made with Opus 5.5).
+
 ## Contents
 
 - [All games](#all-games)

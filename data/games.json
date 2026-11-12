@@ -424,6 +424,39 @@
   "model": "Claude Fable 5.2"
  },
  {
+  "slug": "aestra-the-last-wish",
+  "name": "Aestra: The Last Wish",
+  "headline": "A permadeath pixel-art action RPG you play online with others: 9 classes, 100 levels, 3 raids and one life. Its maker quit his job, can't code, and built it with Opus 5.5 on the AI game maker Tesana; over 27,000 players so far.",
+  "maker": "Mike Houser",
+  "maker_handle": "M__Houser",
+  "play_url": "https://tesana.com/game/aestra-the-last-wish",
+  "post_url": "https://x.com/M__Houser/status/2115438489995190285",
+  "likes_at_check": 281,
+  "views_at_check": 23500,
+  "score": 8,
+  "tags": [
+   "RPG",
+   "Action",
+   "Multiplayer",
+   "2D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/a656780e-dc68-4450-a3d3-fa33bc010e9d-aestra-the-last-wish-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/025fa76e-d387-404f-9c0e-21fa350ba898-aestra-the-last-wish-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/68bde02c-1179-4bd4-8a1d-a5c123f12a2e-aestra-the-last-wish-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/bad19bbc-f980-46d2-aadb-ff4d78cd84c8-aestra-the-last-wish-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/899ef647-1833-4ea7-a60f-515874cdd9b2-aestra-the-last-wish-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/cfdf481c-1434-4e0b-b4af-4875e93247e6-aestra-the-last-wish-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/aestra-the-last-wish",
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Claude Opus 5.5 (on Tesana)",
+  "cover": "assets/covers/aestra-the-last-wish.jpg"
+ },
+ {
   "slug": "cayley",
   "name": "Cayley",
   "headline": "A browser flight simulator with real wing physics, 9 real aircraft and the whole planet streamed in 3D, built overnight by Claude Fable 5.2.",

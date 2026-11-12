@@ -1,12 +1,12 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-29-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-20-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-30-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-21-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <a href="https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/mosaic.jpg" alt="A wall of covers for games made with Claude Fable 5.2: a wuxia mountain shrine, a Van Gogh bike ride, a desert car battle, a voxel Earth and more" width="100%"></a>
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**29 games · 20 playable in the browser · 5 with prompts** · Updated 2026-11-13
+**30 games · 21 playable in the browser · 5 with prompts** · Updated 2026-11-13
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -39,6 +39,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#tidewright"><img src="assets/covers/tidewright.jpg" width="160" alt="Tidewright cover"></a> | **[Tidewright](#tidewright)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play](https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4) | [X](https://x.com/felixrieseberg/status/2119867839033352596) |  |  | 9/10 |
 | <a href="#danfo-run"><img src="assets/covers/danfo-run.jpg" width="160" alt="Danfo Run cover"></a> | **[Danfo Run](#danfo-run)** | [Eureka](https://x.com/eureka_seamless) | Claude (version not stated) | [▶ Play](https://danforun.com) | [X](https://x.com/eureka_seamless/status/2103938108668420286) | 36.8K |  | 8/10 |
 | <a href="#the-clockmakers-heart"><img src="assets/covers/the-clockmakers-heart.jpg" width="160" alt="The Clockmaker's Heart cover"></a> | **[The Clockmaker's Heart](#the-clockmakers-heart)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play](https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa) | [X](https://x.com/felixrieseberg/status/2119867839033352596) | 283 |  | 8/10 |
+| <a href="#aestra-the-last-wish"><img src="assets/covers/aestra-the-last-wish.jpg" width="160" alt="Aestra: The Last Wish cover"></a> | **[Aestra: The Last Wish](#aestra-the-last-wish)** | [Mike Houser](https://x.com/M__Houser) | Claude Opus 5.5 (on Tesana) | [▶ Play](https://tesana.com/game/aestra-the-last-wish) | [X](https://x.com/M__Houser/status/2115438489995190285) | 281 |  | 8/10 |
 | <a href="#cayley"><img src="assets/covers/cayley.jpg" width="160" alt="Cayley cover"></a> | **[Cayley](#cayley)** | [Lionel Mora](https://x.com/lionel_mora) | Claude Fable 5.2 | [▶ Play](https://lauramionel.github.io/cayley-flight-simulator/) | [X](https://x.com/lionel_mora/status/2120554787812860294) | 280 |  | 8/10 |
 | <a href="#maad-maxxing"><img src="assets/covers/maad-maxxing.jpg" width="160" alt="MAAD MAXXING cover"></a> | **[MAAD MAXXING](#maad-maxxing)** | [Andrew Blumson](https://x.com/Andrew_Blumson) | Claude Fable 5.2 | [▶ Play](https://maad-maxxing.vercel.app) | [X](https://x.com/Andrew_Blumson/status/2120599812512833557) | 165 |  | 8/10 |
 | <a href="#turbo-tails"><img src="assets/covers/turbo-tails.jpg" width="160" alt="Turbo Tails cover"></a> | **[Turbo Tails](#turbo-tails)** | [Peter Yang](https://x.com/petergyang) | Claude Fable 5.2 | [▶ Play](https://turbo-tails.vercel.app) | [X](https://x.com/petergyang/status/2119901658394358005) | 137 | ✓ | 8/10 |
@@ -296,6 +297,24 @@ Wake a sleeping clockwork giant one gear puzzle at a time, a first draft by Clau
 - **Original post:** https://x.com/felixrieseberg/status/2119867839033352596 (283 likes, checked November 11, 2026)
 - **Tags:** Puzzle, 3D
 - **Trailer, screenshots and details:** [vibegamer.io/game/the-clockmakers-heart](https://vibegamer.io/game/the-clockmakers-heart?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8/10 for visuals and polish.</sub>
+
+### Aestra: The Last Wish
+<a id="aestra-the-last-wish"></a>
+
+<a href="https://vibegamer.io/game/aestra-the-last-wish?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/aestra-the-last-wish.jpg" alt="Aestra: The Last Wish: cover art" width="100%"></a>
+
+A permadeath pixel-art action RPG you play online with others: 9 classes, 100 levels, 3 raids and one life. Its maker quit his job, can't code, and built it with Opus 5.5 on the AI game maker Tesana; over 27,000 players so far.
+
+<p><img src="https://cdn.vibegamer.io/submissions/a656780e-dc68-4450-a3d3-fa33bc010e9d-aestra-the-last-wish-shot-1.jpg" width="32%" alt="Aestra: The Last Wish gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/025fa76e-d387-404f-9c0e-21fa350ba898-aestra-the-last-wish-shot-2.jpg" width="32%" alt="Aestra: The Last Wish gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/68bde02c-1179-4bd4-8a1d-a5c123f12a2e-aestra-the-last-wish-shot-3.jpg" width="32%" alt="Aestra: The Last Wish gameplay screenshot"></p>
+
+- **Made by:** Mike Houser ([@M__Houser](https://x.com/M__Houser))
+- **Model:** Claude Opus 5.5 (on Tesana)
+- **Play:** https://tesana.com/game/aestra-the-last-wish
+- **Original post:** https://x.com/M__Houser/status/2115438489995190285 (281 likes, 23.5K views, checked November 13, 2026)
+- **Tags:** RPG, Action, Multiplayer, 2D
+- **Trailer, screenshots and details:** [vibegamer.io/game/aestra-the-last-wish](https://vibegamer.io/game/aestra-the-last-wish?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8/10 for visuals and polish.</sub>
 

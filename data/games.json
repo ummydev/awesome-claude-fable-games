@@ -457,6 +457,40 @@
   "cover": "assets/covers/great-wave.jpg"
  },
  {
+  "slug": "skywake",
+  "name": "Skywake: Kite & Mo's Big Flight",
+  "headline": "A storybook flying adventure: ride Mo, a big gliding sky creature, over a turquoise lagoon of rock spires, sing to giant masked Tallwalkers and dodge the lamps that throw nets. Made with Gemini 4 Argon, then refreshed with Claude Opus 5.5.",
+  "maker": "Aniket J",
+  "maker_handle": "aniketjart",
+  "play_url": "https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057",
+  "post_url": "https://x.com/aniketjart/status/2117508141076378029",
+  "likes_at_check": 203,
+  "views_at_check": null,
+  "score": 8.2,
+  "tags": [
+   "Flight",
+   "Adventure",
+   "3D",
+   "Cosy"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/78eb585d-d9a3-4af3-a712-01baecc2dd11-skywake-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/5ed60feb-f271-4ffc-bbda-5bedf984bbf5-skywake-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/54cbd744-6f17-4b38-8571-15f6acf38003-skywake-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/6f89f006-46d4-4768-a647-3aee58ede9e3-skywake-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/abfd1a02-caef-48dc-8f97-fdd8697be731-skywake-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/a79a6c84-d546-4e9f-a293-88ffe799b12f-skywake-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/e4b26f7d-f107-4bdb-855a-d62b4e6075df-skywake-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/skywake",
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Gemini 4 Argon and Claude Opus 5.5",
+  "cover": "assets/covers/skywake.jpg"
+ },
+ {
   "slug": "valley-ride",
   "name": "Valley Ride",
   "headline": "A calm horse ride across a mountain valley to a campfire at sunset, in three.js and WebGPU. Built in two days with Claude Opus 5.5 and Fable 5.2, and open source.",

@@ -1,12 +1,12 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-39-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-28-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-40-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-29-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <a href="https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/mosaic.jpg" alt="A wall of covers for games made with Claude Fable 5.2: a wuxia mountain shrine, a Van Gogh bike ride, a desert car battle, a voxel Earth and more" width="100%"></a>
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**39 games · 28 playable in the browser · 5 with prompts** · Updated 2026-11-13
+**40 games · 29 playable in the browser · 5 with prompts** · Updated 2026-11-13
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -40,6 +40,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#parallax"><img src="assets/covers/parallax.jpg" width="160" alt="Parallax cover"></a> | **[Parallax](#parallax)** | [Sholto Douglas](https://x.com/_sholtodouglas) | Claude Fable 5.2 | video only | [X](https://x.com/_sholtodouglas/status/2119935331499925557) | 1.9K |  | 8.5/10 |
 | <a href="#dragon-rider"><img src="assets/covers/dragon-rider.jpg" width="160" alt="Dragon Rider cover"></a> | **[Dragon Rider](#dragon-rider)** | [Future Brian](https://x.com/ForwardEditor) | Claude Fable 5.2 | video only | [X](https://x.com/ForwardEditor/status/2119867743965163994) | 461 |  | 8.5/10 |
 | <a href="#great-wave"><img src="assets/covers/great-wave.jpg" width="160" alt="Great Wave cover"></a> | **[Great Wave](#great-wave)** | [Nil Ni](https://x.com/_nilni) | Claude Fable 5.2 | [▶ Play URL](https://www.aigameshare.com/games/great-wave-off-kanagawa) | [X](https://x.com/_nilni/status/2120797996610994355) | 7 |  | 8.3/10 |
+| <a href="#skywake"><img src="assets/covers/skywake.jpg" width="160" alt="Skywake: Kite & Mo's Big Flight cover"></a> | **[Skywake: Kite & Mo's Big Flight](#skywake)** | [Aniket J](https://x.com/aniketjart) | Gemini 4 Argon and Claude Opus 5.5 | [▶ Play URL](https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057) | [X](https://x.com/aniketjart/status/2117508141076378029) | 203 |  | 8.2/10 |
 | <a href="#valley-ride"><img src="assets/covers/valley-ride.jpg" width="160" alt="Valley Ride cover"></a> | **[Valley Ride](#valley-ride)** | [Prasenjit](https://x.com/prasenx) | Claude Opus 5.5 and Claude Fable 5.2 | [▶ Play URL](https://starknightt.github.io/valley-ride/) | [X](https://x.com/prasenx/status/2120565971270459430) | 162 |  | 8.2/10 |
 | <a href="#danfo-run"><img src="assets/covers/danfo-run.jpg" width="160" alt="Danfo Run cover"></a> | **[Danfo Run](#danfo-run)** | [Eureka](https://x.com/eureka_seamless) | Claude (version not stated) | [▶ Play URL](https://danforun.com) | [X](https://x.com/eureka_seamless/status/2103938108668420286) | 36.8K |  | 8/10 |
 | <a href="#the-clockmakers-heart"><img src="assets/covers/the-clockmakers-heart.jpg" width="160" alt="The Clockmaker's Heart cover"></a> | **[The Clockmaker's Heart](#the-clockmakers-heart)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa) | [X](https://x.com/felixrieseberg/status/2119867839033352596) | 283 |  | 8/10 |
@@ -324,6 +325,24 @@ Surf Hokusai's Great Wave off Kanagawa: the woodblock print becomes a game where
 - **Great Wave on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/great-wave](https://vibegamer.io/game/great-wave?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8.3/10 for visuals and polish.</sub>
+
+### Skywake: Kite & Mo's Big Flight
+<a id="skywake"></a>
+
+<a href="https://vibegamer.io/game/skywake?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/skywake.jpg" alt="Skywake: Kite & Mo's Big Flight: cover art" width="100%"></a>
+
+A storybook flying adventure: ride Mo, a big gliding sky creature, over a turquoise lagoon of rock spires, sing to giant masked Tallwalkers and dodge the lamps that throw nets. Made with Gemini 4 Argon, then refreshed with Claude Opus 5.5.
+
+<p><img src="https://cdn.vibegamer.io/submissions/78eb585d-d9a3-4af3-a712-01baecc2dd11-skywake-shot-1.jpg" width="32%" alt="Skywake: Kite & Mo's Big Flight gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/5ed60feb-f271-4ffc-bbda-5bedf984bbf5-skywake-shot-2.jpg" width="32%" alt="Skywake: Kite & Mo's Big Flight gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/54cbd744-6f17-4b38-8571-15f6acf38003-skywake-shot-3.jpg" width="32%" alt="Skywake: Kite & Mo's Big Flight gameplay screenshot"></p>
+
+- **Made by:** Aniket J ([@aniketjart](https://x.com/aniketjart))
+- **Model:** Gemini 4 Argon and Claude Opus 5.5
+- **Skywake: Kite & Mo's Big Flight game URL:** https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057
+- **Original post:** https://x.com/aniketjart/status/2117508141076378029 (203 likes, checked November 13, 2026)
+- **Tags:** Flight, Adventure, 3D, Cosy
+- **Skywake: Kite & Mo's Big Flight on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/skywake](https://vibegamer.io/game/skywake?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.2/10 for visuals and polish.</sub>
 
 ### Valley Ride
 <a id="valley-ride"></a>

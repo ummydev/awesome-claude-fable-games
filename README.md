@@ -1,12 +1,12 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-34-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-25-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-36-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-25-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <a href="https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/mosaic.jpg" alt="A wall of covers for games made with Claude Fable 5.2: a wuxia mountain shrine, a Van Gogh bike ride, a desert car battle, a voxel Earth and more" width="100%"></a>
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**34 games · 25 playable in the browser · 5 with prompts** · Updated 2026-11-13
+**36 games · 25 playable in the browser · 5 with prompts** · Updated 2026-11-13
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -37,6 +37,8 @@ Sorted by our score, then by likes on the original post.
 | <a href="#gilt-and-gutter"><img src="assets/covers/gilt-and-gutter.jpg" width="160" alt="Gilt & Gutter cover"></a> | **[Gilt & Gutter](#gilt-and-gutter)** | [Kevin Ngo](https://x.com/kevin_t_ngo) | Claude Fable 5.2 | [▶ Play URL](https://gilt-and-gutter.vercel.app) | [X](https://x.com/kevin_t_ngo/status/2119900487688622171) | 318 |  | 9/10 |
 | <a href="#the-waking-river"><img src="assets/covers/the-waking-river.jpg" width="160" alt="The Waking River cover"></a> | **[The Waking River](#the-waking-river)** | [Florence](https://x.com/flxrnc) | Claude Fable 5.2 | [▶ Play URL](https://rivergame-kappa.vercel.app) | [X](https://x.com/flxrnc/status/2120494277528580110) | 86 |  | 9/10 |
 | <a href="#tidewright"><img src="assets/covers/tidewright.jpg" width="160" alt="Tidewright cover"></a> | **[Tidewright](#tidewright)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4) | [X](https://x.com/felixrieseberg/status/2119867839033352596) |  |  | 9/10 |
+| <a href="#parallax"><img src="assets/covers/parallax.jpg" width="160" alt="Parallax cover"></a> | **[Parallax](#parallax)** | [Sholto Douglas](https://x.com/_sholtodouglas) | Claude Fable 5.2 | video only | [X](https://x.com/_sholtodouglas/status/2119935331499925557) | 1.9K |  | 8.5/10 |
+| <a href="#dragon-rider"><img src="assets/covers/dragon-rider.jpg" width="160" alt="Dragon Rider cover"></a> | **[Dragon Rider](#dragon-rider)** | [Future Brian](https://x.com/ForwardEditor) | Claude Fable 5.2 | video only | [X](https://x.com/ForwardEditor/status/2119867743965163994) | 461 |  | 8.5/10 |
 | <a href="#danfo-run"><img src="assets/covers/danfo-run.jpg" width="160" alt="Danfo Run cover"></a> | **[Danfo Run](#danfo-run)** | [Eureka](https://x.com/eureka_seamless) | Claude (version not stated) | [▶ Play URL](https://danforun.com) | [X](https://x.com/eureka_seamless/status/2103938108668420286) | 36.8K |  | 8/10 |
 | <a href="#the-clockmakers-heart"><img src="assets/covers/the-clockmakers-heart.jpg" width="160" alt="The Clockmaker's Heart cover"></a> | **[The Clockmaker's Heart](#the-clockmakers-heart)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa) | [X](https://x.com/felixrieseberg/status/2119867839033352596) | 283 |  | 8/10 |
 | <a href="#aestra-the-last-wish"><img src="assets/covers/aestra-the-last-wish.jpg" width="160" alt="Aestra: The Last Wish cover"></a> | **[Aestra: The Last Wish](#aestra-the-last-wish)** | [Mike Houser](https://x.com/M__Houser) | Claude Opus 5.5 (on Tesana) | [▶ Play URL](https://tesana.com/game/aestra-the-last-wish) | [X](https://x.com/M__Houser/status/2115438489995190285) | 281 |  | 8/10 |
@@ -267,6 +269,40 @@ Sail a storm-tossed night sea and relight the lighthouses of the Thrumming Isles
 - **Tidewright on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/tidewright](https://vibegamer.io/game/tidewright?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 9/10 for visuals and polish.</sub>
+
+### Parallax
+<a id="parallax"></a>
+
+<a href="https://x.com/_sholtodouglas/status/2119935331499925557"><img src="assets/covers/parallax.jpg" alt="Parallax: cover art" width="100%"></a>
+
+An arena FPS where everyone carries a portal door: open one behind an enemy, shoot through it, or use it to board their platform, on white marble arenas under a ringed planet. Anthropic's Sholto Douglas made it with Claude Fable 5.2 and playtests it against colleagues at the office. No public build.
+
+<p><img src="assets/shots/parallax-1.jpg" width="32%" alt="Parallax gameplay screenshot"> <img src="assets/shots/parallax-2.jpg" width="32%" alt="Parallax gameplay screenshot"> <img src="assets/shots/parallax-3.jpg" width="32%" alt="Parallax gameplay screenshot"></p>
+
+- **Made by:** Sholto Douglas ([@_sholtodouglas](https://x.com/_sholtodouglas))
+- **Model:** Claude Fable 5.2
+- **Play:** no public build yet; watch the gameplay video in the post
+- **Original post:** https://x.com/_sholtodouglas/status/2119935331499925557 (1.9K likes, checked November 13, 2026)
+- **Tags:** FPS, Shooter, Multiplayer, 3D
+
+<sub>Our score: 8.5/10 for visuals and polish.</sub>
+
+### Dragon Rider
+<a id="dragon-rider"></a>
+
+<a href="https://x.com/ForwardEditor/status/2119867743965163994"><img src="assets/covers/dragon-rider.jpg" alt="Dragon Rider: cover art" width="100%"></a>
+
+A dragon riding sim made with early access to Claude Fable 5.2: leap off floating sky islands above a sea of clouds, dive, and breathe fire on the villages below. The maker says the jump off the island feels like a roller coaster in the stomach, and also ported it to Roblox. No public build yet.
+
+<p><img src="assets/shots/dragon-rider-1.jpg" width="32%" alt="Dragon Rider gameplay screenshot"> <img src="assets/shots/dragon-rider-2.jpg" width="32%" alt="Dragon Rider gameplay screenshot"> <img src="assets/shots/dragon-rider-3.jpg" width="32%" alt="Dragon Rider gameplay screenshot"></p>
+
+- **Made by:** Future Brian ([@ForwardEditor](https://x.com/ForwardEditor))
+- **Model:** Claude Fable 5.2
+- **Play:** no public build yet; watch the gameplay video in the post
+- **Original post:** https://x.com/ForwardEditor/status/2119867743965163994 (461 likes, checked November 13, 2026)
+- **Tags:** Flight, Action, 3D
+
+<sub>Our score: 8.5/10 for visuals and polish.</sub>
 
 ### Danfo Run
 <a id="danfo-run"></a>

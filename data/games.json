@@ -364,6 +364,67 @@
   "model": "Claude Fable 5.2"
  },
  {
+  "slug": "parallax",
+  "name": "Parallax",
+  "headline": "An arena FPS where everyone carries a portal door: open one behind an enemy, shoot through it, or use it to board their platform, on white marble arenas under a ringed planet. Anthropic's Sholto Douglas made it with Claude Fable 5.2 and playtests it against colleagues at the office. No public build.",
+  "maker": "Sholto Douglas",
+  "maker_handle": "_sholtodouglas",
+  "play_url": null,
+  "post_url": "https://x.com/_sholtodouglas/status/2119935331499925557",
+  "likes_at_check": 1900,
+  "views_at_check": null,
+  "score": 8.5,
+  "tags": [
+   "FPS",
+   "Shooter",
+   "Multiplayer",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "assets/shots/parallax-1.jpg",
+   "assets/shots/parallax-2.jpg",
+   "assets/shots/parallax-3.jpg"
+  ],
+  "trailer": null,
+  "vibegamer_url": null,
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/parallax.jpg"
+ },
+ {
+  "slug": "dragon-rider",
+  "name": "Dragon Rider",
+  "headline": "A dragon riding sim made with early access to Claude Fable 5.2: leap off floating sky islands above a sea of clouds, dive, and breathe fire on the villages below. The maker says the jump off the island feels like a roller coaster in the stomach, and also ported it to Roblox. No public build yet.",
+  "maker": "Future Brian",
+  "maker_handle": "ForwardEditor",
+  "play_url": null,
+  "post_url": "https://x.com/ForwardEditor/status/2119867743965163994",
+  "likes_at_check": 461,
+  "views_at_check": null,
+  "score": 8.5,
+  "tags": [
+   "Flight",
+   "Action",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "assets/shots/dragon-rider-1.jpg",
+   "assets/shots/dragon-rider-2.jpg",
+   "assets/shots/dragon-rider-3.jpg"
+  ],
+  "trailer": null,
+  "vibegamer_url": null,
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/dragon-rider.jpg"
+ },
+ {
   "slug": "danfo-run",
   "name": "Danfo Run",
   "headline": "Drive a yellow danfo through Lagos traffic, load passengers and top the live leaderboard. The browser game that went viral in Nigeria as Lagos Run.",

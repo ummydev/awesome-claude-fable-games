@@ -1,12 +1,12 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-32-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-23-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-34-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-25-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <a href="https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/mosaic.jpg" alt="A wall of covers for games made with Claude Fable 5.2: a wuxia mountain shrine, a Van Gogh bike ride, a desert car battle, a voxel Earth and more" width="100%"></a>
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**32 games · 23 playable in the browser · 5 with prompts** · Updated 2026-11-13
+**34 games · 25 playable in the browser · 5 with prompts** · Updated 2026-11-13
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -54,7 +54,9 @@ Sorted by our score, then by likes on the original post.
 | <a href="#samurai-duel"><img src="assets/covers/samurai-duel.jpg" width="160" alt="Samurai Duel cover"></a> | **[Samurai Duel](#samurai-duel)** | [@tymarsha](https://x.com/tymarsha) | Claude Fable 5.2 | video only | [X](https://x.com/tymarsha/status/2119904015454810582) |  |  | 8/10 |
 | <a href="#aidens-revenge"><img src="assets/covers/aidens-revenge.jpg" width="160" alt="Aiden's Revenge cover"></a> | **[Aiden's Revenge](#aidens-revenge)** | Lex Toumbourou | Claude Fable 5.2 | [▶ Play URL](https://aidens-revenge.pages.dev/) | [blog post](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) |  |  | 8/10 |
 | <a href="#brasidas"><img src="assets/covers/brasidas.jpg" width="160" alt="Brasidas cover"></a> | **[Brasidas](#brasidas)** | [Mike Houser](https://x.com/M__Houser) | Tesana (model not stated) | [▶ Play URL](https://tesana.com/game/brasidas) | [X](https://x.com/TesanaAI/status/2115049380382437886) |  |  | 8/10 |
+| <a href="#geminisland"><img src="assets/covers/geminisland.jpg" width="160" alt="Geminisland cover"></a> | **[Geminisland](#geminisland)** | [Google AI](https://x.com/GoogleAI) | Gemini 4 Hydrogen | [▶ Play URL](https://aistudio.google.com/apps/bundled/geminisland?showPreview=true&showAssistant=true&fullscreenApplet=true) | [X](https://x.com/GoogleAI/status/2120940684924403798) |  |  | 8/10 |
 | <a href="#body-cam"><img src="assets/covers/body-cam.jpg" width="160" alt="BODY-CAM cover"></a> | **[BODY-CAM](#body-cam)** | Juicer | Tesana (model not stated) | [▶ Play URL](https://tesana.com/game/body-cam) | [X](https://x.com/TesanaAI/status/2112043090043449620) |  |  | 7.8/10 |
+| <a href="#skyseed-pips-tempest-run"><img src="assets/covers/skyseed-pips-tempest-run.jpg" width="160" alt="Skyseed: Pip's Tempest Run cover"></a> | **[Skyseed: Pip's Tempest Run](#skyseed-pips-tempest-run)** | [Sahil Panhotra](https://x.com/SahilPanhotra) | Gemini 4 Hydrogen | [▶ Play URL](https://01a1b677-97ba-7006-a384-e83b3e5793db.arena.site/) | [X](https://x.com/SahilPanhotra/status/2119102771173769262) | 60 |  | 7.5/10 |
 | <a href="#hogwarts-royale"><img src="assets/covers/hogwarts-royale.jpg" width="160" alt="Hogwarts Royale cover"></a> | **[Hogwarts Royale](#hogwarts-royale)** | [Matt Shumer](https://x.com/mattshumer_) | Claude Fable 5.2 | [▶ Play URL](https://www.spawn.co/@mattshumer/hogwarts-royale) | [X](https://x.com/mattshumer_/status/2119872098306810226) | 307 | ✓ | 7/10 |
 | <a href="#the-clockmakers-mansion"><img src="assets/covers/the-clockmakers-mansion.jpg" width="160" alt="The Clockmaker's Mansion cover"></a> | **[The Clockmaker's Mansion](#the-clockmakers-mansion)** | [@mihawkxxxxx](https://x.com/mihawkxxxxx) | Claude Fable 5.2 | video only | [X](https://x.com/mihawkxxxxx/status/2119909865296699749) | 11 |  | 7/10 |
 | <a href="#neon-coast"><img src="assets/covers/neon-coast.jpg" width="160" alt="Neon Coast cover"></a> | **[Neon Coast](#neon-coast)** | [@ashwinntwt](https://x.com/ashwinntwt) | Claude Fable 5.2 | video only | [X](https://x.com/ashwinntwt/status/2119890312382603459) | 8 |  | 7/10 |
@@ -597,6 +599,24 @@ A Halo-style 10v10 team shooter on a ring world: storm a tropical beach or fight
 
 <sub>Our score: 8/10 for visuals and polish.</sub>
 
+### Geminisland
+<a id="geminisland"></a>
+
+<a href="https://vibegamer.io/game/geminisland?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/geminisland.jpg" alt="Geminisland: cover art" width="100%"></a>
+
+Google's launch demo for Gemini 4 Hydrogen: a shared voxel island where one prompt, like "huge banana statue", becomes a building in seconds, then you walk the streets and step inside in first person. Opens in Google AI Studio (Google sign-in needed).
+
+<p><img src="https://cdn.vibegamer.io/submissions/e6df3cb0-5fb4-432e-bb6a-804f3d44ce1c-geminisland-shot-1.jpg" width="32%" alt="Geminisland gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/e0ea3333-bb0d-41bb-bd1c-e9f6f42a2381-geminisland-shot-2.jpg" width="32%" alt="Geminisland gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/696a9443-4261-4835-a449-a3fb3ee8dc8c-geminisland-shot-3.jpg" width="32%" alt="Geminisland gameplay screenshot"></p>
+
+- **Made by:** Google AI ([@GoogleAI](https://x.com/GoogleAI))
+- **Model:** Gemini 4 Hydrogen
+- **Geminisland game URL:** https://aistudio.google.com/apps/bundled/geminisland?showPreview=true&showAssistant=true&fullscreenApplet=true
+- **Original post:** https://x.com/GoogleAI/status/2120940684924403798
+- **Tags:** Sandbox, 3D, Multiplayer
+- **Geminisland on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/geminisland](https://vibegamer.io/game/geminisland?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8/10 for visuals and polish.</sub>
+
 ### BODY-CAM
 <a id="body-cam"></a>
 
@@ -614,6 +634,24 @@ A realistic body-camera police shooter: serve a warrant at 1147 Elm St. and clea
 - **BODY-CAM on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/body-cam](https://vibegamer.io/game/body-cam?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 7.8/10 for visuals and polish.</sub>
+
+### Skyseed: Pip's Tempest Run
+<a id="skyseed-pips-tempest-run"></a>
+
+<a href="https://vibegamer.io/game/skyseed-pips-tempest-run?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/skyseed-pips-tempest-run.jpg" alt="Skyseed: Pip's Tempest Run: cover art" width="100%"></a>
+
+A cute one-level 3D platformer from one prompt to Gemini 4 Hydrogen: guide Pip the sky-cat across three floating islands and grab all 12 sun-seeds before the storm hits in 90 seconds.
+
+<p><img src="https://cdn.vibegamer.io/submissions/1dc400c1-f5f0-4b4f-ae5f-6280d6a6e784-skyseed-pips-tempest-run-shot-1.jpg" width="32%" alt="Skyseed: Pip's Tempest Run gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/0e73811e-b466-4e75-9370-b51aa6d9b60a-skyseed-pips-tempest-run-shot-2.jpg" width="32%" alt="Skyseed: Pip's Tempest Run gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/01cae1af-0e72-45cc-bb18-e8e06d11663f-skyseed-pips-tempest-run-shot-3.jpg" width="32%" alt="Skyseed: Pip's Tempest Run gameplay screenshot"></p>
+
+- **Made by:** Sahil Panhotra ([@SahilPanhotra](https://x.com/SahilPanhotra))
+- **Model:** Gemini 4 Hydrogen
+- **Skyseed: Pip's Tempest Run game URL:** https://01a1b677-97ba-7006-a384-e83b3e5793db.arena.site/
+- **Original post:** https://x.com/SahilPanhotra/status/2119102771173769262 (60 likes, checked November 13, 2026)
+- **Tags:** Platformer, 3D, Cosy
+- **Skyseed: Pip's Tempest Run on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/skyseed-pips-tempest-run](https://vibegamer.io/game/skyseed-pips-tempest-run?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.5/10 for visuals and polish.</sub>
 
 ### Hogwarts Royale
 <a id="hogwarts-royale"></a>

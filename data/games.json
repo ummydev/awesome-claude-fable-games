@@ -927,6 +927,39 @@
   "cover": "assets/covers/brasidas.jpg"
  },
  {
+  "slug": "geminisland",
+  "name": "Geminisland",
+  "headline": "Google's launch demo for Gemini 4 Hydrogen: a shared voxel island where one prompt, like \"huge banana statue\", becomes a building in seconds, then you walk the streets and step inside in first person. Opens in Google AI Studio (Google sign-in needed).",
+  "maker": "Google AI",
+  "maker_handle": "GoogleAI",
+  "play_url": "https://aistudio.google.com/apps/bundled/geminisland?showPreview=true&showAssistant=true&fullscreenApplet=true",
+  "post_url": "https://x.com/GoogleAI/status/2120940684924403798",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 8,
+  "tags": [
+   "Sandbox",
+   "3D",
+   "Multiplayer"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/e6df3cb0-5fb4-432e-bb6a-804f3d44ce1c-geminisland-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/e0ea3333-bb0d-41bb-bd1c-e9f6f42a2381-geminisland-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/696a9443-4261-4835-a449-a3fb3ee8dc8c-geminisland-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/7bb8c07c-012c-4c0c-8305-586e5bc0e012-geminisland-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/a3eefe35-c573-496b-b133-17b1710bc4cf-geminisland-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/3461887a-0067-4fb6-8405-56c37dad5049-geminisland-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/7c123f1c-efcf-425d-803a-6a162bcf607e-geminisland-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/geminisland",
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Gemini 4 Hydrogen",
+  "cover": "assets/covers/geminisland.jpg"
+ },
+ {
   "slug": "body-cam",
   "name": "BODY-CAM",
   "headline": "A realistic body-camera police shooter: serve a warrant at 1147 Elm St. and clear a run-down house room by room with your squad, now with 5v5 multiplayer. Made by a creator called Juicer on the AI game maker Tesana; its most-played game this week.",
@@ -959,6 +992,39 @@
   "checked_on": "2026-11-13",
   "model": "Tesana (model not stated)",
   "cover": "assets/covers/body-cam.jpg"
+ },
+ {
+  "slug": "skyseed-pips-tempest-run",
+  "name": "Skyseed: Pip's Tempest Run",
+  "headline": "A cute one-level 3D platformer from one prompt to Gemini 4 Hydrogen: guide Pip the sky-cat across three floating islands and grab all 12 sun-seeds before the storm hits in 90 seconds.",
+  "maker": "Sahil Panhotra",
+  "maker_handle": "SahilPanhotra",
+  "play_url": "https://01a1b677-97ba-7006-a384-e83b3e5793db.arena.site/",
+  "post_url": "https://x.com/SahilPanhotra/status/2119102771173769262",
+  "likes_at_check": 60,
+  "views_at_check": null,
+  "score": 7.5,
+  "tags": [
+   "Platformer",
+   "3D",
+   "Cosy"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/1dc400c1-f5f0-4b4f-ae5f-6280d6a6e784-skyseed-pips-tempest-run-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/0e73811e-b466-4e75-9370-b51aa6d9b60a-skyseed-pips-tempest-run-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/01cae1af-0e72-45cc-bb18-e8e06d11663f-skyseed-pips-tempest-run-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/5d730c8a-3954-4369-ad6e-d0cbcbadc440-skyseed-pips-tempest-run-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/771b3951-bf54-4f2f-bc9f-b0ad791d7c05-skyseed-pips-tempest-run-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/e26901a9-f7ba-4eaa-a37a-7efdac296f2d-skyseed-pips-tempest-run-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/315e5272-51f1-4b5d-aed3-212877c2d15f-skyseed-pips-tempest-run-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/skyseed-pips-tempest-run",
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Gemini 4 Hydrogen",
+  "cover": "assets/covers/skyseed-pips-tempest-run.jpg"
  },
  {
   "slug": "hogwarts-royale",

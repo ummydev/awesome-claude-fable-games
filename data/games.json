@@ -425,6 +425,71 @@
   "cover": "assets/covers/dragon-rider.jpg"
  },
  {
+  "slug": "great-wave",
+  "name": "Great Wave",
+  "headline": "Surf Hokusai's Great Wave off Kanagawa: the woodblock print becomes a game where you row a little boat through the barrel, past the gods of wind and thunder, toward Mount Fuji. Made with Claude Fable 5.2.",
+  "maker": "Nil Ni",
+  "maker_handle": "_nilni",
+  "play_url": "https://www.aigameshare.com/games/great-wave-off-kanagawa",
+  "post_url": "https://x.com/_nilni/status/2120797996610994355",
+  "likes_at_check": 7,
+  "views_at_check": null,
+  "score": 8.3,
+  "tags": [
+   "Arcade",
+   "Sports"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/81d6f52f-7054-45db-aa69-0855ffa13a71-great-wave-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/eab5d8df-2c33-4694-a583-c6d915d6eb79-great-wave-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/69db6d07-be74-4cf9-880c-9acca4e99b3b-great-wave-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/996ac454-c7c7-4fe1-9bbc-7f21552ed53d-great-wave-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/12405546-fc4b-4e03-aa10-866ccab2a32e-great-wave-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/9a26b760-e76e-4527-b65a-7e3f0087f133-great-wave-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/be83cecb-d39b-464c-a25e-14a75f777610-great-wave-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/great-wave",
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/great-wave.jpg"
+ },
+ {
+  "slug": "valley-ride",
+  "name": "Valley Ride",
+  "headline": "A calm horse ride across a mountain valley to a campfire at sunset, in three.js and WebGPU. Built in two days with Claude Opus 5.5 and Fable 5.2, and open source.",
+  "maker": "Prasenjit",
+  "maker_handle": "prasenx",
+  "play_url": "https://starknightt.github.io/valley-ride/",
+  "post_url": "https://x.com/prasenx/status/2120565971270459430",
+  "likes_at_check": 162,
+  "views_at_check": null,
+  "score": 8.2,
+  "tags": [
+   "Cosy",
+   "Adventure",
+   "3D"
+  ],
+  "open_source_url": "https://github.com/StarKnightt/valley-ride",
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/048e1bc9-3d71-4e33-9235-ee1318a2ed99-valley-ride-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/30b646f7-4b5e-4045-bf3f-9546c5ba860a-valley-ride-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/07654a5b-b199-4744-a3c9-e00f3a22ba3e-valley-ride-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/36c04a1e-161d-48f6-85c6-2b1789248752-valley-ride-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/53c42ffc-0037-49e6-ac4f-787e631e67eb-valley-ride-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/3a2568d0-019b-4c0b-ba94-89ce840c3e14-valley-ride-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/9d4ae3a5-c379-4ea9-83c0-e6b74e7a31c8-valley-ride-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/valley-ride",
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Claude Opus 5.5 and Claude Fable 5.2",
+  "cover": "assets/covers/valley-ride.jpg"
+ },
+ {
   "slug": "danfo-run",
   "name": "Danfo Run",
   "headline": "Drive a yellow danfo through Lagos traffic, load passengers and top the live leaderboard. The browser game that went viral in Nigeria as Lagos Run.",
@@ -1019,6 +1084,40 @@
   "checked_on": "2026-11-13",
   "model": "Gemini 4 Hydrogen",
   "cover": "assets/covers/geminisland.jpg"
+ },
+ {
+  "slug": "handful-island-god-game",
+  "name": "Handful: Island God Game",
+  "headline": "A 3D god game on an island of 8 million simulated voxels: with one giant hand and powers like parting the sea, rain and wind, lead a dozen little cube villagers to the light. Made with Claude Fable 5.2.",
+  "maker": "Nil Ni",
+  "maker_handle": "_nilni",
+  "play_url": "https://www.aigameshare.com/games/island-god-game",
+  "post_url": "https://x.com/_nilni/status/2120639452146250153",
+  "likes_at_check": 11,
+  "views_at_check": null,
+  "score": 7.8,
+  "tags": [
+   "Sandbox",
+   "Puzzle",
+   "3D",
+   "Cosy"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/15b3ecc1-4afb-4ba2-90de-586c991d63a4-handful-island-god-game-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/7d8b3d7b-52a3-47aa-a2c4-2bf4292e57c3-handful-island-god-game-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/20a1273c-8950-470b-9750-a3e9877ad50a-handful-island-god-game-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/ef19fa84-c807-4ab0-808d-6c595dec88e1-handful-island-god-game-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/75ce16ab-8a21-4f08-bc96-093ccc4cd98e-handful-island-god-game-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/bab4438a-eec5-4bc9-aa0f-d8667b135038-handful-island-god-game-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/26070a70-aa07-4785-91e2-c81f5ddefbcf-handful-island-god-game-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/handful-island-god-game",
+  "prompt_note": null,
+  "checked_on": "2026-11-13",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/handful-island-god-game.jpg"
  },
  {
   "slug": "body-cam",

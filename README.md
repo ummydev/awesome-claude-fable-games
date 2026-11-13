@@ -1,12 +1,12 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-36-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-25-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-39-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-28-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <a href="https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/mosaic.jpg" alt="A wall of covers for games made with Claude Fable 5.2: a wuxia mountain shrine, a Van Gogh bike ride, a desert car battle, a voxel Earth and more" width="100%"></a>
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**36 games · 25 playable in the browser · 5 with prompts** · Updated 2026-11-13
+**39 games · 28 playable in the browser · 5 with prompts** · Updated 2026-11-13
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -39,6 +39,8 @@ Sorted by our score, then by likes on the original post.
 | <a href="#tidewright"><img src="assets/covers/tidewright.jpg" width="160" alt="Tidewright cover"></a> | **[Tidewright](#tidewright)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4) | [X](https://x.com/felixrieseberg/status/2119867839033352596) |  |  | 9/10 |
 | <a href="#parallax"><img src="assets/covers/parallax.jpg" width="160" alt="Parallax cover"></a> | **[Parallax](#parallax)** | [Sholto Douglas](https://x.com/_sholtodouglas) | Claude Fable 5.2 | video only | [X](https://x.com/_sholtodouglas/status/2119935331499925557) | 1.9K |  | 8.5/10 |
 | <a href="#dragon-rider"><img src="assets/covers/dragon-rider.jpg" width="160" alt="Dragon Rider cover"></a> | **[Dragon Rider](#dragon-rider)** | [Future Brian](https://x.com/ForwardEditor) | Claude Fable 5.2 | video only | [X](https://x.com/ForwardEditor/status/2119867743965163994) | 461 |  | 8.5/10 |
+| <a href="#great-wave"><img src="assets/covers/great-wave.jpg" width="160" alt="Great Wave cover"></a> | **[Great Wave](#great-wave)** | [Nil Ni](https://x.com/_nilni) | Claude Fable 5.2 | [▶ Play URL](https://www.aigameshare.com/games/great-wave-off-kanagawa) | [X](https://x.com/_nilni/status/2120797996610994355) | 7 |  | 8.3/10 |
+| <a href="#valley-ride"><img src="assets/covers/valley-ride.jpg" width="160" alt="Valley Ride cover"></a> | **[Valley Ride](#valley-ride)** | [Prasenjit](https://x.com/prasenx) | Claude Opus 5.5 and Claude Fable 5.2 | [▶ Play URL](https://starknightt.github.io/valley-ride/) | [X](https://x.com/prasenx/status/2120565971270459430) | 162 |  | 8.2/10 |
 | <a href="#danfo-run"><img src="assets/covers/danfo-run.jpg" width="160" alt="Danfo Run cover"></a> | **[Danfo Run](#danfo-run)** | [Eureka](https://x.com/eureka_seamless) | Claude (version not stated) | [▶ Play URL](https://danforun.com) | [X](https://x.com/eureka_seamless/status/2103938108668420286) | 36.8K |  | 8/10 |
 | <a href="#the-clockmakers-heart"><img src="assets/covers/the-clockmakers-heart.jpg" width="160" alt="The Clockmaker's Heart cover"></a> | **[The Clockmaker's Heart](#the-clockmakers-heart)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa) | [X](https://x.com/felixrieseberg/status/2119867839033352596) | 283 |  | 8/10 |
 | <a href="#aestra-the-last-wish"><img src="assets/covers/aestra-the-last-wish.jpg" width="160" alt="Aestra: The Last Wish cover"></a> | **[Aestra: The Last Wish](#aestra-the-last-wish)** | [Mike Houser](https://x.com/M__Houser) | Claude Opus 5.5 (on Tesana) | [▶ Play URL](https://tesana.com/game/aestra-the-last-wish) | [X](https://x.com/M__Houser/status/2115438489995190285) | 281 |  | 8/10 |
@@ -57,6 +59,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#aidens-revenge"><img src="assets/covers/aidens-revenge.jpg" width="160" alt="Aiden's Revenge cover"></a> | **[Aiden's Revenge](#aidens-revenge)** | Lex Toumbourou | Claude Fable 5.2 | [▶ Play URL](https://aidens-revenge.pages.dev/) | [blog post](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) |  |  | 8/10 |
 | <a href="#brasidas"><img src="assets/covers/brasidas.jpg" width="160" alt="Brasidas cover"></a> | **[Brasidas](#brasidas)** | [Mike Houser](https://x.com/M__Houser) | Tesana (model not stated) | [▶ Play URL](https://tesana.com/game/brasidas) | [X](https://x.com/TesanaAI/status/2115049380382437886) |  |  | 8/10 |
 | <a href="#geminisland"><img src="assets/covers/geminisland.jpg" width="160" alt="Geminisland cover"></a> | **[Geminisland](#geminisland)** | [Google AI](https://x.com/GoogleAI) | Gemini 4 Hydrogen | [▶ Play URL](https://aistudio.google.com/apps/bundled/geminisland?showPreview=true&showAssistant=true&fullscreenApplet=true) | [X](https://x.com/GoogleAI/status/2120940684924403798) |  |  | 8/10 |
+| <a href="#handful-island-god-game"><img src="assets/covers/handful-island-god-game.jpg" width="160" alt="Handful: Island God Game cover"></a> | **[Handful: Island God Game](#handful-island-god-game)** | [Nil Ni](https://x.com/_nilni) | Claude Fable 5.2 | [▶ Play URL](https://www.aigameshare.com/games/island-god-game) | [X](https://x.com/_nilni/status/2120639452146250153) | 11 |  | 7.8/10 |
 | <a href="#body-cam"><img src="assets/covers/body-cam.jpg" width="160" alt="BODY-CAM cover"></a> | **[BODY-CAM](#body-cam)** | Juicer | Tesana (model not stated) | [▶ Play URL](https://tesana.com/game/body-cam) | [X](https://x.com/TesanaAI/status/2112043090043449620) |  |  | 7.8/10 |
 | <a href="#skyseed-pips-tempest-run"><img src="assets/covers/skyseed-pips-tempest-run.jpg" width="160" alt="Skyseed: Pip's Tempest Run cover"></a> | **[Skyseed: Pip's Tempest Run](#skyseed-pips-tempest-run)** | [Sahil Panhotra](https://x.com/SahilPanhotra) | Gemini 4 Hydrogen | [▶ Play URL](https://01a1b677-97ba-7006-a384-e83b3e5793db.arena.site/) | [X](https://x.com/SahilPanhotra/status/2119102771173769262) | 60 |  | 7.5/10 |
 | <a href="#hogwarts-royale"><img src="assets/covers/hogwarts-royale.jpg" width="160" alt="Hogwarts Royale cover"></a> | **[Hogwarts Royale](#hogwarts-royale)** | [Matt Shumer](https://x.com/mattshumer_) | Claude Fable 5.2 | [▶ Play URL](https://www.spawn.co/@mattshumer/hogwarts-royale) | [X](https://x.com/mattshumer_/status/2119872098306810226) | 307 | ✓ | 7/10 |
@@ -303,6 +306,43 @@ A dragon riding sim made with early access to Claude Fable 5.2: leap off floatin
 - **Tags:** Flight, Action, 3D
 
 <sub>Our score: 8.5/10 for visuals and polish.</sub>
+
+### Great Wave
+<a id="great-wave"></a>
+
+<a href="https://vibegamer.io/game/great-wave?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/great-wave.jpg" alt="Great Wave: cover art" width="100%"></a>
+
+Surf Hokusai's Great Wave off Kanagawa: the woodblock print becomes a game where you row a little boat through the barrel, past the gods of wind and thunder, toward Mount Fuji. Made with Claude Fable 5.2.
+
+<p><img src="https://cdn.vibegamer.io/submissions/81d6f52f-7054-45db-aa69-0855ffa13a71-great-wave-shot-1.jpg" width="32%" alt="Great Wave gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/eab5d8df-2c33-4694-a583-c6d915d6eb79-great-wave-shot-2.jpg" width="32%" alt="Great Wave gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/69db6d07-be74-4cf9-880c-9acca4e99b3b-great-wave-shot-3.jpg" width="32%" alt="Great Wave gameplay screenshot"></p>
+
+- **Made by:** Nil Ni ([@_nilni](https://x.com/_nilni))
+- **Model:** Claude Fable 5.2
+- **Great Wave game URL:** https://www.aigameshare.com/games/great-wave-off-kanagawa
+- **Original post:** https://x.com/_nilni/status/2120797996610994355 (7 likes, checked November 13, 2026)
+- **Tags:** Arcade, Sports
+- **Great Wave on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/great-wave](https://vibegamer.io/game/great-wave?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.3/10 for visuals and polish.</sub>
+
+### Valley Ride
+<a id="valley-ride"></a>
+
+<a href="https://vibegamer.io/game/valley-ride?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/valley-ride.jpg" alt="Valley Ride: cover art" width="100%"></a>
+
+A calm horse ride across a mountain valley to a campfire at sunset, in three.js and WebGPU. Built in two days with Claude Opus 5.5 and Fable 5.2, and open source.
+
+<p><img src="https://cdn.vibegamer.io/submissions/048e1bc9-3d71-4e33-9235-ee1318a2ed99-valley-ride-shot-1.jpg" width="32%" alt="Valley Ride gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/30b646f7-4b5e-4045-bf3f-9546c5ba860a-valley-ride-shot-2.jpg" width="32%" alt="Valley Ride gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/07654a5b-b199-4744-a3c9-e00f3a22ba3e-valley-ride-shot-3.jpg" width="32%" alt="Valley Ride gameplay screenshot"></p>
+
+- **Made by:** Prasenjit ([@prasenx](https://x.com/prasenx))
+- **Model:** Claude Opus 5.5 and Claude Fable 5.2
+- **Valley Ride game URL:** https://starknightt.github.io/valley-ride/
+- **Original post:** https://x.com/prasenx/status/2120565971270459430 (162 likes, checked November 13, 2026)
+- **Source:** open source, https://github.com/StarKnightt/valley-ride
+- **Tags:** Cosy, Adventure, 3D
+- **Valley Ride on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/valley-ride](https://vibegamer.io/game/valley-ride?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.2/10 for visuals and polish.</sub>
 
 ### Danfo Run
 <a id="danfo-run"></a>
@@ -652,6 +692,24 @@ Google's launch demo for Gemini 4 Hydrogen: a shared voxel island where one prom
 - **Geminisland on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/geminisland](https://vibegamer.io/game/geminisland?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8/10 for visuals and polish.</sub>
+
+### Handful: Island God Game
+<a id="handful-island-god-game"></a>
+
+<a href="https://vibegamer.io/game/handful-island-god-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/handful-island-god-game.jpg" alt="Handful: Island God Game: cover art" width="100%"></a>
+
+A 3D god game on an island of 8 million simulated voxels: with one giant hand and powers like parting the sea, rain and wind, lead a dozen little cube villagers to the light. Made with Claude Fable 5.2.
+
+<p><img src="https://cdn.vibegamer.io/submissions/15b3ecc1-4afb-4ba2-90de-586c991d63a4-handful-island-god-game-shot-1.jpg" width="32%" alt="Handful: Island God Game gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/7d8b3d7b-52a3-47aa-a2c4-2bf4292e57c3-handful-island-god-game-shot-2.jpg" width="32%" alt="Handful: Island God Game gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/20a1273c-8950-470b-9750-a3e9877ad50a-handful-island-god-game-shot-3.jpg" width="32%" alt="Handful: Island God Game gameplay screenshot"></p>
+
+- **Made by:** Nil Ni ([@_nilni](https://x.com/_nilni))
+- **Model:** Claude Fable 5.2
+- **Handful: Island God Game game URL:** https://www.aigameshare.com/games/island-god-game
+- **Original post:** https://x.com/_nilni/status/2120639452146250153 (11 likes, checked November 13, 2026)
+- **Tags:** Sandbox, Puzzle, 3D, Cosy
+- **Handful: Island God Game on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/handful-island-god-game](https://vibegamer.io/game/handful-island-god-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
 
 ### BODY-CAM
 <a id="body-cam"></a>

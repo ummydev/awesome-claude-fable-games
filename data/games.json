@@ -364,6 +364,39 @@
   "model": "Claude Fable 5.2"
  },
  {
+  "slug": "saltfire",
+  "name": "Saltfire",
+  "headline": "Armed offshore powerboat racing: race five AI rivals across five-metre seas with homing rockets and gun turrets, past sea stacks, oil rigs and wind farms. Higgsfield built it with Claude Fable 5.2 and three.js.",
+  "maker": "Higgsfield AI",
+  "maker_handle": "higgsfield_ai",
+  "play_url": "https://saltfire.higgsfield.app/",
+  "post_url": "https://x.com/higgsfield_ai/status/2119928918035910668",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 8.6,
+  "tags": [
+   "Racing",
+   "Combat",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/157834d6-11c4-4d2d-a833-627d5693ddf6-saltfire-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/377e0481-f6f4-4060-b6c6-47d7d4e61d42-saltfire-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/3a1e126b-8501-4015-bff4-6170c6048ff8-saltfire-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/e4eccf52-eb92-4115-b082-b4a0fcfaf73a-saltfire-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/dcd52f2d-ea6e-48d0-b278-f9fa59232d45-saltfire-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/9ccb1665-4119-4232-b862-1de0203dbf82-saltfire-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/8ded35cc-305c-4fee-8ca9-bfd5dd6afc35-saltfire-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/saltfire",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/saltfire.jpg"
+ },
+ {
   "slug": "parallax",
   "name": "Parallax",
   "headline": "An arena FPS where everyone carries a portal door: open one behind an enemy, shoot through it, or use it to board their platform, on white marble arenas under a ringed planet. Anthropic's Sholto Douglas made it with Claude Fable 5.2 and playtests it against colleagues at the office. No public build.",
@@ -423,6 +456,104 @@
   "checked_on": "2026-11-13",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/dragon-rider.jpg"
+ },
+ {
+  "slug": "starfall-moba",
+  "name": "Starfall (星陨战纪)",
+  "headline": "A free 5v5 MOBA in the style of Honor of Kings, with heroes from Chinese history, that Cheetah Mobile CEO Fu Sheng built overnight with Claude Fable 5.2. You plus nine AI players, on a computer or a phone.",
+  "maker": "Fu Sheng",
+  "maker_handle": "FuSheng_0306",
+  "play_url": "https://sanwan.ai/games/xingyun-moba/",
+  "post_url": "https://x.com/FuSheng_0306/status/2121237878097207583",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 8.5,
+  "tags": [
+   "MOBA",
+   "3D",
+   "Action"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/c08dc818-4d3b-4c31-88de-2839b167a72e-starfall-moba-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/542062e7-e808-4804-912a-22f5c34118b5-starfall-moba-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/febbf4cd-5405-4640-a5e3-a0b2c95a8f92-starfall-moba-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/c17fb01c-e98d-4a94-bf37-f11a37987991-starfall-moba-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/df4ddcf8-1ab4-407e-bb93-3aeb47eb4fd5-starfall-moba-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/32b84175-9d93-4ee1-900c-67846f201029-starfall-moba-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/starfall-moba",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/starfall-moba.jpg"
+ },
+ {
+  "slug": "reef-dive",
+  "name": "Reef Dive",
+  "headline": "One tank of air, one speargun and a 140 m sinkhole: spear fish, fight off sharks, pilot a research sub and recover lost relics on a living 3D reef. Upgraded with Claude Fable 5.2.",
+  "maker": "Ibrahim Boona",
+  "maker_handle": "boona11",
+  "play_url": "https://wavedash.com/games/reef-dive",
+  "post_url": "https://x.com/boona11/status/2120482516733702472",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 8.5,
+  "tags": [
+   "Adventure",
+   "Action",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/2a008f12-74a4-4ced-80a4-704fee858cb2-reef-dive-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/4d11cd4a-bcf5-43b6-8e92-0ba03ece9815-reef-dive-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/ef7f5b39-9038-4203-baed-cfb449b8be5e-reef-dive-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/d625908e-ebe9-48e8-9807-2ffa45a42c43-reef-dive-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/93749d9a-ced3-472b-82cf-2d02a30e0245-reef-dive-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/33a17d10-7e68-4fc1-9532-16a8db37fe6b-reef-dive-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/4d9012df-aebd-4ebc-af8f-877b403a2cb8-reef-dive-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/reef-dive",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/reef-dive.jpg"
+ },
+ {
+  "slug": "cordon-9",
+  "name": "CORDON 9",
+  "headline": "An endless first-person zombie shooter on a rain-soaked quarantine street, with a scoped rifle and a killstreak drone, and not a single asset file: Perplexity CEO Aravind Srinivas had an agent build it with Claude Fable 5.2.",
+  "maker": "Aravind Srinivas",
+  "maker_handle": "AravSrinivas",
+  "play_url": "https://cordon9.pplx.app",
+  "post_url": "https://x.com/AravSrinivas/status/2120506245131977026",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 8.4,
+  "tags": [
+   "FPS",
+   "Shooter",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/cd57aa39-ac10-4dd8-93cc-f690d8f8e6d6-cordon-9-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/9b734ba9-9de3-43b5-8811-d1e2bcae2127-cordon-9-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/419aa1e7-2e99-4da5-9ace-0607806bf548-cordon-9-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/de71f832-cc55-49ac-b306-74be6e66e9ca-cordon-9-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/9bae7f02-88bd-4c65-88a2-026cb8553510-cordon-9-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/e85cf3e2-e005-4151-b299-6092c9960ce6-cordon-9-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/9aea0587-2068-4719-b566-150edf5f69d8-cordon-9-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/cordon-9",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/cordon-9.jpg"
  },
  {
   "slug": "great-wave",
@@ -522,6 +653,39 @@
   "checked_on": "2026-11-13",
   "model": "Claude Opus 5.5 and Claude Fable 5.2",
   "cover": "assets/covers/valley-ride.jpg"
+ },
+ {
+  "slug": "nightclub-drift-speed",
+  "name": "NightClub: Drift & Speed",
+  "headline": "Drift through a rainy neon city at night, chain drift and speed zones for score, and race the maker's ghost on a worldwide leaderboard. Made in 72 hours with Claude Fable 5.2, Blender, three.js and Higgsfield.",
+  "maker": "Story91",
+  "maker_handle": "Story91_",
+  "play_url": "https://www.nightclub-driftspeed.xyz/",
+  "post_url": "https://x.com/Story91_/status/2121016763190059194",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 8.2,
+  "tags": [
+   "Driving",
+   "Racing",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/edf8429e-aeb3-4f79-b2e7-bbd260143186-nightclub-drift-speed-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/f05e4f17-0ee0-4ab7-a13b-fcdc488de0f1-nightclub-drift-speed-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/40df5a05-784c-46a5-a029-101a24dcce0e-nightclub-drift-speed-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/54f330b8-5fc1-420b-8908-96fbe5b95b58-nightclub-drift-speed-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/672279b3-849b-4316-976f-7a3b8c7539da-nightclub-drift-speed-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/396fbc65-bfe7-4b3a-ae4a-222ab1b01069-nightclub-drift-speed-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/f79c00fd-ac0e-4dc6-a53b-42b4ba4d58af-nightclub-drift-speed-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/nightclub-drift-speed",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/nightclub-drift-speed.jpg"
  },
  {
   "slug": "danfo-run",
@@ -1120,6 +1284,38 @@
   "cover": "assets/covers/geminisland.jpg"
  },
  {
+  "slug": "paletterider",
+  "name": "PaletteRider",
+  "headline": "Ride a bicycle inside famous paintings, from Paul Klee's Castle and Sun to Van Gogh's Café Terrace at Night, collecting little suns before dawn. Built with Claude Fable 5.2, from the 3D cities to the music.",
+  "maker": "Aashish Tiwari",
+  "maker_handle": "Aashish_Tiwari_",
+  "play_url": "https://aashishgtbit.github.io/PaletteRider/",
+  "post_url": "https://x.com/Aashish_Tiwari_/status/2120963463610880150",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 7.9,
+  "tags": [
+   "3D",
+   "Cosy",
+   "Arcade"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/a7d609e0-25a6-43d2-a8b7-1e151a919127-paletterider-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/25b9d13e-8288-461d-be55-506b0c95c197-paletterider-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/ab7f3a72-1853-4175-b3fb-aec72c63d5ea-paletterider-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/99a9da5e-0469-471d-a1d0-cc75d56b82e2-paletterider-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/09d49664-1550-412c-a5d9-46673f4eac78-paletterider-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/ab3d4c1f-db8a-42e6-8131-c9b4ef4024b1-paletterider-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/paletterider",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/paletterider.jpg"
+ },
+ {
   "slug": "handful-island-god-game",
   "name": "Handful: Island God Game",
   "headline": "A 3D god game on an island of 8 million simulated voxels: with one giant hand and powers like parting the sea, rain and wind, lead a dozen little cube villagers to the light. Made with Claude Fable 5.2.",
@@ -1188,6 +1384,71 @@
   "cover": "assets/covers/body-cam.jpg"
  },
  {
+  "slug": "go-again",
+  "name": "GO AGAIN",
+  "headline": "A third-person squad shooter against waves of giant alien spiders: clear the breach, bring down the Hive Anchor, reach the dropship, and if you die, go again with upgrades. Built on Crayon with Claude Fable 5.2 in under two hours.",
+  "maker": "Tushar",
+  "maker_handle": null,
+  "play_url": "https://app.usecrayon.ai/play/d3fe1760-e2cf-4eca-a25d-ee3b789c802e",
+  "post_url": "https://x.com/usecrayon/status/2120714883759247664",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 7.8,
+  "tags": [
+   "Shooter",
+   "Action",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/8da853c2-7daa-4290-bafb-4fe7912c7632-go-again-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/2ca4512e-255e-418b-a60a-0398384f0b19-go-again-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/1889c8a5-0500-471c-a59b-c53a17560c69-go-again-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/de03c23e-f43d-4516-a1bd-496cadc848b5-go-again-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/dbdaf4ba-c47a-4f5d-a7b5-449d35223a27-go-again-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/e3cf5ee6-0917-4d73-accb-112dde03f7f5-go-again-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/a6769f18-e618-4559-804d-4542fcafb225-go-again-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/go-again",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/go-again.jpg"
+ },
+ {
+  "slug": "patchwork-quilt",
+  "name": "Patchwork Quilt",
+  "headline": "Walk a little rag doll across a stop-motion world sewn from a patchwork quilt, with felt cottages, a fabric windmill and a ribbon river. Made with Claude Fable 5.2, and the whole map is code.",
+  "maker": "Blendi",
+  "maker_handle": "BlendiByl",
+  "play_url": "https://patch.gg/blendi/patchwork-quilt",
+  "post_url": "https://x.com/BlendiByl/status/2120746541636047347",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 7.6,
+  "tags": [
+   "Cosy",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/fdf95846-e03b-47a3-b45f-298b4c99bc54-patchwork-quilt-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/1a6439b6-9080-40f8-ae04-7496fb939e93-patchwork-quilt-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/6888661e-f747-4c92-b328-7a1b629568f0-patchwork-quilt-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/e68889b8-7c77-4e9f-931b-43f0323325c6-patchwork-quilt-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/d678e118-6382-4f04-888f-8d0c07fe4c71-patchwork-quilt-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/9a8fa8e0-34ae-4eaa-aca6-baa92349b5b8-patchwork-quilt-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/02bee6a4-3a2b-4001-b184-8c434e2d18b4-patchwork-quilt-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/patchwork-quilt",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/patchwork-quilt.jpg"
+ },
+ {
   "slug": "skyseed-pips-tempest-run",
   "name": "Skyseed: Pip's Tempest Run",
   "headline": "A cute one-level 3D platformer from one prompt to Gemini 4 Hydrogen: guide Pip the sky-cat across three floating islands and grab all 12 sun-seeds before the storm hits in 90 seconds.",
@@ -1219,6 +1480,70 @@
   "checked_on": "2026-11-13",
   "model": "Gemini 4 Hydrogen",
   "cover": "assets/covers/skyseed-pips-tempest-run.jpg"
+ },
+ {
+  "slug": "painted-valley",
+  "name": "Painted Valley",
+  "headline": "Run through a Ghibli-inspired painted valley of wind-swept grass, distant villages and huge clouds, as the light turns from midday blue to evening lilac. Made with Claude Fable 5.2.",
+  "maker": "Blendi",
+  "maker_handle": "BlendiByl",
+  "play_url": "https://patch.gg/blendi/painted-valley",
+  "post_url": "https://x.com/BlendiByl/status/2120694003230560585",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 7.5,
+  "tags": [
+   "Cosy",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/c57cd95e-89ea-42ee-987c-3be513087855-painted-valley-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/c885a6db-d5b7-418e-a468-8207a7fac987-painted-valley-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/5d3f9d4d-6aa4-4f18-9a03-e03781ff7e8d-painted-valley-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/e54c0634-dba2-4d6c-8d5a-510265e0f46f-painted-valley-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/a1d1465e-48b3-4350-975c-7c26c81ec72e-painted-valley-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/452d0dfa-5816-4be7-aebf-ecd1418e159c-painted-valley-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/94cfa14c-d857-43f3-838d-5d1bbad23be2-painted-valley-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/painted-valley",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/painted-valley.jpg"
+ },
+ {
+  "slug": "watercolour",
+  "name": "Watercolour",
+  "headline": "Walk a girl in a red hood through a pencil sketch that turns into watercolour wherever she goes: poppy meadows, a river, willows and a pink blossom tree bloom in as you walk.",
+  "maker": "Blendi",
+  "maker_handle": "BlendiByl",
+  "play_url": "https://patch.gg/blendi/watercolour",
+  "post_url": "https://x.com/BlendiByl/status/2121177279451844707",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 7.4,
+  "tags": [
+   "Cosy",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/e03f85a0-3cff-464d-b203-dc0623e322d2-watercolour-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/ca2689f5-4112-4860-af0d-d6fca28b1374-watercolour-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/8aeae73a-b9ca-4c88-9b65-0d20fc8195fb-watercolour-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/449fd3da-2c5a-4f36-88fd-8d657894d694-watercolour-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/48541834-e9bd-4bc4-b30f-b000426bb5a5-watercolour-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/c7e1f10e-1e15-4587-a70e-de291743170c-watercolour-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/9f0b6160-fcc8-4262-ac97-e51c6b4290a6-watercolour-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/watercolour",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": null,
+  "cover": "assets/covers/watercolour.jpg"
  },
  {
   "slug": "hogwarts-royale",
@@ -1321,5 +1646,38 @@
   "vibegamer_url": "https://vibegamer.io/game/neon-coast",
   "checked_on": "2026-11-11",
   "model": "Claude Fable 5.2"
+ },
+ {
+  "slug": "the-lost-storm",
+  "name": "The Lost Storm",
+  "headline": "An isometric dark-fantasy action RPG in the browser, in open alpha: wake in the mist, fight through rain-slick ruins and collect loot with legendary powers. Built in three.js with Claude Fable 5.2 and streamed live.",
+  "maker": "Mark Arguinbaev",
+  "maker_handle": "marginsystems",
+  "play_url": "https://theloststorm.com/play/",
+  "post_url": "https://x.com/marginsystems/status/2120813222098071936",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 6.4,
+  "tags": [
+   "RPG",
+   "Action",
+   "Dark fantasy"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/c88fc3c5-1c06-4380-ac4a-ab6479c8e77b-the-lost-storm-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/86dd2632-4ab1-4375-9487-7ea6e55fe6af-the-lost-storm-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/47d7d837-30ad-4f99-b80f-f7c13deb5859-the-lost-storm-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/2163d25e-3584-4aa7-940c-72d41f5e66bb-the-lost-storm-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/b3cb4ba3-31c1-432f-8c8e-d60216fcae77-the-lost-storm-shot-5.jpg",
+   "https://cdn.vibegamer.io/submissions/df0fca6a-7a8b-4d59-b1ae-25a6d86761e3-the-lost-storm-shot-6.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/977a18ec-4bc0-4bba-b03b-3e37104e8e11-the-lost-storm-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/the-lost-storm",
+  "prompt_note": null,
+  "checked_on": "2026-11-14",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/the-lost-storm.jpg"
  }
 ]

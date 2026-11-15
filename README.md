@@ -1,6 +1,6 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-51-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-40-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-52-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-41-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ### ▶ [Play all of these in your browser → vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -8,7 +8,7 @@
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**51 games · 40 playable in the browser · 5 with prompts** · Updated 2026-11-14
+**52 games · 41 playable in the browser · 5 with prompts** · Updated 2026-11-15
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -39,6 +39,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#gilt-and-gutter"><img src="assets/covers/gilt-and-gutter.jpg" width="160" alt="Gilt & Gutter cover"></a> | **[Gilt & Gutter](#gilt-and-gutter)** | [Kevin Ngo](https://x.com/kevin_t_ngo) | Claude Fable 5.2 | [▶ Play URL](https://gilt-and-gutter.vercel.app) | [page](https://vibegamer.io/game/gilt-and-gutter?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/kevin_t_ngo/status/2119900487688622171) | 318 |  | 9/10 |
 | <a href="#the-waking-river"><img src="assets/covers/the-waking-river.jpg" width="160" alt="The Waking River cover"></a> | **[The Waking River](#the-waking-river)** | [Florence](https://x.com/flxrnc) | Claude Fable 5.2 | [▶ Play URL](https://rivergame-kappa.vercel.app) | [page](https://vibegamer.io/game/the-waking-river?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/flxrnc/status/2120494277528580110) | 86 |  | 9/10 |
 | <a href="#tidewright"><img src="assets/covers/tidewright.jpg" width="160" alt="Tidewright cover"></a> | **[Tidewright](#tidewright)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4) | [page](https://vibegamer.io/game/tidewright?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/felixrieseberg/status/2119867839033352596) |  |  | 9/10 |
+| <a href="#small-magic"><img src="assets/covers/small-magic.jpg" width="160" alt="Small Magic cover"></a> | **[Small Magic](#small-magic)** | [Blendi](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/play/blendi/small-magic) | [page](https://vibegamer.io/game/small-magic?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2121594536153718972) | 1.5K |  | 8.8/10 |
 | <a href="#saltfire"><img src="assets/covers/saltfire.jpg" width="160" alt="Saltfire cover"></a> | **[Saltfire](#saltfire)** | [Higgsfield AI](https://x.com/higgsfield_ai) | Claude Fable 5.2 | [▶ Play URL](https://saltfire.higgsfield.app/) | [page](https://vibegamer.io/game/saltfire?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/higgsfield_ai/status/2119928918035910668) |  |  | 8.6/10 |
 | <a href="#parallax"><img src="assets/covers/parallax.jpg" width="160" alt="Parallax cover"></a> | **[Parallax](#parallax)** | [Sholto Douglas](https://x.com/_sholtodouglas) | Claude Fable 5.2 | video only |  | [X](https://x.com/_sholtodouglas/status/2119935331499925557) | 1.9K |  | 8.5/10 |
 | <a href="#dragon-rider"><img src="assets/covers/dragon-rider.jpg" width="160" alt="Dragon Rider cover"></a> | **[Dragon Rider](#dragon-rider)** | [Future Brian](https://x.com/ForwardEditor) | Claude Fable 5.2 | video only |  | [X](https://x.com/ForwardEditor/status/2119867743965163994) | 461 |  | 8.5/10 |
@@ -286,6 +287,24 @@ Sail a storm-tossed night sea and relight the lighthouses of the Thrumming Isles
 - **Tidewright on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/tidewright](https://vibegamer.io/game/tidewright?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 9/10 for visuals and polish.</sub>
+
+### Small Magic
+<a id="small-magic"></a>
+
+<a href="https://vibegamer.io/game/small-magic?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/small-magic.jpg" alt="Small Magic: cover art" width="100%"></a>
+
+A first-person wizard sandbox where you blow up a meadow, a castle and a ring of standing stones with seven spells: explosions, a singularity, a fire tornado and a burst of flowers. Blendi made it with Claude Fable 5.2 in one day, all in code, no 3D models or textures.
+
+<p><img src="https://cdn.vibegamer.io/submissions/0654af32-a704-41ba-b785-bcbe0d86fff9-small-magic-shot-1.jpg" width="32%" alt="Small Magic gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/ada103d2-71ef-4fd3-ae01-eeb5e1c328d8-small-magic-shot-2.jpg" width="32%" alt="Small Magic gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/a8514d1d-51bf-468f-80c2-d57895d8c2ee-small-magic-shot-3.jpg" width="32%" alt="Small Magic gameplay screenshot"></p>
+
+- **Made by:** Blendi ([@BlendiByl](https://x.com/BlendiByl))
+- **Model:** Claude Fable 5.2
+- **Small Magic game URL:** https://patch.gg/play/blendi/small-magic
+- **Original post:** https://x.com/BlendiByl/status/2121594536153718972 (1.5K likes, 76.7K views, checked November 15, 2026)
+- **Tags:** Sandbox, 3D, Physics
+- **Small Magic on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/small-magic](https://vibegamer.io/game/small-magic?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.8/10 for visuals and polish.</sub>
 
 ### Saltfire
 <a id="saltfire"></a>

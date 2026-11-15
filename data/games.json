@@ -364,6 +364,38 @@
   "model": "Claude Fable 5.2"
  },
  {
+  "slug": "small-magic",
+  "name": "Small Magic",
+  "headline": "A first-person wizard sandbox where you blow up a meadow, a castle and a ring of standing stones with seven spells: explosions, a singularity, a fire tornado and a burst of flowers. Blendi made it with Claude Fable 5.2 in one day, all in code, no 3D models or textures.",
+  "maker": "Blendi",
+  "maker_handle": "BlendiByl",
+  "play_url": "https://patch.gg/play/blendi/small-magic",
+  "post_url": "https://x.com/BlendiByl/status/2121594536153718972",
+  "likes_at_check": 1500,
+  "views_at_check": 76700,
+  "score": 8.8,
+  "tags": [
+   "Sandbox",
+   "3D",
+   "Physics"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/0654af32-a704-41ba-b785-bcbe0d86fff9-small-magic-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/ada103d2-71ef-4fd3-ae01-eeb5e1c328d8-small-magic-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/a8514d1d-51bf-468f-80c2-d57895d8c2ee-small-magic-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/39583b7f-1c22-4c75-a9e0-769632a3ca8f-small-magic-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/a64953bb-7489-4792-8c63-d58405c8ccdd-small-magic-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/e352017a-9be3-4602-8854-4da4dbecadc0-small-magic-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/small-magic",
+  "prompt_note": null,
+  "checked_on": "2026-11-15",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/small-magic.jpg"
+ },
+ {
   "slug": "saltfire",
   "name": "Saltfire",
   "headline": "Armed offshore powerboat racing: race five AI rivals across five-metre seas with homing rockets and gun turrets, past sea stacks, oil rigs and wind farms. Higgsfield built it with Claude Fable 5.2 and three.js.",

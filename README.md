@@ -1,6 +1,6 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-52-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-41-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-53-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-42-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ### ▶ [Play all of these in your browser → vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -8,7 +8,7 @@
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**52 games · 41 playable in the browser · 5 with prompts** · Updated 2026-11-15
+**53 games · 42 playable in the browser · 5 with prompts** · Updated 2026-11-16
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -41,6 +41,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#tidewright"><img src="assets/covers/tidewright.jpg" width="160" alt="Tidewright cover"></a> | **[Tidewright](#tidewright)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4) | [page](https://vibegamer.io/game/tidewright?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/felixrieseberg/status/2119867839033352596) |  |  | 9/10 |
 | <a href="#small-magic"><img src="assets/covers/small-magic.jpg" width="160" alt="Small Magic cover"></a> | **[Small Magic](#small-magic)** | [Blendi](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/play/blendi/small-magic) | [page](https://vibegamer.io/game/small-magic?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2121594536153718972) | 1.5K |  | 8.8/10 |
 | <a href="#saltfire"><img src="assets/covers/saltfire.jpg" width="160" alt="Saltfire cover"></a> | **[Saltfire](#saltfire)** | [Higgsfield AI](https://x.com/higgsfield_ai) | Claude Fable 5.2 | [▶ Play URL](https://saltfire.higgsfield.app/) | [page](https://vibegamer.io/game/saltfire?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/higgsfield_ai/status/2119928918035910668) |  |  | 8.6/10 |
+| <a href="#castle-valley"><img src="assets/covers/castle-valley.jpg" width="160" alt="Castle Valley cover"></a> | **[Castle Valley](#castle-valley)** | [Tommy D. Rossi](https://x.com/__morse) | Claude Fable 5.2 | [▶ Play URL](https://omw-game.kimaki.dev/) | [page](https://vibegamer.io/game/castle-valley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/__morse/status/2122013410309153042) |  |  | 8.6/10 |
 | <a href="#parallax"><img src="assets/covers/parallax.jpg" width="160" alt="Parallax cover"></a> | **[Parallax](#parallax)** | [Sholto Douglas](https://x.com/_sholtodouglas) | Claude Fable 5.2 | video only |  | [X](https://x.com/_sholtodouglas/status/2119935331499925557) | 1.9K |  | 8.5/10 |
 | <a href="#dragon-rider"><img src="assets/covers/dragon-rider.jpg" width="160" alt="Dragon Rider cover"></a> | **[Dragon Rider](#dragon-rider)** | [Future Brian](https://x.com/ForwardEditor) | Claude Fable 5.2 | video only |  | [X](https://x.com/ForwardEditor/status/2119867743965163994) | 461 |  | 8.5/10 |
 | <a href="#starfall-moba"><img src="assets/covers/starfall-moba.jpg" width="160" alt="Starfall (星陨战纪) cover"></a> | **[Starfall (星陨战纪)](#starfall-moba)** | [Fu Sheng](https://x.com/FuSheng_0306) | Claude Fable 5.2 | [▶ Play URL](https://sanwan.ai/games/xingyun-moba/) | [page](https://vibegamer.io/game/starfall-moba?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/FuSheng_0306/status/2121237878097207583) |  |  | 8.5/10 |
@@ -321,6 +322,25 @@ Armed offshore powerboat racing: race five AI rivals across five-metre seas with
 - **Original post:** https://x.com/higgsfield_ai/status/2119928918035910668
 - **Tags:** Racing, Combat, 3D
 - **Saltfire on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/saltfire](https://vibegamer.io/game/saltfire?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.6/10 for visuals and polish.</sub>
+
+### Castle Valley
+<a id="castle-valley"></a>
+
+<a href="https://vibegamer.io/game/castle-valley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/castle-valley.jpg" alt="Castle Valley: cover art" width="100%"></a>
+
+A first-person fantasy walk painted in oil brush strokes: torch in one hand, sword in the other, you leave a dark forest for a village under a castle and fight goblins and trolls on the way. Tommy D. Rossi says Claude Fable 5.2 made it; it is open source.
+
+<p><img src="https://cdn.vibegamer.io/submissions/e5e5baae-3305-4765-8685-da5416393655-castle-valley-shot-1.jpg" width="32%" alt="Castle Valley gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/b7b6cc98-8e52-4a1d-97ea-ffb4f27cb646-castle-valley-shot-2.jpg" width="32%" alt="Castle Valley gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/d2180a7a-6426-4e79-9b70-45e36cad7954-castle-valley-shot-3.jpg" width="32%" alt="Castle Valley gameplay screenshot"></p>
+
+- **Made by:** Tommy D. Rossi ([@__morse](https://x.com/__morse))
+- **Model:** Claude Fable 5.2
+- **Castle Valley game URL:** https://omw-game.kimaki.dev/
+- **Original post:** https://x.com/__morse/status/2122013410309153042
+- **Source:** open source, https://github.com/remorses/castle-valley
+- **Tags:** 3D, Action, Adventure
+- **Castle Valley on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/castle-valley](https://vibegamer.io/game/castle-valley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8.6/10 for visuals and polish.</sub>
 

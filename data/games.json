@@ -429,6 +429,38 @@
   "cover": "assets/covers/saltfire.jpg"
  },
  {
+  "slug": "castle-valley",
+  "name": "Castle Valley",
+  "headline": "A first-person fantasy walk painted in oil brush strokes: torch in one hand, sword in the other, you leave a dark forest for a village under a castle and fight goblins and trolls on the way. Tommy D. Rossi says Claude Fable 5.2 made it; it is open source.",
+  "maker": "Tommy D. Rossi",
+  "maker_handle": "__morse",
+  "play_url": "https://omw-game.kimaki.dev/",
+  "post_url": "https://x.com/__morse/status/2122013410309153042",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 8.6,
+  "tags": [
+   "3D",
+   "Action",
+   "Adventure"
+  ],
+  "open_source_url": "https://github.com/remorses/castle-valley",
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/e5e5baae-3305-4765-8685-da5416393655-castle-valley-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/b7b6cc98-8e52-4a1d-97ea-ffb4f27cb646-castle-valley-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/d2180a7a-6426-4e79-9b70-45e36cad7954-castle-valley-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/d7e8e30e-bd87-4d57-a720-ed101992ead7-castle-valley-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/eba0adae-6736-4859-9387-1c62c2633fe7-castle-valley-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/7101e8c6-101a-4a3b-b7d4-820346fc468b-castle-valley-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/castle-valley",
+  "prompt_note": null,
+  "checked_on": "2026-11-16",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/castle-valley.jpg"
+ },
+ {
   "slug": "parallax",
   "name": "Parallax",
   "headline": "An arena FPS where everyone carries a portal door: open one behind an enemy, shoot through it, or use it to board their platform, on white marble arenas under a ringed planet. Anthropic's Sholto Douglas made it with Claude Fable 5.2 and playtests it against colleagues at the office. No public build.",

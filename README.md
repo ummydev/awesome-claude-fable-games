@@ -1,6 +1,6 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-53-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-42-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-55-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-44-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ### ▶ [Play all of these in your browser → vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -8,7 +8,7 @@
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**53 games · 42 playable in the browser · 5 with prompts** · Updated 2026-11-16
+**55 games · 44 playable in the browser · 5 with prompts** · Updated 2026-11-17
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -40,6 +40,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#the-waking-river"><img src="assets/covers/the-waking-river.jpg" width="160" alt="The Waking River cover"></a> | **[The Waking River](#the-waking-river)** | [Florence](https://x.com/flxrnc) | Claude Fable 5.2 | [▶ Play URL](https://rivergame-kappa.vercel.app) | [page](https://vibegamer.io/game/the-waking-river?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/flxrnc/status/2120494277528580110) | 86 |  | 9/10 |
 | <a href="#tidewright"><img src="assets/covers/tidewright.jpg" width="160" alt="Tidewright cover"></a> | **[Tidewright](#tidewright)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/JTgyEMn7sn1q2riWrMb7D4) | [page](https://vibegamer.io/game/tidewright?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/felixrieseberg/status/2119867839033352596) |  |  | 9/10 |
 | <a href="#small-magic"><img src="assets/covers/small-magic.jpg" width="160" alt="Small Magic cover"></a> | **[Small Magic](#small-magic)** | [Blendi](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/play/blendi/small-magic) | [page](https://vibegamer.io/game/small-magic?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2121594536153718972) | 1.5K |  | 8.8/10 |
+| <a href="#heat"><img src="assets/covers/heat.jpg" width="160" alt="HEAT cover"></a> | **[HEAT](#heat)** | [Aravind Srinivas](https://x.com/AravSrinivas) | Claude Fable 5.2 | [▶ Play URL](https://heat.pplx.app/) | [page](https://vibegamer.io/game/heat?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/AravSrinivas/status/2122338465648103676) | 765 |  | 8.7/10 |
 | <a href="#saltfire"><img src="assets/covers/saltfire.jpg" width="160" alt="Saltfire cover"></a> | **[Saltfire](#saltfire)** | [Higgsfield AI](https://x.com/higgsfield_ai) | Claude Fable 5.2 | [▶ Play URL](https://saltfire.higgsfield.app/) | [page](https://vibegamer.io/game/saltfire?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/higgsfield_ai/status/2119928918035910668) |  |  | 8.6/10 |
 | <a href="#castle-valley"><img src="assets/covers/castle-valley.jpg" width="160" alt="Castle Valley cover"></a> | **[Castle Valley](#castle-valley)** | [Tommy D. Rossi](https://x.com/__morse) | Claude Fable 5.2 | [▶ Play URL](https://omw-game.kimaki.dev/) | [page](https://vibegamer.io/game/castle-valley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/__morse/status/2122013410309153042) |  |  | 8.6/10 |
 | <a href="#parallax"><img src="assets/covers/parallax.jpg" width="160" alt="Parallax cover"></a> | **[Parallax](#parallax)** | [Sholto Douglas](https://x.com/_sholtodouglas) | Claude Fable 5.2 | video only |  | [X](https://x.com/_sholtodouglas/status/2119935331499925557) | 1.9K |  | 8.5/10 |
@@ -48,6 +49,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#reef-dive"><img src="assets/covers/reef-dive.jpg" width="160" alt="Reef Dive cover"></a> | **[Reef Dive](#reef-dive)** | [Ibrahim Boona](https://x.com/boona11) | Claude Fable 5.2 | [▶ Play URL](https://wavedash.com/games/reef-dive) | [page](https://vibegamer.io/game/reef-dive?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/boona11/status/2120482516733702472) |  |  | 8.5/10 |
 | <a href="#cordon-9"><img src="assets/covers/cordon-9.jpg" width="160" alt="CORDON 9 cover"></a> | **[CORDON 9](#cordon-9)** | [Aravind Srinivas](https://x.com/AravSrinivas) | Claude Fable 5.2 | [▶ Play URL](https://cordon9.pplx.app) | [page](https://vibegamer.io/game/cordon-9?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/AravSrinivas/status/2120506245131977026) |  |  | 8.4/10 |
 | <a href="#great-wave"><img src="assets/covers/great-wave.jpg" width="160" alt="Great Wave cover"></a> | **[Great Wave](#great-wave)** | [Nil Ni](https://x.com/_nilni) | Claude Fable 5.2 | [▶ Play URL](https://www.aigameshare.com/games/great-wave-off-kanagawa) | [page](https://vibegamer.io/game/great-wave?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/_nilni/status/2120797996610994355) | 7 |  | 8.3/10 |
+| <a href="#baseboard"><img src="assets/covers/baseboard.jpg" width="160" alt="Baseboard cover"></a> | **[Baseboard](#baseboard)** | [Chris DiMarco](https://x.com/chrisjdimarco) | Claude Fable 5.2 | [▶ Play URL](https://app.thinklet.io/t/baseboard-393600) | [page](https://vibegamer.io/game/baseboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/chrisjdimarco/status/2122455657034985828) |  |  | 8.3/10 |
 | <a href="#skywake"><img src="assets/covers/skywake.jpg" width="160" alt="Skywake: Kite & Mo's Big Flight cover"></a> | **[Skywake: Kite & Mo's Big Flight](#skywake)** | [Aniket J](https://x.com/aniketjart) | Gemini 4 Argon and Claude Opus 5.5 | [▶ Play URL](https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057) | [page](https://vibegamer.io/game/skywake?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/aniketjart/status/2117508141076378029) | 203 |  | 8.2/10 |
 | <a href="#valley-ride"><img src="assets/covers/valley-ride.jpg" width="160" alt="Valley Ride cover"></a> | **[Valley Ride](#valley-ride)** | [Prasenjit](https://x.com/prasenx) | Claude Opus 5.5 and Claude Fable 5.2 | [▶ Play URL](https://starknightt.github.io/valley-ride/) | [page](https://vibegamer.io/game/valley-ride?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/prasenx/status/2120565971270459430) | 162 |  | 8.2/10 |
 | <a href="#nightclub-drift-speed"><img src="assets/covers/nightclub-drift-speed.jpg" width="160" alt="NightClub: Drift & Speed cover"></a> | **[NightClub: Drift & Speed](#nightclub-drift-speed)** | [Story91](https://x.com/Story91_) | Claude Fable 5.2 | [▶ Play URL](https://www.nightclub-driftspeed.xyz/) | [page](https://vibegamer.io/game/nightclub-drift-speed?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Story91_/status/2121016763190059194) |  |  | 8.2/10 |
@@ -307,6 +309,24 @@ A first-person wizard sandbox where you blow up a meadow, a castle and a ring of
 
 <sub>Our score: 8.8/10 for visuals and polish.</sub>
 
+### HEAT
+<a id="heat"></a>
+
+<a href="https://vibegamer.io/game/heat?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/heat.jpg" alt="HEAT: cover art" width="100%"></a>
+
+An open-world driving game in a neon 1986 Miami, in the browser: pick a car in a neon garage and cruise beaches, bridges and rainy downtown at night. Perplexity CEO Aravind Srinivas says a Teammate agent on Claude Fable 5.2 built it with its own WebGL2 renderer and no external assets.
+
+<p><img src="https://cdn.vibegamer.io/submissions/b2ccfea6-ece8-423b-9407-6348a00c1338-heat-shot-1.jpg" width="32%" alt="HEAT gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/44e0b36c-0082-4f21-8682-f8e70f480db1-heat-shot-2.jpg" width="32%" alt="HEAT gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/2e19a20f-b94a-4bf7-8fbe-e88ec4e44003-heat-shot-3.jpg" width="32%" alt="HEAT gameplay screenshot"></p>
+
+- **Made by:** Aravind Srinivas ([@AravSrinivas](https://x.com/AravSrinivas))
+- **Model:** Claude Fable 5.2
+- **HEAT game URL:** https://heat.pplx.app/
+- **Original post:** https://x.com/AravSrinivas/status/2122338465648103676 (765 likes, 45.6K views, checked November 17, 2026)
+- **Tags:** Driving, Open world, 3D
+- **HEAT on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/heat](https://vibegamer.io/game/heat?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.7/10 for visuals and polish.</sub>
+
 ### Saltfire
 <a id="saltfire"></a>
 
@@ -447,6 +467,24 @@ Surf Hokusai's Great Wave off Kanagawa: the woodblock print becomes a game where
 - **Original post:** https://x.com/_nilni/status/2120797996610994355 (7 likes, checked November 13, 2026)
 - **Tags:** Arcade, Sports
 - **Great Wave on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/great-wave](https://vibegamer.io/game/great-wave?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.3/10 for visuals and polish.</sub>
+
+### Baseboard
+<a id="baseboard"></a>
+
+<a href="https://vibegamer.io/game/baseboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/baseboard.jpg" alt="Baseboard: cover art" width="100%"></a>
+
+A 3D survival game where you are a mouse in a four-room apartment, scavenging crumbs under giant furniture and racing a rival mouse, with multiplayer. Chris DiMarco made it with Claude Fable 5.2 for about $60–80 in credits.
+
+<p><img src="https://cdn.vibegamer.io/submissions/5c5d6b90-a52a-46fb-a098-9241a1d9e9cb-baseboard-shot-1.jpg" width="32%" alt="Baseboard gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/0c1f5646-221b-404e-a608-91b0852dff16-baseboard-shot-2.jpg" width="32%" alt="Baseboard gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/4a7b0a8c-76f7-49a6-ba8a-a482fdc0911a-baseboard-shot-3.jpg" width="32%" alt="Baseboard gameplay screenshot"></p>
+
+- **Made by:** Chris DiMarco ([@chrisjdimarco](https://x.com/chrisjdimarco))
+- **Model:** Claude Fable 5.2
+- **Baseboard game URL:** https://app.thinklet.io/t/baseboard-393600
+- **Original post:** https://x.com/chrisjdimarco/status/2122455657034985828
+- **Tags:** 3D, Multiplayer, Survival
+- **Baseboard on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/baseboard](https://vibegamer.io/game/baseboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8.3/10 for visuals and polish.</sub>
 

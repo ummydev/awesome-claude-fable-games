@@ -396,6 +396,38 @@
   "cover": "assets/covers/small-magic.jpg"
  },
  {
+  "slug": "heat",
+  "name": "HEAT",
+  "headline": "An open-world driving game in a neon 1986 Miami, in the browser: pick a car in a neon garage and cruise beaches, bridges and rainy downtown at night. Perplexity CEO Aravind Srinivas says a Teammate agent on Claude Fable 5.2 built it with its own WebGL2 renderer and no external assets.",
+  "maker": "Aravind Srinivas",
+  "maker_handle": "AravSrinivas",
+  "play_url": "https://heat.pplx.app/",
+  "post_url": "https://x.com/AravSrinivas/status/2122338465648103676",
+  "views_at_check": 45586,
+  "likes_at_check": 765,
+  "score": 8.7,
+  "tags": [
+   "Driving",
+   "Open world",
+   "3D"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/b2ccfea6-ece8-423b-9407-6348a00c1338-heat-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/44e0b36c-0082-4f21-8682-f8e70f480db1-heat-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/2e19a20f-b94a-4bf7-8fbe-e88ec4e44003-heat-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/34b179d5-9eeb-4089-8e3d-5c99fecbaa10-heat-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/97d059ad-3697-4cfd-af55-9499e5921e04-heat-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/74219463-8f76-4693-9d8e-0d1c73ce2425-heat-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/heat",
+  "prompt_note": null,
+  "checked_on": "2026-11-17",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/heat.jpg"
+ },
+ {
   "slug": "saltfire",
   "name": "Saltfire",
   "headline": "Armed offshore powerboat racing: race five AI rivals across five-metre seas with homing rockets and gun turrets, past sea stacks, oil rigs and wind farms. Higgsfield built it with Claude Fable 5.2 and three.js.",
@@ -650,6 +682,38 @@
   "checked_on": "2026-11-13",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/great-wave.jpg"
+ },
+ {
+  "slug": "baseboard",
+  "name": "Baseboard",
+  "headline": "A 3D survival game where you are a mouse in a four-room apartment, scavenging crumbs under giant furniture and racing a rival mouse, with multiplayer. Chris DiMarco made it with Claude Fable 5.2 for about $60–80 in credits.",
+  "maker": "Chris DiMarco",
+  "maker_handle": "chrisjdimarco",
+  "play_url": "https://app.thinklet.io/t/baseboard-393600",
+  "post_url": "https://x.com/chrisjdimarco/status/2122455657034985828",
+  "views_at_check": null,
+  "likes_at_check": null,
+  "score": 8.3,
+  "tags": [
+   "3D",
+   "Multiplayer",
+   "Survival"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/5c5d6b90-a52a-46fb-a098-9241a1d9e9cb-baseboard-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/0c1f5646-221b-404e-a608-91b0852dff16-baseboard-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/4a7b0a8c-76f7-49a6-ba8a-a482fdc0911a-baseboard-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/22e4e53e-7238-4c54-9832-718a49cc54f1-baseboard-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/2dae4004-8053-49f2-b574-f0a2313d37fd-baseboard-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/10c0427c-77e4-4eb5-affc-605bad4722b4-baseboard-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/baseboard",
+  "prompt_note": null,
+  "checked_on": "2026-11-17",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/baseboard.jpg"
  },
  {
   "slug": "skywake",

@@ -396,6 +396,39 @@
   "cover": "assets/covers/small-magic.jpg"
  },
  {
+  "slug": "crosstown",
+  "name": "CROSSTOWN",
+  "headline": "A GTA-style open world of all of Manhattan, to scale, in the browser: drive the avenues, fly a helicopter over Central Park, parachute off towers and shoot, by day and night. Matt Shumer says Claude Fable 5.2 built it.",
+  "maker": "Matt Shumer",
+  "maker_handle": "mattshumer_",
+  "play_url": "https://nyc.somethingbig.ai/",
+  "post_url": "https://x.com/mattshumer_/status/2123134336891318350",
+  "likes_at_check": 234,
+  "views_at_check": 36327,
+  "score": 8.8,
+  "tags": [
+   "Open world",
+   "Driving",
+   "3D",
+   "Shooter"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/103f82d8-4f92-45ba-bc3b-f20b73492465-crosstown-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/fec9cd6a-bec5-44d4-a166-2dd87db714d3-crosstown-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/95bf1815-a6fe-4d70-a65e-768e7316e3ee-crosstown-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/9c1d2e5e-2d20-42df-a447-16fbd59d7714-crosstown-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/cc37a2ad-ff6e-4569-a876-8867fa2ff672-crosstown-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/7f419e00-43f3-4721-976f-41b7c8c06b96-crosstown-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/crosstown",
+  "prompt_note": null,
+  "checked_on": "2026-11-19",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/crosstown.jpg"
+ },
+ {
   "slug": "heat",
   "name": "HEAT",
   "headline": "An open-world driving game in a neon 1986 Miami, in the browser: pick a car in a neon garage and cruise beaches, bridges and rainy downtown at night. Perplexity CEO Aravind Srinivas says a Teammate agent on Claude Fable 5.2 built it with its own WebGL2 renderer and no external assets.",

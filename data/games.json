@@ -1675,6 +1675,40 @@
   "cover": "assets/covers/painted-valley.jpg"
  },
  {
+  "slug": "drift-a-harma-story",
+  "name": "DRIFT: A Harma Story",
+  "headline": "A first-person 3D mystery on a dead mining station in the asteroid belt: silence the beacon, then find out why the crew never left. Made with Claude Fable 5.2 and Opus 5.5.",
+  "maker": "Rencrypta",
+  "maker_handle": "Rencrypta",
+  "play_url": "https://drift.harma.cc/en",
+  "post_url": "https://x.com/Rencrypta/status/2123527249064321465",
+  "likes_at_check": 18,
+  "views_at_check": null,
+  "score": 7.4,
+  "tags": [
+   "3D",
+   "Adventure",
+   "Puzzle",
+   "Story",
+   "Space"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/c6d4f510-3133-4e5d-9de3-ff462ac4af4b-drift-a-harma-story-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/393142c8-c1c0-4d06-af61-6f2915563f66-drift-a-harma-story-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/286b46de-4a3c-410f-bc7a-5f8172a08207-drift-a-harma-story-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/0ea8935f-c669-4455-9af3-f0fd3a65fad4-drift-a-harma-story-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/5befe73b-3903-4c7b-8fd2-e1e580bb0ea6-drift-a-harma-story-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/a2115bec-8bdc-4bb3-bf42-7866325b54c2-drift-a-harma-story-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/drift-a-harma-story",
+  "prompt_note": null,
+  "checked_on": "2026-11-20",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/drift-a-harma-story.jpg"
+ },
+ {
   "slug": "watercolour",
   "name": "Watercolour",
   "headline": "Walk a girl in a red hood through a pencil sketch that turns into watercolour wherever she goes: poppy meadows, a river, willows and a pink blossom tree bloom in as you walk.",

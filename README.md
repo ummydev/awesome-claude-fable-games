@@ -1,6 +1,6 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-56-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-45-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-57-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-46-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ### ▶ [Play all of these in your browser → vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -8,7 +8,7 @@
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**56 games · 45 playable in the browser · 5 with prompts** · Updated 2026-11-19
+**57 games · 46 playable in the browser · 5 with prompts** · Updated 2026-11-20
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -79,6 +79,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#patchwork-quilt"><img src="assets/covers/patchwork-quilt.jpg" width="160" alt="Patchwork Quilt cover"></a> | **[Patchwork Quilt](#patchwork-quilt)** | [Blendi](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/blendi/patchwork-quilt) | [page](https://vibegamer.io/game/patchwork-quilt?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2120746541636047347) |  |  | 7.6/10 |
 | <a href="#skyseed-pips-tempest-run"><img src="assets/covers/skyseed-pips-tempest-run.jpg" width="160" alt="Skyseed: Pip's Tempest Run cover"></a> | **[Skyseed: Pip's Tempest Run](#skyseed-pips-tempest-run)** | [Sahil Panhotra](https://x.com/SahilPanhotra) | Gemini 4 Hydrogen | [▶ Play URL](https://01a1b677-97ba-7006-a384-e83b3e5793db.arena.site/) | [page](https://vibegamer.io/game/skyseed-pips-tempest-run?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/SahilPanhotra/status/2119102771173769262) | 60 |  | 7.5/10 |
 | <a href="#painted-valley"><img src="assets/covers/painted-valley.jpg" width="160" alt="Painted Valley cover"></a> | **[Painted Valley](#painted-valley)** | [Blendi](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/blendi/painted-valley) | [page](https://vibegamer.io/game/painted-valley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2120694003230560585) |  |  | 7.5/10 |
+| <a href="#drift-a-harma-story"><img src="assets/covers/drift-a-harma-story.jpg" width="160" alt="DRIFT: A Harma Story cover"></a> | **[DRIFT: A Harma Story](#drift-a-harma-story)** | [Rencrypta](https://x.com/Rencrypta) | Claude Fable 5.2 | [▶ Play URL](https://drift.harma.cc/en) | [page](https://vibegamer.io/game/drift-a-harma-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Rencrypta/status/2123527249064321465) | 18 |  | 7.4/10 |
 | <a href="#watercolour"><img src="assets/covers/watercolour.jpg" width="160" alt="Watercolour cover"></a> | **[Watercolour](#watercolour)** | [Blendi](https://x.com/BlendiByl) | not stated | [▶ Play URL](https://patch.gg/blendi/watercolour) | [page](https://vibegamer.io/game/watercolour?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2121177279451844707) |  |  | 7.4/10 |
 | <a href="#hogwarts-royale"><img src="assets/covers/hogwarts-royale.jpg" width="160" alt="Hogwarts Royale cover"></a> | **[Hogwarts Royale](#hogwarts-royale)** | [Matt Shumer](https://x.com/mattshumer_) | Claude Fable 5.2 | [▶ Play URL](https://www.spawn.co/@mattshumer/hogwarts-royale) | [page](https://vibegamer.io/game/hogwarts-royale?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/mattshumer_/status/2119872098306810226) | 307 | ✓ | 7/10 |
 | <a href="#the-clockmakers-mansion"><img src="assets/covers/the-clockmakers-mansion.jpg" width="160" alt="The Clockmaker's Mansion cover"></a> | **[The Clockmaker's Mansion](#the-clockmakers-mansion)** | [@mihawkxxxxx](https://x.com/mihawkxxxxx) | Claude Fable 5.2 | video only | [page](https://vibegamer.io/game/the-clockmakers-mansion?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/mihawkxxxxx/status/2119909865296699749) | 11 |  | 7/10 |
@@ -1036,6 +1037,24 @@ Run through a Ghibli-inspired painted valley of wind-swept grass, distant villag
 - **Painted Valley on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/painted-valley](https://vibegamer.io/game/painted-valley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 7.5/10 for visuals and polish.</sub>
+
+### DRIFT: A Harma Story
+<a id="drift-a-harma-story"></a>
+
+<a href="https://vibegamer.io/game/drift-a-harma-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/drift-a-harma-story.jpg" alt="DRIFT: A Harma Story: cover art" width="100%"></a>
+
+A first-person 3D mystery on a dead mining station in the asteroid belt: silence the beacon, then find out why the crew never left. Made with Claude Fable 5.2 and Opus 5.5.
+
+<p><img src="https://cdn.vibegamer.io/submissions/c6d4f510-3133-4e5d-9de3-ff462ac4af4b-drift-a-harma-story-shot-1.jpg" width="32%" alt="DRIFT: A Harma Story gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/393142c8-c1c0-4d06-af61-6f2915563f66-drift-a-harma-story-shot-2.jpg" width="32%" alt="DRIFT: A Harma Story gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/286b46de-4a3c-410f-bc7a-5f8172a08207-drift-a-harma-story-shot-3.jpg" width="32%" alt="DRIFT: A Harma Story gameplay screenshot"></p>
+
+- **Made by:** Rencrypta ([@Rencrypta](https://x.com/Rencrypta))
+- **Model:** Claude Fable 5.2
+- **DRIFT: A Harma Story game URL:** https://drift.harma.cc/en
+- **Original post:** https://x.com/Rencrypta/status/2123527249064321465 (18 likes, checked November 20, 2026)
+- **Tags:** 3D, Adventure, Puzzle, Story, Space
+- **DRIFT: A Harma Story on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/drift-a-harma-story](https://vibegamer.io/game/drift-a-harma-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.4/10 for visuals and polish.</sub>
 
 ### Watercolour
 <a id="watercolour"></a>

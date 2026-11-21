@@ -492,6 +492,37 @@
   "cover": "assets/covers/uno-com-escada.jpg"
  },
  {
+  "slug": "papertrails",
+  "name": "Papertrails",
+  "headline": "A paper figure walks on while trees, houses and hills fold up from the ground like a pop-up book, through desert, snow, forest and day and night",
+  "maker": "xikhar",
+  "maker_handle": "xikhar",
+  "play_url": "https://xikhar.github.io/papertrails/",
+  "post_url": "https://x.com/xikhar/status/2122682962647122403",
+  "likes_at_check": 2239,
+  "views_at_check": null,
+  "score": 8.6,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/076224bc-14ba-490f-ab9c-e1acf4f7b8be-papertrails-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/05b5eb7e-8658-47b0-a86f-2b998ccc81c1-papertrails-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/1bc15c83-dbbf-4340-bc91-160fbb6020db-papertrails-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/310aaa6c-0117-4045-a3c4-ca71e2b9ac54-papertrails-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/b22aa697-4ab4-44b9-b3f8-e64b445da474-papertrails-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/56499e4c-1ba3-40a8-a2ad-e329ed2c2846-papertrails-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/papertrails",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/papertrails.jpg"
+ },
+ {
   "slug": "portals-endless-worlds",
   "name": "Portals: Endless Worlds",
   "headline": "25,000 agents built 450+ code-only 3D worlds inspired by books, art and places, linked by portals you drift through",
@@ -581,6 +612,132 @@
   "checked_on": "2026-11-21",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/lanternfall.jpg"
+ },
+ {
+  "slug": "ancient-babylon-600-bc",
+  "name": "Ancient Babylon, 600 BC",
+  "headline": "Babylon rebuilt from historical documents and plans it found itself, over an 8-hour run",
+  "maker": "literallydenis",
+  "maker_handle": "literallydenis",
+  "play_url": "https://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28",
+  "post_url": "https://x.com/literallydenis/status/2120866958790848953",
+  "likes_at_check": 1166,
+  "views_at_check": null,
+  "score": 8.6,
+  "tags": [
+   "3D",
+   "Exploration",
+   "Runner"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/5079d512-9d8c-4868-84ac-565b537cf548-ancient-babylon-600-bc-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/ea0995e8-d1fe-45a3-a986-5a086d5cedbc-ancient-babylon-600-bc-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/f82059af-4ad9-4c66-b7b6-a8eb5b83e5a2-ancient-babylon-600-bc-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/6d397104-5b0f-4c26-a5fe-372f35c9dba3-ancient-babylon-600-bc-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/3ebd9dd7-b68b-431c-8f6c-7caaab398505-ancient-babylon-600-bc-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/e8f1bc2c-59c9-4e88-b17b-e41bc2ef6627-ancient-babylon-600-bc-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/ancient-babylon-600-bc",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/ancient-babylon-600-bc.jpg"
+ },
+ {
+  "slug": "1-km-of-indiranagar",
+  "name": "1 km² of Indiranagar",
+  "headline": "A live 3D slice of Bengaluru from map data and one prompt",
+  "maker": "anshu4321",
+  "maker_handle": "anshu4321",
+  "play_url": "https://indiranagar-live.vercel.app",
+  "post_url": "https://x.com/anshu4321/status/2119938067758772403",
+  "likes_at_check": 1160,
+  "views_at_check": null,
+  "score": 8.6,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/702970f1-989e-4720-807f-bd47714bd4ac-1-km-of-indiranagar-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/f7dfeb4f-1b66-44b0-9ce3-7c920fb66912-1-km-of-indiranagar-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/0cdd639b-f4a7-4fc2-915a-ac4c94debb5a-1-km-of-indiranagar-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/cc8ce845-028d-4b70-8760-793e2312758d-1-km-of-indiranagar-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/3d7fbf03-e87c-4120-9a02-05cbe3c6f357-1-km-of-indiranagar-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/2ed73ea8-32e4-4fb5-9b77-e29f6a579d94-1-km-of-indiranagar-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/1-km-of-indiranagar",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/1-km-of-indiranagar.jpg"
+ },
+ {
+  "slug": "rome-ad-320",
+  "name": "Rome, AD 320",
+  "headline": "One prompt, Fable 5.2 (Max) running overnight, $2,618",
+  "maker": "petergostev",
+  "maker_handle": "petergostev",
+  "play_url": "https://fable-rome.surge.sh/",
+  "post_url": "https://x.com/petergostev/status/2120167560700383572",
+  "likes_at_check": 973,
+  "views_at_check": null,
+  "score": 8.6,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/6416c9e5-355d-4534-9a25-7eb79cb1dc1d-rome-ad-320-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/1d401491-9ed7-4fab-9619-9285f9f18703-rome-ad-320-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/622d0c28-95af-406b-b83d-72bcdd3138a9-rome-ad-320-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/e900e42b-d445-468d-9024-bc00855804dc-rome-ad-320-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/c92c6ffa-34ef-49c1-8ccf-e5d7fef6f417-rome-ad-320-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/a81e5fe1-17f6-46ea-a307-21effce08b99-rome-ad-320-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/rome-ad-320",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/rome-ad-320.jpg"
+ },
+ {
+  "slug": "er-6-terrain-explorer",
+  "name": "ER-6 Terrain Explorer",
+  "headline": "Fable 5.2 designed a rocker-bogie suspension like NASA's Mars rovers, then simulated it driving over alien terrain",
+  "maker": "DilumSanjaya",
+  "maker_handle": "DilumSanjaya",
+  "play_url": "https://fable-rover.vercel.app",
+  "post_url": "https://x.com/DilumSanjaya/status/2120561077385867663",
+  "likes_at_check": 794,
+  "views_at_check": null,
+  "score": 8.6,
+  "tags": [
+   "3D",
+   "Exploration",
+   "Racing"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/bd9588d7-00d9-47df-b101-e3650d3fcdfb-er-6-terrain-explorer-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/d9662638-8c53-4186-ae70-61e6fa1545e0-er-6-terrain-explorer-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/53b75795-7218-4402-b56c-719ba8d7eed2-er-6-terrain-explorer-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/9fb54972-06c2-49f7-ad55-bc459ffc213f-er-6-terrain-explorer-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/4a61e5a3-99ca-4ab7-8bb3-e580ed578fec-er-6-terrain-explorer-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/a01fd2f3-0657-40d0-b279-30eaf72dbead-er-6-terrain-explorer-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/er-6-terrain-explorer",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/er-6-terrain-explorer.jpg"
  },
  {
   "slug": "solar",
@@ -957,6 +1114,38 @@
   "cover": "assets/covers/childhood-rug-racer.jpg"
  },
  {
+  "slug": "bay-area-through-time",
+  "name": "Bay Area Through Time",
+  "headline": "Zoom to any city or neighborhood, pick any year back to 1769 and see what it looked like",
+  "maker": "theojaffee",
+  "maker_handle": "theojaffee",
+  "play_url": "https://bay.theojaffee.net",
+  "post_url": "https://x.com/theojaffee/status/2120312766544437738",
+  "likes_at_check": 388,
+  "views_at_check": null,
+  "score": 8.4,
+  "tags": [
+   "3D",
+   "Exploration",
+   "Strategy"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/2b491ce2-6204-4aaf-a51a-453a160c8059-bay-area-through-time-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/d20a3cc4-53c8-4c90-947b-6119a703cf63-bay-area-through-time-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/02bcd7d5-029a-4b86-b0d3-d835bda2d168-bay-area-through-time-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/adb5059c-53bc-451b-8f36-a6bd7ce4c58a-bay-area-through-time-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/baf4304d-3175-453a-bab9-8dcbc1846edb-bay-area-through-time-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/711aae2f-23cf-415d-ba8b-1d00c476fc8d-bay-area-through-time-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/bay-area-through-time",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/bay-area-through-time.jpg"
+ },
+ {
   "slug": "hadal",
   "name": "HADAL",
   "headline": "Start on a sunlit reef, board a submarine and descend past shipwrecks and a whale fall to Challenger Deep, scanning 18 discoveries",
@@ -1176,6 +1365,37 @@
   "cover": "assets/covers/fall-line-downhill-mtb.jpg"
  },
  {
+  "slug": "chill-taoist-vibe",
+  "name": "Chill Taoist Vibe",
+  "headline": "A Ghibli-style Taoist temple on a small mountain",
+  "maker": "qiqileyuan",
+  "maker_handle": "qiqileyuan",
+  "play_url": "http://taoistvibe.com",
+  "post_url": "https://x.com/qiqileyuan/status/2122006851298693277",
+  "likes_at_check": 253,
+  "views_at_check": null,
+  "score": 8.3,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/54f3c1cf-25ad-4d1d-851e-4d2427c32fb5-chill-taoist-vibe-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/1965399a-8330-4882-ba33-8796d4f7174a-chill-taoist-vibe-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/9cf29c7f-3bf2-4d19-ac0a-9cfff305420e-chill-taoist-vibe-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/f115198a-3359-4a1b-9521-6ca2813f539c-chill-taoist-vibe-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/45069e90-89b8-4562-b05d-7a2254240ede-chill-taoist-vibe-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/a373a327-034c-43cc-b11e-218e4a09e5d7-chill-taoist-vibe-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/chill-taoist-vibe",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/chill-taoist-vibe.jpg"
+ },
+ {
   "slug": "first-crush",
   "name": "First Crush",
   "headline": "A winemaking game: scrub the vat, crush 250 kg of fruit, read the hydrometer, pick a yeast — and it explains why",
@@ -1205,6 +1425,38 @@
   "checked_on": "2026-11-21",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/first-crush.jpg"
+ },
+ {
+  "slug": "hidden-layers",
+  "name": "Hidden Layers",
+  "headline": "Scroll to fly a glasswing butterfly that cannot get out of a glasshouse through six worlds",
+  "maker": "ky__zo",
+  "maker_handle": "ky__zo",
+  "play_url": "https://butterfly.kyzo.io",
+  "post_url": "https://x.com/ky__zo/status/2122274109795054036",
+  "likes_at_check": 229,
+  "views_at_check": null,
+  "score": 8.3,
+  "tags": [
+   "3D",
+   "Exploration",
+   "Flight"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/5e340ca3-19e9-4796-adf5-5cb73278df64-hidden-layers-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/e5c6f80c-4e12-48b8-8094-98c36997c590-hidden-layers-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/0d29799a-f45e-4321-9c91-39d56c011ced-hidden-layers-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/9c660990-2082-4056-9983-bb07427b431c-hidden-layers-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/4580fa9d-6bc5-45ca-975b-135fd12b8f02-hidden-layers-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/597e97a4-14ac-475e-a368-051f3c15d7f2-hidden-layers-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/hidden-layers",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/hidden-layers.jpg"
  },
  {
   "slug": "great-wave",
@@ -1271,6 +1523,37 @@
   "cover": "assets/covers/baseboard.jpg"
  },
  {
+  "slug": "a-claude-demo-you-can-walk-into",
+  "name": "A Claude demo you can walk into",
+  "headline": "Inspired by @rileybrown: walk in and sit at any computer",
+  "maker": "dfeinition",
+  "maker_handle": "dfeinition",
+  "play_url": "https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx",
+  "post_url": "https://x.com/dfeinition/status/2120330644261589051",
+  "likes_at_check": 214,
+  "views_at_check": null,
+  "score": 8.2,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/b9050797-f3f2-4b02-b049-e3385ba521c1-a-claude-demo-you-can-walk-into-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/d496780e-ee7a-4230-8328-c99a56ea3fa8-a-claude-demo-you-can-walk-into-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/92de38ef-9af3-47ea-9fd8-3b4a69fdf2cc-a-claude-demo-you-can-walk-into-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/f4c39cc1-5e22-4dca-a7fe-1f3ac922554e-a-claude-demo-you-can-walk-into-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/c616d190-ed40-410a-affb-eff736f37d27-a-claude-demo-you-can-walk-into-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/41848b3a-bfe6-4f10-adff-87f18927b627-a-claude-demo-you-can-walk-into-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/a-claude-demo-you-can-walk-into",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/a-claude-demo-you-can-walk-into.jpg"
+ },
+ {
   "slug": "skywake",
   "name": "Skywake: Kite & Mo's Big Flight",
   "headline": "A storybook flying adventure: ride Mo, a big gliding sky creature, over a turquoise lagoon of rock spires, sing to giant masked Tallwalkers and dodge the lamps that throw nets. Made with Gemini 4 Argon, then refreshed with Claude Opus 5.5.",
@@ -1303,6 +1586,38 @@
   "checked_on": "2026-11-13",
   "model": "Gemini 4 Argon and Claude Opus 5.5",
   "cover": "assets/covers/skywake.jpg"
+ },
+ {
+  "slug": "code-planet",
+  "name": "Code Planet",
+  "headline": "A whole planet in under 320KB of code",
+  "maker": "KanaWorks_AI",
+  "maker_handle": "KanaWorks_AI",
+  "play_url": "https://planet.tokyoaivisuals.club/",
+  "post_url": "https://x.com/KanaWorks_AI/status/2121413647213932688",
+  "likes_at_check": 198,
+  "views_at_check": null,
+  "score": 8.2,
+  "tags": [
+   "3D",
+   "Exploration",
+   "Flight"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/68154576-5b8a-48a6-86c6-ded65d3f2514-code-planet-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/fd67cdcb-ac63-47d0-9c74-233fbe7e9af0-code-planet-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/6648746f-8103-4d5b-aba2-7e2f795e02ca-code-planet-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/c3359fb2-7652-4fa8-818c-72ee3b0d833e-code-planet-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/51c0ae62-facc-4730-8156-6f221d96ba68-code-planet-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/96d0c3ec-4bdf-4fa7-88e5-c10432b2b095-code-planet-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/code-planet",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/code-planet.jpg"
  },
  {
   "slug": "rambo-dino",
@@ -1398,6 +1713,37 @@
   "checked_on": "2026-11-21",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/market-order.jpg"
+ },
+ {
+  "slug": "voxel-world-in-a-bottle",
+  "name": "Voxel World in a Bottle",
+  "headline": "30 minutes, $12.81",
+  "maker": "vib3coded",
+  "maker_handle": "vib3coded",
+  "play_url": "https://claude.ai/artifact/9EgZpErM17kH2a9Q3WXW6f",
+  "post_url": "https://x.com/vib3coded/status/2120104517282775514",
+  "likes_at_check": 164,
+  "views_at_check": null,
+  "score": 8.2,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/488d9b7c-7885-4dd0-ba3f-bb60de8399ac-voxel-world-in-a-bottle-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/6ff22525-c0ed-454e-b147-2fc51ad7ae91-voxel-world-in-a-bottle-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/66b9c87f-5df1-4f15-8399-e3a96f374fa0-voxel-world-in-a-bottle-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/2d73dcbc-ad1a-4c89-af8c-8b9665301429-voxel-world-in-a-bottle-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/90bdc35c-b6a3-4603-a462-914dbd285c3a-voxel-world-in-a-bottle-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/5b3022ee-e533-4271-a023-ddc21044a4c3-voxel-world-in-a-bottle-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/voxel-world-in-a-bottle",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/voxel-world-in-a-bottle.jpg"
  },
  {
   "slug": "frontline-warfare-deathmatch",
@@ -1558,6 +1904,37 @@
   "checked_on": "2026-11-21",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/banana-mine-rush.jpg"
+ },
+ {
+  "slug": "impossible-spaces",
+  "name": "Impossible Spaces",
+  "headline": "A trippy \"impossible spaces\" experience",
+  "maker": "BlendiByl",
+  "maker_handle": "BlendiByl",
+  "play_url": "https://patch.gg/blendi/impossible-spaces",
+  "post_url": "https://x.com/BlendiByl/status/2120314459793355262",
+  "likes_at_check": 137,
+  "views_at_check": null,
+  "score": 8.1,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/88ff4d95-f838-4d59-abd9-1df9802c8313-impossible-spaces-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/568415d3-fee9-45d0-9c89-fa4e534486c7-impossible-spaces-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/3ce4f6cc-9d60-4e5d-9dfa-42bc7323496b-impossible-spaces-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/5d35abb3-a535-4086-a359-99a3b6e67181-impossible-spaces-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/ef0cb252-1579-44c4-8c4d-e415fa3e88ad-impossible-spaces-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/519ffcf1-b22c-4bcc-8c84-1b5f4d49b125-impossible-spaces-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/impossible-spaces",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/impossible-spaces.jpg"
  },
  {
   "slug": "lumina-zombies",
@@ -1783,6 +2160,68 @@
   "prompt_note": "two of the three prompts, from the maker's replies",
   "checked_on": "2026-11-11",
   "model": "Claude Fable 5.2"
+ },
+ {
+  "slug": "3d-sailing-ship",
+  "name": "3D Sailing Ship",
+  "headline": "Pure Three.js, no Blender or external assets",
+  "maker": "marcthecreatorr",
+  "maker_handle": "marcthecreatorr",
+  "play_url": "https://claude.ai/artifact/7ge282etTXSS4edGFTFa85",
+  "post_url": "https://x.com/marcthecreatorr/status/2119890973560054072",
+  "likes_at_check": 111,
+  "views_at_check": null,
+  "score": 8.0,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/0aa74e24-ec06-4c64-9f54-4f63365f0290-3d-sailing-ship-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/13da7802-194f-4272-8250-b6363374b912-3d-sailing-ship-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/3bdfa38e-3024-4f0f-9b3c-e0f59b394586-3d-sailing-ship-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/cb1c1e41-8b84-4be8-b7f6-682158290bea-3d-sailing-ship-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/05994814-174b-48bb-a2f5-edeb85b9ea3d-3d-sailing-ship-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/ba809a52-0359-4c25-8a33-01d4eb709bdb-3d-sailing-ship-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/3d-sailing-ship",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/3d-sailing-ship.jpg"
+ },
+ {
+  "slug": "pirate-ship",
+  "name": "Pirate Ship",
+  "headline": "One shot, ~1.5 hours, ~35M tokens (~$34)",
+  "maker": "notjazii",
+  "maker_handle": "notjazii",
+  "play_url": "https://tests.jazii.dev/",
+  "post_url": "https://x.com/notjazii/status/2119905661505122575",
+  "likes_at_check": 110,
+  "views_at_check": null,
+  "score": 8.0,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/83639771-22df-4d34-b7ec-945530507b4c-pirate-ship-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/8d37c46b-e48d-44e5-b2cf-2bf85d3bd1ac-pirate-ship-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/3f92d414-575b-4ba4-9d83-8029884eb4c1-pirate-ship-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/d506f84d-f3bc-4b7e-aa2f-5fdcd20da135-pirate-ship-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/2b923bf2-859e-479c-92e6-92f948e8a189-pirate-ship-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/e533cf76-975b-4591-ace7-6e5a2d8b8acc-pirate-ship-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/pirate-ship",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/pirate-ship.jpg"
  },
  {
   "slug": "thunder-valley-dino-chase",
@@ -2647,6 +3086,37 @@
   "cover": "assets/covers/knock-it-off.jpg"
  },
  {
+  "slug": "jerusalem-at-passover",
+  "name": "Jerusalem at Passover",
+  "headline": "An immersive, historically grounded 3D Jerusalem built with Blender",
+  "maker": "kplikethebird",
+  "maker_handle": "kplikethebird",
+  "play_url": "https://fable-jerusalem.vercel.app/",
+  "post_url": "https://x.com/kplikethebird/status/2119900775727902732",
+  "likes_at_check": 43,
+  "views_at_check": null,
+  "score": 7.8,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/92582eba-da51-4479-826d-cba79da9663a-jerusalem-at-passover-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/69e19ec4-276e-42e8-b482-e244774677b4-jerusalem-at-passover-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/4d0b3634-434f-4b68-bea3-0aeedfd77f09-jerusalem-at-passover-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/90f24a46-27a4-46e8-afaf-e5a0e1e564f7-jerusalem-at-passover-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/e0d3fa7e-d5ca-4aec-b420-c30b6a006dce-jerusalem-at-passover-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/1b5b2af9-4d87-42c3-9f96-255008e290e2-jerusalem-at-passover-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/jerusalem-at-passover",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/jerusalem-at-passover.jpg"
+ },
+ {
   "slug": "handful-island-god-game",
   "name": "Handful: Island God Game",
   "headline": "A 3D god game on an island of 8 million simulated voxels: with one giant hand and powers like parting the sea, rain and wind, lead a dozen little cube villagers to the light. Made with Claude Fable 5.2.",
@@ -2809,6 +3279,37 @@
   "cover": "assets/covers/thermal.jpg"
  },
  {
+  "slug": "summer-festival",
+  "name": "Summer Festival",
+  "headline": "An anime-style seaside town holding a summer festival that you can walk through",
+  "maker": "prasenx",
+  "maker_handle": "prasenx",
+  "play_url": "https://starknightt.github.io/summer-festival/",
+  "post_url": "https://x.com/prasenx/status/2121961933540917658",
+  "likes_at_check": 36,
+  "views_at_check": null,
+  "score": 7.7,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/7461fdcd-e996-44f2-8501-0e2395d22307-summer-festival-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/159cd958-aef5-4e0c-8d6d-fff7063bdb20-summer-festival-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/c5a81b6a-4dfa-4f20-83ad-51b0e417ebdb-summer-festival-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/aede17c8-e4b6-4020-9daa-427238b137b2-summer-festival-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/8f431d75-e298-48ef-95f8-76d8baa41421-summer-festival-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/20b114ad-2e57-4d83-a7a6-006109615eea-summer-festival-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/summer-festival",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/summer-festival.jpg"
+ },
+ {
   "slug": "harbor-lights-grand-prix",
   "name": "Harbor Lights Grand Prix",
   "headline": "One HTML file: 20 pixel cars on a 22-corner street circuit, with a betting window before each race (play money)",
@@ -2933,6 +3434,70 @@
   "cover": "assets/covers/aussie-outback-4x4.jpg"
  },
  {
+  "slug": "pine-hollow-a-living-ski-hill",
+  "name": "Pine Hollow — a living ski hill",
+  "headline": "A 3D ski hill based on an old 2D version, asked to \"give it some character\"",
+  "maker": "loktar00",
+  "maker_handle": "loktar00",
+  "play_url": "https://loktar00.github.io/pine-hollow/",
+  "post_url": "https://x.com/loktar00/status/2120432591606067359",
+  "likes_at_check": 30,
+  "views_at_check": null,
+  "score": 7.6,
+  "tags": [
+   "3D",
+   "Exploration",
+   "Sports"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/7ec1edc9-ff42-42ea-be4a-f4c19d11ffb0-pine-hollow-a-living-ski-hill-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/7392302f-9550-42dc-af9e-5ae1bbed53de-pine-hollow-a-living-ski-hill-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/b383479f-ef6b-48bb-95cd-af9f9ad0ad34-pine-hollow-a-living-ski-hill-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/0b36616c-d01c-4b71-84b0-58f62749efeb-pine-hollow-a-living-ski-hill-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/e1b2f8bd-9207-4b0d-9388-f454cfba1b59-pine-hollow-a-living-ski-hill-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/b44a66e0-ef51-4e8e-b36b-d0feeb211a33-pine-hollow-a-living-ski-hill-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/pine-hollow-a-living-ski-hill",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/pine-hollow-a-living-ski-hill.jpg"
+ },
+ {
+  "slug": "pixel-art-to-3d-world",
+  "name": "Pixel art to 3D world",
+  "headline": "A piece of pixel art turned into an interactive 3D world, with a whale showing how it was made",
+  "maker": "dfeinition",
+  "maker_handle": "dfeinition",
+  "play_url": "https://claude.ai/artifact/HGk1WNqTgrGEE8ndBkEipB",
+  "post_url": "https://x.com/dfeinition/status/2120933859999059970",
+  "likes_at_check": 29,
+  "views_at_check": null,
+  "score": 7.6,
+  "tags": [
+   "3D",
+   "Exploration",
+   "Flight"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/ae74e5e6-054c-42ed-bc49-c27e34600919-pixel-art-to-3d-world-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/87c13346-c36f-4635-84d6-de46656d28b7-pixel-art-to-3d-world-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/a4731973-28d0-4d4d-adac-38a7186c3b69-pixel-art-to-3d-world-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/46fffa12-a9db-4a93-8290-165e28bad0de-pixel-art-to-3d-world-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/2d460d93-fa60-4466-95b9-edfe7535d141-pixel-art-to-3d-world-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/64bae82a-4e7d-40bc-a15d-4db48046f4f2-pixel-art-to-3d-world-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/pixel-art-to-3d-world",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/pixel-art-to-3d-world.jpg"
+ },
+ {
   "slug": "midnight-grid",
   "name": "Midnight Grid",
   "headline": "An open-world driving game from one prompt: race through the city, crash into traffic and get chased by the cops",
@@ -3029,6 +3594,38 @@
   "cover": "assets/covers/open-world-kart-adventure.jpg"
  },
  {
+  "slug": "galaxy-dive",
+  "name": "Galaxy Dive",
+  "headline": "\"God took 6 days, Fable 5.2 took 20 min.\" Fly into a galaxy",
+  "maker": "handsher_NGU",
+  "maker_handle": "handsher_NGU",
+  "play_url": "https://galaxy-dive.vercel.app",
+  "post_url": "https://x.com/handsher_NGU/status/2119910478025789655",
+  "likes_at_check": 24,
+  "views_at_check": null,
+  "score": 7.6,
+  "tags": [
+   "3D",
+   "Exploration",
+   "Flight"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/8b96f8f8-3876-40aa-b467-0396d3c03858-galaxy-dive-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/606b3356-3c77-467c-aa98-0f528e9181f1-galaxy-dive-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/f7882780-d9ae-4d30-8325-6305a8b702bf-galaxy-dive-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/453cdc1f-1802-49ab-8ba4-d0ef273bc418-galaxy-dive-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/8458e646-2ef8-4dd7-9a5e-014385d4b21d-galaxy-dive-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/ec8bd8ca-cf30-4296-b196-49d3f90a0472-galaxy-dive-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/galaxy-dive",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/galaxy-dive.jpg"
+ },
+ {
   "slug": "giant-leap",
   "name": "Giant Leap",
   "headline": "Jump from the Moon to the Earth",
@@ -3091,6 +3688,38 @@
   "cover": "assets/covers/patchwork-quilt.jpg"
  },
  {
+  "slug": "neon-canyon-run-claude-fable-5-2-shell",
+  "name": "Neon Canyon Run (Claude Fable 5.2, with shell)",
+  "headline": "Second run of our model test, with permission to run commands: Fable tested its own build in headless Chrome.",
+  "maker": "VibeGamer",
+  "maker_handle": null,
+  "play_url": "https://cdn.vibegamer.io/play/neon-canyon-run/claude-fable-5-2-shell/index.html",
+  "post_url": null,
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 7.6,
+  "tags": [
+   "3D",
+   "Runner",
+   "Arcade"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/f526dbb0-d4fb-4666-96eb-ad758fcc4dc7-neon-canyon-run-claude-fable-5-2-shell-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/a793f1ba-a7c7-436c-99fc-f965fa056d2d-neon-canyon-run-claude-fable-5-2-shell-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/6c7093ad-7df0-4a62-a424-aad3de0ca0f7-neon-canyon-run-claude-fable-5-2-shell-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/c228ef1e-3cac-414c-9763-845fd7de3332-neon-canyon-run-claude-fable-5-2-shell-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/494cc067-f4b5-4160-98c3-89eea0e1bf09-neon-canyon-run-claude-fable-5-2-shell-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/de744b88-c4bc-46e8-bfa0-24f224000870-neon-canyon-run-claude-fable-5-2-shell-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/neon-canyon-run-claude-fable-5-2-shell",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/neon-canyon-run-claude-fable-5-2-shell.jpg"
+ },
+ {
   "slug": "skyseed-pips-tempest-run",
   "name": "Skyseed: Pip's Tempest Run",
   "headline": "A cute one-level 3D platformer from one prompt to Gemini 4 Hydrogen: guide Pip the sky-cat across three floating islands and grab all 12 sun-seeds before the storm hits in 90 seconds.",
@@ -3122,6 +3751,37 @@
   "checked_on": "2026-11-13",
   "model": "Gemini 4 Hydrogen",
   "cover": "assets/covers/skyseed-pips-tempest-run.jpg"
+ },
+ {
+  "slug": "voxel-colosseum",
+  "name": "Voxel Colosseum",
+  "headline": "Walk around the ruined inner ring",
+  "maker": "aGim_asf",
+  "maker_handle": "aGim_asf",
+  "play_url": "https://claude.ai/artifact/7nmzhxeamcunJbKVK32ptz",
+  "post_url": "https://x.com/aGim_asf/status/2119918363799376270",
+  "likes_at_check": 20,
+  "views_at_check": null,
+  "score": 7.5,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/869137da-79f9-41f8-80b5-d54822dab97e-voxel-colosseum-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/a47318e7-c264-4a63-a185-84a233f9f310-voxel-colosseum-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/e7360b76-d1cf-4dbf-9749-d099b2ecb133-voxel-colosseum-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/e1aa2d79-7510-49a6-9d84-da044fabd248-voxel-colosseum-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/f0004679-650d-406a-97fb-0b8f3ffe1e21-voxel-colosseum-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/488da5fb-ec77-450f-94bb-c194e5be1362-voxel-colosseum-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/voxel-colosseum",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/voxel-colosseum.jpg"
  },
  {
   "slug": "cozy-bakery",
@@ -3376,6 +4036,38 @@
   "cover": "assets/covers/napoleon-x-locke.jpg"
  },
  {
+  "slug": "red-wing-private-jet",
+  "name": "Red Wing private jet",
+  "headline": "Walk around the jet, click the door, the stairs come down and you step in: lounge, bedroom, even the bathroom",
+  "maker": "titepommee",
+  "maker_handle": "titepommee",
+  "play_url": "https://madebysourasith-sudo.github.io/red-wing-jet/",
+  "post_url": "https://x.com/titepommee/status/2121259736217911357",
+  "likes_at_check": 8,
+  "views_at_check": null,
+  "score": 7.3,
+  "tags": [
+   "3D",
+   "Exploration",
+   "Flight"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/cf8543d4-8e09-4525-a5df-0717e63515fd-red-wing-private-jet-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/f7bbad1c-e28e-4a82-a9d7-68e024e70d49-red-wing-private-jet-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/5d65c538-4223-43fa-bf19-5f6ae393d1b6-red-wing-private-jet-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/1655893b-5e20-4fec-90dc-2c3412414fb6-red-wing-private-jet-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/e88673c2-5ec6-4935-8f24-ddb8a1ecebed-red-wing-private-jet-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/53769f02-2b78-4775-997f-b65b452a9663-red-wing-private-jet-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/red-wing-private-jet",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/red-wing-private-jet.jpg"
+ },
+ {
   "slug": "room-13",
   "name": "Room 13",
   "headline": "An interactive game for learning English through mystery stories: double-click any word to look it up, translate sentences, then clear reading quizzes",
@@ -3466,6 +4158,38 @@
   "checked_on": "2026-11-21",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/roost.jpg"
+ },
+ {
+  "slug": "neon-canyon-run-claude-fable-5-2",
+  "name": "Neon Canyon Run (Claude Fable 5.2)",
+  "headline": "Our model test: a neon hover-bike runner Claude Fable 5.2 made from one prompt with no follow-ups.",
+  "maker": "VibeGamer",
+  "maker_handle": null,
+  "play_url": "https://cdn.vibegamer.io/play/neon-canyon-run/claude-fable-5-2/index.html",
+  "post_url": null,
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 7.2,
+  "tags": [
+   "3D",
+   "Runner",
+   "Arcade"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/1595dcd2-3c2c-4c0a-bfc0-2859dbba6c27-neon-canyon-run-claude-fable-5-2-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/014f53af-617c-4b60-a4df-367cefb439dc-neon-canyon-run-claude-fable-5-2-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/b39744e1-922f-4a77-8591-86a62df55d96-neon-canyon-run-claude-fable-5-2-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/475e60d4-a207-43f7-8670-b6683588f7b0-neon-canyon-run-claude-fable-5-2-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/9990c03e-6fd9-4b80-af44-f8b28d2fa9fe-neon-canyon-run-claude-fable-5-2-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/9cb14691-5c84-48bb-b160-597026ff8a86-neon-canyon-run-claude-fable-5-2-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/neon-canyon-run-claude-fable-5-2",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/neon-canyon-run-claude-fable-5-2.jpg"
  },
  {
   "slug": "infall-you-are-the-black-hole",
@@ -3660,6 +4384,37 @@
   "checked_on": "2026-11-21",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/vippi.jpg"
+ },
+ {
+  "slug": "a-hamlet-on-a-giant-snail",
+  "name": "A Hamlet on a Giant Snail",
+  "headline": "\"Bring a 3D castle to life in an HTML file.\" Hand-written WebGL2, no libraries, ~5,500 trees, day/night cycle",
+  "maker": "L34342Lin",
+  "maker_handle": "L34342Lin",
+  "play_url": "https://claude.ai/artifact/BCDCNHRTq3y9W4Px3xc4DN",
+  "post_url": "https://x.com/L34342Lin/status/2120030246108066195",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "score": 6.8,
+  "tags": [
+   "3D",
+   "Exploration"
+  ],
+  "open_source_url": null,
+  "prompts": [],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/d543ec37-616f-4902-904f-b65d6afb49d5-a-hamlet-on-a-giant-snail-shot-1.jpg",
+   "https://cdn.vibegamer.io/submissions/ba7d894d-f159-4b23-83c4-6b373bf918d3-a-hamlet-on-a-giant-snail-shot-2.jpg",
+   "https://cdn.vibegamer.io/submissions/ec7afdb4-c81d-432d-b463-180a3df2c31f-a-hamlet-on-a-giant-snail-shot-3.jpg",
+   "https://cdn.vibegamer.io/submissions/68f2c501-aaee-4351-8882-6d09af3069e6-a-hamlet-on-a-giant-snail-shot-4.jpg",
+   "https://cdn.vibegamer.io/submissions/841c7773-906e-49a4-a1e6-acf98e8ca90b-a-hamlet-on-a-giant-snail-shot-5.jpg"
+  ],
+  "trailer": "https://cdn.vibegamer.io/submissions/c6e3f4e3-22cc-40c8-8aba-88258c0df3fc-a-hamlet-on-a-giant-snail-trailer.mp4",
+  "vibegamer_url": "https://vibegamer.io/game/a-hamlet-on-a-giant-snail",
+  "prompt_note": null,
+  "checked_on": "2026-11-21",
+  "model": "Claude Fable 5.2",
+  "cover": "assets/covers/a-hamlet-on-a-giant-snail.jpg"
  },
  {
   "slug": "the-lost-storm",

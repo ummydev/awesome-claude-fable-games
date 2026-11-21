@@ -1,6 +1,6 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-57-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-46-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-116-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-105-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ### ▶ [Play all of these in your browser → vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -8,7 +8,7 @@
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**57 games · 46 playable in the browser · 5 with prompts** · Updated 2026-11-20
+**116 games · 105 playable in the browser · 5 with prompts** · Updated 2026-11-21
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button.
 
@@ -42,25 +42,51 @@ Sorted by our score, then by likes on the original post.
 | <a href="#small-magic"><img src="assets/covers/small-magic.jpg" width="160" alt="Small Magic cover"></a> | **[Small Magic](#small-magic)** | [Blendi](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/play/blendi/small-magic) | [page](https://vibegamer.io/game/small-magic?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2121594536153718972) | 1.5K |  | 8.8/10 |
 | <a href="#crosstown"><img src="assets/covers/crosstown.jpg" width="160" alt="CROSSTOWN cover"></a> | **[CROSSTOWN](#crosstown)** | [Matt Shumer](https://x.com/mattshumer_) | Claude Fable 5.2 | [▶ Play URL](https://nyc.somethingbig.ai/) | [page](https://vibegamer.io/game/crosstown?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/mattshumer_/status/2123134336891318350) | 234 |  | 8.8/10 |
 | <a href="#heat"><img src="assets/covers/heat.jpg" width="160" alt="HEAT cover"></a> | **[HEAT](#heat)** | [Aravind Srinivas](https://x.com/AravSrinivas) | Claude Fable 5.2 | [▶ Play URL](https://heat.pplx.app/) | [page](https://vibegamer.io/game/heat?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/AravSrinivas/status/2122338465648103676) | 765 |  | 8.7/10 |
+| <a href="#uno-com-escada"><img src="assets/covers/uno-com-escada.jpg" width="160" alt="Uno com Escada cover"></a> | **[Uno com Escada](#uno-com-escada)** | [ViktorKav](https://x.com/ViktorKav) | Claude Fable 5.2 | [▶ Play URL](https://viktorkav.com.br/apoio/uno-com-escada/fable/) | [page](https://vibegamer.io/game/uno-com-escada?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/ViktorKav/status/2122647483281015155) | 9.2K |  | 8.6/10 |
+| <a href="#portals-endless-worlds"><img src="assets/covers/portals-endless-worlds.jpg" width="160" alt="Portals: Endless Worlds cover"></a> | **[Portals: Endless Worlds](#portals-endless-worlds)** | [emollick](https://x.com/emollick) | Claude Fable 5.2 | [▶ Play URL](https://portals-endless-worlds.netlify.app/) | [page](https://vibegamer.io/game/portals-endless-worlds?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/emollick/status/2119918307457577163) | 1.9K |  | 8.6/10 |
+| <a href="#evensong"><img src="assets/covers/evensong.jpg" width="160" alt="Evensong cover"></a> | **[Evensong](#evensong)** | [kevin_t_ngo](https://x.com/kevin_t_ngo) | Claude Fable 5.2 | [▶ Play URL](https://evensong-phi.vercel.app/) | [page](https://vibegamer.io/game/evensong?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/kevin_t_ngo/status/2120238844754923874) | 1.8K |  | 8.6/10 |
+| <a href="#lanternfall"><img src="assets/covers/lanternfall.jpg" width="160" alt="LANTERNFALL cover"></a> | **[LANTERNFALL](#lanternfall)** | [loktar00](https://x.com/loktar00) | Claude Fable 5.2 | [▶ Play URL](https://loktar00.github.io/lanternfall/) | [page](https://vibegamer.io/game/lanternfall?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/loktar00/status/2120192761542615271) | 1.4K |  | 8.6/10 |
+| <a href="#solar"><img src="assets/covers/solar.jpg" width="160" alt="Solar cover"></a> | **[Solar](#solar)** | [BlendiByl](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/play/blendi/solar) | [page](https://vibegamer.io/game/solar?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2122673770607591855) | 793 |  | 8.6/10 |
+| <a href="#coloured-pencil"><img src="assets/covers/coloured-pencil.jpg" width="160" alt="Coloured Pencil cover"></a> | **[Coloured Pencil](#coloured-pencil)** | [BlendiByl](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/blendi/coloured-pencil) | [page](https://vibegamer.io/game/coloured-pencil?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2121130385723789637) | 763 |  | 8.6/10 |
+| <a href="#voxel-engine"><img src="assets/covers/voxel-engine.jpg" width="160" alt="Voxel Engine cover"></a> | **[Voxel Engine](#voxel-engine)** | [mattshumer_](https://x.com/mattshumer_) | Claude Fable 5.2 | [▶ Play URL](https://www.spawn.co/@mattshumer/voxel-engine) | [page](https://vibegamer.io/game/voxel-engine?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/mattshumer_/status/2119870965106483384) | 744 |  | 8.6/10 |
 | <a href="#saltfire"><img src="assets/covers/saltfire.jpg" width="160" alt="Saltfire cover"></a> | **[Saltfire](#saltfire)** | [Higgsfield AI](https://x.com/higgsfield_ai) | Claude Fable 5.2 | [▶ Play URL](https://saltfire.higgsfield.app/) | [page](https://vibegamer.io/game/saltfire?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/higgsfield_ai/status/2119928918035910668) |  |  | 8.6/10 |
 | <a href="#castle-valley"><img src="assets/covers/castle-valley.jpg" width="160" alt="Castle Valley cover"></a> | **[Castle Valley](#castle-valley)** | [Tommy D. Rossi](https://x.com/__morse) | Claude Fable 5.2 | [▶ Play URL](https://omw-game.kimaki.dev/) | [page](https://vibegamer.io/game/castle-valley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/__morse/status/2122013410309153042) |  |  | 8.6/10 |
 | <a href="#parallax"><img src="assets/covers/parallax.jpg" width="160" alt="Parallax cover"></a> | **[Parallax](#parallax)** | [Sholto Douglas](https://x.com/_sholtodouglas) | Claude Fable 5.2 | video only |  | [X](https://x.com/_sholtodouglas/status/2119935331499925557) | 1.9K |  | 8.5/10 |
+| <a href="#valsera-side-scrolling-rpg"><img src="assets/covers/valsera-side-scrolling-rpg.jpg" width="160" alt="Valsera — side-scrolling RPG cover"></a> | **[Valsera — side-scrolling RPG](#valsera-side-scrolling-rpg)** | [kevin_t_ngo](https://x.com/kevin_t_ngo) | Claude Fable 5.2 | [▶ Play URL](https://valsera-game.vercel.app/) | [page](https://vibegamer.io/game/valsera-side-scrolling-rpg?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/kevin_t_ngo/status/2121701020598415465) | 511 |  | 8.5/10 |
 | <a href="#dragon-rider"><img src="assets/covers/dragon-rider.jpg" width="160" alt="Dragon Rider cover"></a> | **[Dragon Rider](#dragon-rider)** | [Future Brian](https://x.com/ForwardEditor) | Claude Fable 5.2 | video only |  | [X](https://x.com/ForwardEditor/status/2119867743965163994) | 461 |  | 8.5/10 |
+| <a href="#the-world-of-hoodcraft"><img src="assets/covers/the-world-of-hoodcraft.jpg" width="160" alt="The World of Hoodcraft cover"></a> | **[The World of Hoodcraft](#the-world-of-hoodcraft)** | [Izkimar](https://x.com/Izkimar) | Claude Fable 5.2 | [▶ Play URL](https://www.spawn.co/@izkimar/the-world-of-hoodcraft) | [page](https://vibegamer.io/game/the-world-of-hoodcraft?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Izkimar/status/2123188582836031910) | 454 |  | 8.5/10 |
 | <a href="#starfall-moba"><img src="assets/covers/starfall-moba.jpg" width="160" alt="Starfall (星陨战纪) cover"></a> | **[Starfall (星陨战纪)](#starfall-moba)** | [Fu Sheng](https://x.com/FuSheng_0306) | Claude Fable 5.2 | [▶ Play URL](https://sanwan.ai/games/xingyun-moba/) | [page](https://vibegamer.io/game/starfall-moba?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/FuSheng_0306/status/2121237878097207583) |  |  | 8.5/10 |
 | <a href="#reef-dive"><img src="assets/covers/reef-dive.jpg" width="160" alt="Reef Dive cover"></a> | **[Reef Dive](#reef-dive)** | [Ibrahim Boona](https://x.com/boona11) | Claude Fable 5.2 | [▶ Play URL](https://wavedash.com/games/reef-dive) | [page](https://vibegamer.io/game/reef-dive?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/boona11/status/2120482516733702472) |  |  | 8.5/10 |
+| <a href="#childhood-rug-racer"><img src="assets/covers/childhood-rug-racer.jpg" width="160" alt="Childhood Rug Racer cover"></a> | **[Childhood Rug Racer](#childhood-rug-racer)** | [noclipepe](https://x.com/noclipepe) | Claude Fable 5.2 | [▶ Play URL](https://noclipepe.pages.dev/rug/) | [page](https://vibegamer.io/game/childhood-rug-racer?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/noclipepe/status/2119728047754547326) | 428 |  | 8.4/10 |
+| <a href="#hadal"><img src="assets/covers/hadal.jpg" width="160" alt="HADAL cover"></a> | **[HADAL](#hadal)** | [AravSrinivas](https://x.com/AravSrinivas) | Claude Fable 5.2 | [▶ Play URL](https://mariana.pplx.app) | [page](https://vibegamer.io/game/hadal?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/AravSrinivas/status/2122713692324384793) | 364 |  | 8.4/10 |
+| <a href="#cloud-stunt-3d"><img src="assets/covers/cloud-stunt-3d.jpg" width="160" alt="Cloud Stunt 3D cover"></a> | **[Cloud Stunt 3D](#cloud-stunt-3d)** | [jev_chat](https://x.com/jev_chat) | Claude Fable 5.2 | [▶ Play URL](https://finderchangchang.github.io/cloud-stunt-3d/) | [page](https://vibegamer.io/game/cloud-stunt-3d?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/jev_chat/status/2120015641151426838) | 328 |  | 8.4/10 |
+| <a href="#valle-morta"><img src="assets/covers/valle-morta.jpg" width="160" alt="Valle Morta cover"></a> | **[Valle Morta](#valle-morta)** | [LexnLin](https://x.com/LexnLin) | Claude Fable 5.2 | [▶ Play URL](https://valle-morta.vercel.app/) | [page](https://vibegamer.io/game/valle-morta?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/LexnLin/status/2121934071429468543) | 323 |  | 8.4/10 |
 | <a href="#cordon-9"><img src="assets/covers/cordon-9.jpg" width="160" alt="CORDON 9 cover"></a> | **[CORDON 9](#cordon-9)** | [Aravind Srinivas](https://x.com/AravSrinivas) | Claude Fable 5.2 | [▶ Play URL](https://cordon9.pplx.app) | [page](https://vibegamer.io/game/cordon-9?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/AravSrinivas/status/2120506245131977026) |  |  | 8.4/10 |
+| <a href="#dread-district"><img src="assets/covers/dread-district.jpg" width="160" alt="Dread & District cover"></a> | **[Dread & District](#dread-district)** | [emollick](https://x.com/emollick) | Claude Fable 5.2 | [▶ Play URL](https://dread-and-district.netlify.app) | [page](https://vibegamer.io/game/dread-district?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/emollick/status/2120248525254742318) | 303 |  | 8.3/10 |
+| <a href="#unsung-vale-open-world-rpg"><img src="assets/covers/unsung-vale-open-world-rpg.jpg" width="160" alt="Unsung Vale — open-world RPG cover"></a> | **[Unsung Vale — open-world RPG](#unsung-vale-open-world-rpg)** | [LexnLin](https://x.com/LexnLin) | Claude Fable 5.2 | [▶ Play URL](https://unsung-vale.vercel.app/) | [page](https://vibegamer.io/game/unsung-vale-open-world-rpg?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/LexnLin/status/2121253191748669705) | 302 |  | 8.3/10 |
+| <a href="#fall-line-downhill-mtb"><img src="assets/covers/fall-line-downhill-mtb.jpg" width="160" alt="Fall Line: downhill MTB cover"></a> | **[Fall Line: downhill MTB](#fall-line-downhill-mtb)** | [BananaOfMercy](https://x.com/BananaOfMercy) | Claude Fable 5.2 | [▶ Play URL](https://fallline-9zo.pages.dev) | [page](https://vibegamer.io/game/fall-line-downhill-mtb?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BananaOfMercy/status/2123037856398733438) | 279 |  | 8.3/10 |
+| <a href="#first-crush"><img src="assets/covers/first-crush.jpg" width="160" alt="First Crush cover"></a> | **[First Crush](#first-crush)** | [kieranklaassen](https://x.com/kieranklaassen) | Claude Fable 5.2 | [▶ Play URL](https://frontier.every.to/experiments/first-crush) | [page](https://vibegamer.io/game/first-crush?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/kieranklaassen/status/2119871673294037280) | 230 |  | 8.3/10 |
 | <a href="#great-wave"><img src="assets/covers/great-wave.jpg" width="160" alt="Great Wave cover"></a> | **[Great Wave](#great-wave)** | [Nil Ni](https://x.com/_nilni) | Claude Fable 5.2 | [▶ Play URL](https://www.aigameshare.com/games/great-wave-off-kanagawa) | [page](https://vibegamer.io/game/great-wave?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/_nilni/status/2120797996610994355) | 7 |  | 8.3/10 |
 | <a href="#baseboard"><img src="assets/covers/baseboard.jpg" width="160" alt="Baseboard cover"></a> | **[Baseboard](#baseboard)** | [Chris DiMarco](https://x.com/chrisjdimarco) | Claude Fable 5.2 | [▶ Play URL](https://app.thinklet.io/t/baseboard-393600) | [page](https://vibegamer.io/game/baseboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/chrisjdimarco/status/2122455657034985828) |  |  | 8.3/10 |
 | <a href="#skywake"><img src="assets/covers/skywake.jpg" width="160" alt="Skywake: Kite & Mo's Big Flight cover"></a> | **[Skywake: Kite & Mo's Big Flight](#skywake)** | [Aniket J](https://x.com/aniketjart) | Gemini 4 Argon and Claude Opus 5.5 | [▶ Play URL](https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057) | [page](https://vibegamer.io/game/skywake?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/aniketjart/status/2117508141076378029) | 203 |  | 8.2/10 |
+| <a href="#rambo-dino"><img src="assets/covers/rambo-dino.jpg" width="160" alt="Rambo Dino cover"></a> | **[Rambo Dino](#rambo-dino)** | [noclipepe](https://x.com/noclipepe) | Claude Fable 5.2 | [▶ Play URL](https://noclipepe.pages.dev/dino) | [page](https://vibegamer.io/game/rambo-dino?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/noclipepe/status/2119927838321328577) | 183 |  | 8.2/10 |
+| <a href="#cozy-lisbon"><img src="assets/covers/cozy-lisbon.jpg" width="160" alt="Cozy Lisbon cover"></a> | **[Cozy Lisbon](#cozy-lisbon)** | [goncalo_canhoto](https://x.com/goncalo_canhoto) | Claude Fable 5.2 | [▶ Play URL](https://cozylisbon.vercel.app) | [page](https://vibegamer.io/game/cozy-lisbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/goncalo_canhoto/status/2119932946346094690) | 172 |  | 8.2/10 |
+| <a href="#market-order"><img src="assets/covers/market-order.jpg" width="160" alt="Market Order cover"></a> | **[Market Order](#market-order)** | [emollick](https://x.com/emollick) | Claude Fable 5.2 | [▶ Play URL](https://market-order-city.netlify.app/) | [page](https://vibegamer.io/game/market-order?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/emollick/status/2123520499368263977) | 170 |  | 8.2/10 |
+| <a href="#frontline-warfare-deathmatch"><img src="assets/covers/frontline-warfare-deathmatch.jpg" width="160" alt="Frontline Warfare Deathmatch cover"></a> | **[Frontline Warfare Deathmatch](#frontline-warfare-deathmatch)** | [alightinastorm](https://x.com/alightinastorm) | Claude Fable 5.2 | [▶ Play URL](https://spawn.co/@robot/frontline-warfare-deathmatch) | [page](https://vibegamer.io/game/frontline-warfare-deathmatch?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/alightinastorm/status/2120020469487440210) | 163 |  | 8.2/10 |
 | <a href="#valley-ride"><img src="assets/covers/valley-ride.jpg" width="160" alt="Valley Ride cover"></a> | **[Valley Ride](#valley-ride)** | [Prasenjit](https://x.com/prasenx) | Claude Opus 5.5 and Claude Fable 5.2 | [▶ Play URL](https://starknightt.github.io/valley-ride/) | [page](https://vibegamer.io/game/valley-ride?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/prasenx/status/2120565971270459430) | 162 |  | 8.2/10 |
 | <a href="#nightclub-drift-speed"><img src="assets/covers/nightclub-drift-speed.jpg" width="160" alt="NightClub: Drift & Speed cover"></a> | **[NightClub: Drift & Speed](#nightclub-drift-speed)** | [Story91](https://x.com/Story91_) | Claude Fable 5.2 | [▶ Play URL](https://www.nightclub-driftspeed.xyz/) | [page](https://vibegamer.io/game/nightclub-drift-speed?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Story91_/status/2121016763190059194) |  |  | 8.2/10 |
+| <a href="#fable-5-2-fps-repro"><img src="assets/covers/fable-5-2-fps-repro.jpg" width="160" alt="Fable 5.2 FPS Repro cover"></a> | **[Fable 5.2 FPS Repro](#fable-5-2-fps-repro)** | [wquguru](https://x.com/wquguru) | Claude Fable 5.2 | [▶ Play URL](https://wquguru.github.io/fable52-fps-repro/) | [page](https://vibegamer.io/game/fable-5-2-fps-repro?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/wquguru/status/2120383332722905400) | 158 |  | 8.1/10 |
+| <a href="#banana-mine-rush"><img src="assets/covers/banana-mine-rush.jpg" width="160" alt="Banana Mine Rush cover"></a> | **[Banana Mine Rush](#banana-mine-rush)** | [0xChuckstock](https://x.com/0xChuckstock) | Claude Fable 5.2 | [▶ Play URL](https://remix.gg/g/banana-mine-rush) | [page](https://vibegamer.io/game/banana-mine-rush?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/0xChuckstock/status/2120125184606658728) | 154 |  | 8.1/10 |
+| <a href="#lumina-zombies"><img src="assets/covers/lumina-zombies.jpg" width="160" alt="Lumina Zombies cover"></a> | **[Lumina Zombies](#lumina-zombies)** | [LuminaBench](https://x.com/LuminaBench) | Claude Fable 5.2 | [▶ Play URL](https://luminazombies.com/) | [page](https://vibegamer.io/game/lumina-zombies?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/LuminaBench/status/2120660076927099048) | 123 |  | 8.1/10 |
 | <a href="#danfo-run"><img src="assets/covers/danfo-run.jpg" width="160" alt="Danfo Run cover"></a> | **[Danfo Run](#danfo-run)** | [Eureka](https://x.com/eureka_seamless) | Claude (version not stated) | [▶ Play URL](https://danforun.com) | [page](https://vibegamer.io/game/danfo-run?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/eureka_seamless/status/2103938108668420286) | 36.8K |  | 8/10 |
 | <a href="#the-clockmakers-heart"><img src="assets/covers/the-clockmakers-heart.jpg" width="160" alt="The Clockmaker's Heart cover"></a> | **[The Clockmaker's Heart](#the-clockmakers-heart)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa) | [page](https://vibegamer.io/game/the-clockmakers-heart?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/felixrieseberg/status/2119867839033352596) | 283 |  | 8/10 |
 | <a href="#aestra-the-last-wish"><img src="assets/covers/aestra-the-last-wish.jpg" width="160" alt="Aestra: The Last Wish cover"></a> | **[Aestra: The Last Wish](#aestra-the-last-wish)** | [Mike Houser](https://x.com/M__Houser) | Claude Opus 5.5 (on Tesana) | [▶ Play URL](https://tesana.com/game/aestra-the-last-wish) | [page](https://vibegamer.io/game/aestra-the-last-wish?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/M__Houser/status/2115438489995190285) | 281 |  | 8/10 |
 | <a href="#cayley"><img src="assets/covers/cayley.jpg" width="160" alt="Cayley cover"></a> | **[Cayley](#cayley)** | [Lionel Mora](https://x.com/lionel_mora) | Claude Fable 5.2 | [▶ Play URL](https://lauramionel.github.io/cayley-flight-simulator/) | [page](https://vibegamer.io/game/cayley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/lionel_mora/status/2120554787812860294) | 280 |  | 8/10 |
 | <a href="#maad-maxxing"><img src="assets/covers/maad-maxxing.jpg" width="160" alt="MAAD MAXXING cover"></a> | **[MAAD MAXXING](#maad-maxxing)** | [Andrew Blumson](https://x.com/Andrew_Blumson) | Claude Fable 5.2 | [▶ Play URL](https://maad-maxxing.vercel.app) | [page](https://vibegamer.io/game/maad-maxxing?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Andrew_Blumson/status/2120599812512833557) | 165 |  | 8/10 |
 | <a href="#turbo-tails"><img src="assets/covers/turbo-tails.jpg" width="160" alt="Turbo Tails cover"></a> | **[Turbo Tails](#turbo-tails)** | [Peter Yang](https://x.com/petergyang) | Claude Fable 5.2 | [▶ Play URL](https://turbo-tails.vercel.app) | [page](https://vibegamer.io/game/turbo-tails?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/petergyang/status/2119901658394358005) | 137 | ✓ | 8/10 |
+| <a href="#thunder-valley-dino-chase"><img src="assets/covers/thunder-valley-dino-chase.jpg" width="160" alt="Thunder Valley dino chase cover"></a> | **[Thunder Valley dino chase](#thunder-valley-dino-chase)** | [loktar00](https://x.com/loktar00) | Claude Fable 5.2 | [▶ Play URL](https://loktar00.github.io/llm-test-pages/fable52-dino-chase/) | [page](https://vibegamer.io/game/thunder-valley-dino-chase?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/loktar00/status/2120905457380507991) | 99 |  | 8.0/10 |
 | <a href="#party-royale"><img src="assets/covers/party-royale.jpg" width="160" alt="Party Royale cover"></a> | **[Party Royale](#party-royale)** | [Matthew Berman](https://x.com/MatthewBerman) | Claude Fable 5.2 | video only | [page](https://vibegamer.io/game/party-royale?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/MatthewBerman/status/2119868630989254665) | 97 |  | 8/10 |
+| <a href="#feed-the-backrooms"><img src="assets/covers/feed-the-backrooms.jpg" width="160" alt="Feed the Backrooms cover"></a> | **[Feed the Backrooms](#feed-the-backrooms)** | [LexnLin](https://x.com/LexnLin) | Claude Fable 5.2 | [▶ Play URL](https://feed-backrooms.vercel.app) | [page](https://vibegamer.io/game/feed-the-backrooms?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/LexnLin/status/2119966127149429093) | 96 |  | 8.0/10 |
 | <a href="#fablecraft"><img src="assets/covers/fablecraft.jpg" width="160" alt="Fablecraft cover"></a> | **[Fablecraft](#fablecraft)** | [@RezAIT00](https://x.com/RezAIT00) | Claude Fable 5.2 | video only | [page](https://vibegamer.io/game/fablecraft?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/RezAIT00/status/2119902470205997344) | 71 | ✓ | 8/10 |
 | <a href="#lumenvale"><img src="assets/covers/lumenvale.jpg" width="160" alt="Lumenvale cover"></a> | **[Lumenvale](#lumenvale)** | [Sai](https://x.com/sai0xgen) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/9bekwKPUpCNDqEfgR8zwQa) | [page](https://vibegamer.io/game/lumenvale?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/sai0xgen/status/2120758436581589369) | 35 |  | 8/10 |
 | <a href="#rifts"><img src="assets/covers/rifts.jpg" width="160" alt="Rifts cover"></a> | **[Rifts](#rifts)** | [Abbi](https://x.com/Pumpnasterr) | Claude Fable 5.2 | [▶ Play URL](https://www.spawn.co/@abbidabbi/rifts) | [page](https://vibegamer.io/game/rifts?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Pumpnasterr/status/2119895877250609238) | 31 |  | 8/10 |
@@ -72,18 +98,51 @@ Sorted by our score, then by likes on the original post.
 | <a href="#aidens-revenge"><img src="assets/covers/aidens-revenge.jpg" width="160" alt="Aiden's Revenge cover"></a> | **[Aiden's Revenge](#aidens-revenge)** | Lex Toumbourou | Claude Fable 5.2 | [▶ Play URL](https://aidens-revenge.pages.dev/) | [page](https://vibegamer.io/game/aidens-revenge?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [blog post](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) |  |  | 8/10 |
 | <a href="#brasidas"><img src="assets/covers/brasidas.jpg" width="160" alt="Brasidas cover"></a> | **[Brasidas](#brasidas)** | [Mike Houser](https://x.com/M__Houser) | Tesana (model not stated) | [▶ Play URL](https://tesana.com/game/brasidas) | [page](https://vibegamer.io/game/brasidas?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/TesanaAI/status/2115049380382437886) |  |  | 8/10 |
 | <a href="#geminisland"><img src="assets/covers/geminisland.jpg" width="160" alt="Geminisland cover"></a> | **[Geminisland](#geminisland)** | [Google AI](https://x.com/GoogleAI) | Gemini 4 Hydrogen | [▶ Play URL](https://aistudio.google.com/apps/bundled/geminisland?showPreview=true&showAssistant=true&fullscreenApplet=true) | [page](https://vibegamer.io/game/geminisland?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/GoogleAI/status/2120940684924403798) |  |  | 8/10 |
+| <a href="#kumokiri"><img src="assets/covers/kumokiri.jpg" width="160" alt="KUMOKIRI cover"></a> | **[KUMOKIRI](#kumokiri)** | [aniketjart](https://x.com/aniketjart) | Claude Fable 5.2 | [▶ Play URL](https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a) | [page](https://vibegamer.io/game/kumokiri?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/aniketjart/status/2121101334900617631) | 73 |  | 7.9/10 |
+| <a href="#pogo-riot"><img src="assets/covers/pogo-riot.jpg" width="160" alt="Pogo Riot cover"></a> | **[Pogo Riot](#pogo-riot)** | [Pumpnasterr](https://x.com/Pumpnasterr) | Claude Fable 5.2 | [▶ Play URL](https://www.spawn.co/@abbidabbi/pogo-riot) | [page](https://vibegamer.io/game/pogo-riot?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Pumpnasterr/status/2121343507885682917) | 63 |  | 7.9/10 |
+| <a href="#ringfall"><img src="assets/covers/ringfall.jpg" width="160" alt="Ringfall cover"></a> | **[Ringfall](#ringfall)** | [rehan_shei](https://x.com/rehan_shei) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/games/rehan/ringfall) | [page](https://vibegamer.io/game/ringfall?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/rehan_shei/status/2119994607291584962) | 63 |  | 7.9/10 |
+| <a href="#save-the-world"><img src="assets/covers/save-the-world.jpg" width="160" alt="Save the World cover"></a> | **[Save the World](#save-the-world)** | [global_techgirl](https://x.com/global_techgirl) | Claude Fable 5.2 | [▶ Play URL](https://save-the-world-fable.vercel.app/) | [page](https://vibegamer.io/game/save-the-world?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/global_techgirl/status/2120246750459961453) | 63 |  | 7.9/10 |
 | <a href="#paletterider"><img src="assets/covers/paletterider.jpg" width="160" alt="PaletteRider cover"></a> | **[PaletteRider](#paletterider)** | [Aashish Tiwari](https://x.com/Aashish_Tiwari_) | Claude Fable 5.2 | [▶ Play URL](https://aashishgtbit.github.io/PaletteRider/) | [page](https://vibegamer.io/game/paletterider?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Aashish_Tiwari_/status/2120963463610880150) |  |  | 7.9/10 |
+| <a href="#kestrel-head-solstice-racing"><img src="assets/covers/kestrel-head-solstice-racing.jpg" width="160" alt="Kestrel Head — Solstice racing cover"></a> | **[Kestrel Head — Solstice racing](#kestrel-head-solstice-racing)** | [SamGCoder](https://x.com/SamGCoder) | Claude Fable 5.2 | [▶ Play URL](https://samg-coder.github.io/solstice-racing/) | [page](https://vibegamer.io/game/kestrel-head-solstice-racing?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/SamGCoder/status/2120044542087070066) | 56 |  | 7.8/10 |
+| <a href="#hitofude"><img src="assets/covers/hitofude.jpg" width="160" alt="HITOFUDE cover"></a> | **[HITOFUDE](#hitofude)** | [positronx_](https://x.com/positronx_) | Claude Fable 5.2 | [▶ Play URL](https://shubhu121.github.io/hitdude/play/) | [page](https://vibegamer.io/game/hitofude?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/positronx_/status/2120374208043876422) | 52 |  | 7.8/10 |
+| <a href="#midnight-pass"><img src="assets/covers/midnight-pass.jpg" width="160" alt="Midnight Pass cover"></a> | **[Midnight Pass](#midnight-pass)** | [andreysuperior](https://x.com/andreysuperior) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL) | [page](https://vibegamer.io/game/midnight-pass?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/andreysuperior/status/2120666660130746458) | 49 |  | 7.8/10 |
+| <a href="#vowlorn"><img src="assets/covers/vowlorn.jpg" width="160" alt="VOWLORN cover"></a> | **[VOWLORN](#vowlorn)** | [higgsfield_ai](https://x.com/higgsfield_ai) | Claude Fable 5.2 | [▶ Play URL](https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step) | [page](https://vibegamer.io/game/vowlorn?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/higgsfield_ai/status/2119997122896601269) | 48 |  | 7.8/10 |
+| <a href="#chairmageddon"><img src="assets/covers/chairmageddon.jpg" width="160" alt="Chairmageddon cover"></a> | **[Chairmageddon](#chairmageddon)** | [argofowl](https://x.com/argofowl) | Claude Fable 5.2 | [▶ Play URL](https://fowllabs.com/fable-5-2/chairmageddon/) | [page](https://vibegamer.io/game/chairmageddon?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/argofowl/status/2120568779537273263) | 48 |  | 7.8/10 |
+| <a href="#stray-cat"><img src="assets/covers/stray-cat.jpg" width="160" alt="Stray Cat cover"></a> | **[Stray Cat](#stray-cat)** | [aimikoda](https://x.com/aimikoda) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt) | [page](https://vibegamer.io/game/stray-cat?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/aimikoda/status/2120120133712593118) | 44 |  | 7.8/10 |
+| <a href="#farewell-light"><img src="assets/covers/farewell-light.jpg" width="160" alt="Farewell Light cover"></a> | **[Farewell Light](#farewell-light)** | [RyanSael](https://x.com/RyanSael) | Claude Fable 5.2 | [▶ Play URL](https://sael.net/demo/farewell-light/) | [page](https://vibegamer.io/game/farewell-light?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/RyanSael/status/2120695866684231998) | 44 |  | 7.8/10 |
+| <a href="#knock-it-off"><img src="assets/covers/knock-it-off.jpg" width="160" alt="Knock It Off cover"></a> | **[Knock It Off](#knock-it-off)** | [argofowl](https://x.com/argofowl) | Claude Fable 5.2 | [▶ Play URL](https://fowllabs.com/fable-5-2/knock-it-off/) | [page](https://vibegamer.io/game/knock-it-off?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/argofowl/status/2121276206683410839) | 43 |  | 7.8/10 |
 | <a href="#handful-island-god-game"><img src="assets/covers/handful-island-god-game.jpg" width="160" alt="Handful: Island God Game cover"></a> | **[Handful: Island God Game](#handful-island-god-game)** | [Nil Ni](https://x.com/_nilni) | Claude Fable 5.2 | [▶ Play URL](https://www.aigameshare.com/games/island-god-game) | [page](https://vibegamer.io/game/handful-island-god-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/_nilni/status/2120639452146250153) | 11 |  | 7.8/10 |
 | <a href="#body-cam"><img src="assets/covers/body-cam.jpg" width="160" alt="BODY-CAM cover"></a> | **[BODY-CAM](#body-cam)** | Juicer | Tesana (model not stated) | [▶ Play URL](https://tesana.com/game/body-cam) | [page](https://vibegamer.io/game/body-cam?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/TesanaAI/status/2112043090043449620) |  |  | 7.8/10 |
 | <a href="#go-again"><img src="assets/covers/go-again.jpg" width="160" alt="GO AGAIN cover"></a> | **[GO AGAIN](#go-again)** | Tushar | Claude Fable 5.2 | [▶ Play URL](https://app.usecrayon.ai/play/d3fe1760-e2cf-4eca-a25d-ee3b789c802e) | [page](https://vibegamer.io/game/go-again?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/usecrayon/status/2120714883759247664) |  |  | 7.8/10 |
+| <a href="#survivors"><img src="assets/covers/survivors.jpg" width="160" alt="Survivors cover"></a> | **[Survivors](#survivors)** | [BLACKST0CK](https://x.com/BLACKST0CK) | Claude Fable 5.2 | [▶ Play URL](https://remix.gg/g/survivors) | [page](https://vibegamer.io/game/survivors?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BLACKST0CK/status/2120329788896498123) | 40 |  | 7.7/10 |
+| <a href="#thermal"><img src="assets/covers/thermal.jpg" width="160" alt="Thermal cover"></a> | **[Thermal](#thermal)** | [loktar00](https://x.com/loktar00) | Claude Fable 5.2 | [▶ Play URL](https://loktar00.github.io/llm-test-pages/fable52-hang-glider/) | [page](https://vibegamer.io/game/thermal?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/loktar00/status/2121005021131083851) | 40 |  | 7.7/10 |
+| <a href="#harbor-lights-grand-prix"><img src="assets/covers/harbor-lights-grand-prix.jpg" width="160" alt="Harbor Lights Grand Prix cover"></a> | **[Harbor Lights Grand Prix](#harbor-lights-grand-prix)** | [Tetriss112](https://x.com/Tetriss112) | Claude Fable 5.2 | [▶ Play URL](https://tetriss22.github.io/harbor-gp/) | [page](https://vibegamer.io/game/harbor-lights-grand-prix?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Tetriss112/status/2120946576663134308) | 34 |  | 7.7/10 |
+| <a href="#fighting-game-plays-on-phones"><img src="assets/covers/fighting-game-plays-on-phones.jpg" width="160" alt="Fighting game (plays on phones) cover"></a> | **[Fighting game (plays on phones)](#fighting-game-plays-on-phones)** | [s_shigel](https://x.com/s_shigel) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7) | [page](https://vibegamer.io/game/fighting-game-plays-on-phones?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/s_shigel/status/2120300080569975034) | 32 |  | 7.7/10 |
+| <a href="#tilt-labyrinth"><img src="assets/covers/tilt-labyrinth.jpg" width="160" alt="Tilt Labyrinth cover"></a> | **[Tilt Labyrinth](#tilt-labyrinth)** | [mylifcc](https://x.com/mylifcc) | Claude Fable 5.2 | [▶ Play URL](https://blog.silencestar.com/posts/tilt-labyrinth/play/) | [page](https://vibegamer.io/game/tilt-labyrinth?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/mylifcc/status/2120054646282870910) | 32 |  | 7.7/10 |
+| <a href="#aussie-outback-4x4"><img src="assets/covers/aussie-outback-4x4.jpg" width="160" alt="Aussie Outback 4x4 cover"></a> | **[Aussie Outback 4x4](#aussie-outback-4x4)** | [SamGCoder](https://x.com/SamGCoder) | Claude Fable 5.2 | [▶ Play URL](https://rust4x4.com/) | [page](https://vibegamer.io/game/aussie-outback-4x4?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/SamGCoder/status/2121513178303811931) | 31 |  | 7.7/10 |
+| <a href="#midnight-grid"><img src="assets/covers/midnight-grid.jpg" width="160" alt="Midnight Grid cover"></a> | **[Midnight Grid](#midnight-grid)** | [mikenevermiss](https://x.com/mikenevermiss) | Claude Fable 5.2 | [▶ Play URL](https://mikenevermiss.github.io/midnight-grid/) | [page](https://vibegamer.io/game/midnight-grid?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/mikenevermiss/status/2121900977959612500) | 28 |  | 7.6/10 |
+| <a href="#the-vast-horizon"><img src="assets/covers/the-vast-horizon.jpg" width="160" alt="The Vast Horizon cover"></a> | **[The Vast Horizon](#the-vast-horizon)** | [OdinLovis](https://x.com/OdinLovis) | Claude Fable 5.2 | [▶ Play URL](https://the-vast-horizon.vercel.app) | [page](https://vibegamer.io/game/the-vast-horizon?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/OdinLovis/status/2120198469755503091) | 27 |  | 7.6/10 |
+| <a href="#open-world-kart-adventure"><img src="assets/covers/open-world-kart-adventure.jpg" width="160" alt="Open-world kart adventure cover"></a> | **[Open-world kart adventure](#open-world-kart-adventure)** | [realWeZZard](https://x.com/realWeZZard) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/FpdQ81sJs1KiV1a6JCY4jj) | [page](https://vibegamer.io/game/open-world-kart-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/realWeZZard/status/2120379500492185939) | 24 |  | 7.6/10 |
+| <a href="#giant-leap"><img src="assets/covers/giant-leap.jpg" width="160" alt="Giant Leap cover"></a> | **[Giant Leap](#giant-leap)** | [handsher_NGU](https://x.com/handsher_NGU) | Claude Fable 5.2 | [▶ Play URL](https://giant-leap.vercel.app) | [page](https://vibegamer.io/game/giant-leap?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/handsher_NGU/status/2120287667141374212) | 22 |  | 7.6/10 |
 | <a href="#patchwork-quilt"><img src="assets/covers/patchwork-quilt.jpg" width="160" alt="Patchwork Quilt cover"></a> | **[Patchwork Quilt](#patchwork-quilt)** | [Blendi](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/blendi/patchwork-quilt) | [page](https://vibegamer.io/game/patchwork-quilt?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2120746541636047347) |  |  | 7.6/10 |
 | <a href="#skyseed-pips-tempest-run"><img src="assets/covers/skyseed-pips-tempest-run.jpg" width="160" alt="Skyseed: Pip's Tempest Run cover"></a> | **[Skyseed: Pip's Tempest Run](#skyseed-pips-tempest-run)** | [Sahil Panhotra](https://x.com/SahilPanhotra) | Gemini 4 Hydrogen | [▶ Play URL](https://01a1b677-97ba-7006-a384-e83b3e5793db.arena.site/) | [page](https://vibegamer.io/game/skyseed-pips-tempest-run?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/SahilPanhotra/status/2119102771173769262) | 60 |  | 7.5/10 |
+| <a href="#cozy-bakery"><img src="assets/covers/cozy-bakery.jpg" width="160" alt="Cozy Bakery cover"></a> | **[Cozy Bakery](#cozy-bakery)** | [goncalo_canhoto](https://x.com/goncalo_canhoto) | Claude Fable 5.2 | [▶ Play URL](https://cozybakery.vercel.app) | [page](https://vibegamer.io/game/cozy-bakery?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/goncalo_canhoto/status/2120530199649432063) | 19 |  | 7.5/10 |
+| <a href="#ink-flight"><img src="assets/covers/ink-flight.jpg" width="160" alt="Ink Flight cover"></a> | **[Ink Flight](#ink-flight)** | [prasenx](https://x.com/prasenx) | Claude Fable 5.2 | [▶ Play URL](https://wavedash.com/games/ink-flight) | [page](https://vibegamer.io/game/ink-flight?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/prasenx/status/2123467881170243808) | 16 |  | 7.5/10 |
 | <a href="#painted-valley"><img src="assets/covers/painted-valley.jpg" width="160" alt="Painted Valley cover"></a> | **[Painted Valley](#painted-valley)** | [Blendi](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/blendi/painted-valley) | [page](https://vibegamer.io/game/painted-valley?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2120694003230560585) |  |  | 7.5/10 |
 | <a href="#drift-a-harma-story"><img src="assets/covers/drift-a-harma-story.jpg" width="160" alt="DRIFT: A Harma Story cover"></a> | **[DRIFT: A Harma Story](#drift-a-harma-story)** | [Rencrypta](https://x.com/Rencrypta) | Claude Fable 5.2 | [▶ Play URL](https://drift.harma.cc/en) | [page](https://vibegamer.io/game/drift-a-harma-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Rencrypta/status/2123527249064321465) | 18 |  | 7.4/10 |
+| <a href="#ignition-fighting-game"><img src="assets/covers/ignition-fighting-game.jpg" width="160" alt="IGNITION fighting game cover"></a> | **[IGNITION fighting game](#ignition-fighting-game)** | [s_shigel](https://x.com/s_shigel) | Claude Fable 5.2 | [▶ Play URL](https://fighting-game-ignition.saito-931.workers.dev) | [page](https://vibegamer.io/game/ignition-fighting-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/s_shigel/status/2120895161890914336) | 13 |  | 7.4/10 |
+| <a href="#silicon-seduction"><img src="assets/covers/silicon-seduction.jpg" width="160" alt="Silicon Seduction cover"></a> | **[Silicon Seduction](#silicon-seduction)** | [ZryMiller](https://x.com/ZryMiller) | Claude Fable 5.2 | [▶ Play URL](https://silicon-seduction.vercel.app/) | [page](https://vibegamer.io/game/silicon-seduction?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/ZryMiller/status/2119918766691954691) | 12 |  | 7.4/10 |
 | <a href="#watercolour"><img src="assets/covers/watercolour.jpg" width="160" alt="Watercolour cover"></a> | **[Watercolour](#watercolour)** | [Blendi](https://x.com/BlendiByl) | not stated | [▶ Play URL](https://patch.gg/blendi/watercolour) | [page](https://vibegamer.io/game/watercolour?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2121177279451844707) |  |  | 7.4/10 |
+| <a href="#napoleon-x-locke"><img src="assets/covers/napoleon-x-locke.jpg" width="160" alt="Napoleon x Locke cover"></a> | **[Napoleon x Locke](#napoleon-x-locke)** | [lockeorca](https://x.com/lockeorca) | Claude Fable 5.2 | [▶ Play URL](https://napolehim.com) | [page](https://vibegamer.io/game/napoleon-x-locke?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/lockeorca/status/2123044026152890803) | 9 |  | 7.3/10 |
+| <a href="#room-13"><img src="assets/covers/room-13.jpg" width="160" alt="Room 13 cover"></a> | **[Room 13](#room-13)** | [MartinaBuilds](https://x.com/MartinaBuilds) | Claude Fable 5.2 | [▶ Play URL](https://room13.srv1903550.hstgr.cloud) | [page](https://vibegamer.io/game/room-13?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/MartinaBuilds/status/2123424275462053893) | 7 |  | 7.2/10 |
+| <a href="#hello-jello"><img src="assets/covers/hello-jello.jpg" width="160" alt="Hello Jello cover"></a> | **[Hello Jello](#hello-jello)** | [photonstorm](https://x.com/photonstorm) | Claude Fable 5.2 | [▶ Play URL](https://jello.sixfingerpunch.com/) | [page](https://vibegamer.io/game/hello-jello?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/photonstorm/status/2122879821986627587) | 6 |  | 7.2/10 |
+| <a href="#roost"><img src="assets/covers/roost.jpg" width="160" alt="Roost cover"></a> | **[Roost](#roost)** | [tejas3732](https://x.com/tejas3732) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ) | [page](https://vibegamer.io/game/roost?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/tejas3732/status/2120091513657139549) | 6 |  | 7.2/10 |
+| <a href="#infall-you-are-the-black-hole"><img src="assets/covers/infall-you-are-the-black-hole.jpg" width="160" alt="INFALL — you are the black hole cover"></a> | **[INFALL — you are the black hole](#infall-you-are-the-black-hole)** | [AugustCastilIo](https://x.com/AugustCastilIo) | Claude Fable 5.2 | [▶ Play URL](https://infall-game.vercel.app) | [page](https://vibegamer.io/game/infall-you-are-the-black-hole?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/AugustCastilIo/status/2121350653037756557) | 4 |  | 7.1/10 |
+| <a href="#four-character-fighting-game"><img src="assets/covers/four-character-fighting-game.jpg" width="160" alt="Four-character fighting game cover"></a> | **[Four-character fighting game](#four-character-fighting-game)** | [promodenstudio](https://x.com/promodenstudio) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo) | [page](https://vibegamer.io/game/four-character-fighting-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/promodenstudio/status/2120085977079107788) | 4 |  | 7.1/10 |
 | <a href="#hogwarts-royale"><img src="assets/covers/hogwarts-royale.jpg" width="160" alt="Hogwarts Royale cover"></a> | **[Hogwarts Royale](#hogwarts-royale)** | [Matt Shumer](https://x.com/mattshumer_) | Claude Fable 5.2 | [▶ Play URL](https://www.spawn.co/@mattshumer/hogwarts-royale) | [page](https://vibegamer.io/game/hogwarts-royale?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/mattshumer_/status/2119872098306810226) | 307 | ✓ | 7/10 |
 | <a href="#the-clockmakers-mansion"><img src="assets/covers/the-clockmakers-mansion.jpg" width="160" alt="The Clockmaker's Mansion cover"></a> | **[The Clockmaker's Mansion](#the-clockmakers-mansion)** | [@mihawkxxxxx](https://x.com/mihawkxxxxx) | Claude Fable 5.2 | video only | [page](https://vibegamer.io/game/the-clockmakers-mansion?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/mihawkxxxxx/status/2119909865296699749) | 11 |  | 7/10 |
 | <a href="#neon-coast"><img src="assets/covers/neon-coast.jpg" width="160" alt="Neon Coast cover"></a> | **[Neon Coast](#neon-coast)** | [@ashwinntwt](https://x.com/ashwinntwt) | Claude Fable 5.2 | video only | [page](https://vibegamer.io/game/neon-coast?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/ashwinntwt/status/2119890312382603459) | 8 |  | 7/10 |
+| <a href="#vippi"><img src="assets/covers/vippi.jpg" width="160" alt="Vippi cover"></a> | **[Vippi](#vippi)** | [Shrit1401](https://x.com/Shrit1401) | Claude Fable 5.2 | [▶ Play URL](https://vippi.vercel.app/) | [page](https://vibegamer.io/game/vippi?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/Shrit1401/status/2120060593763926314) | 2 |  | 6.9/10 |
 | <a href="#the-lost-storm"><img src="assets/covers/the-lost-storm.jpg" width="160" alt="The Lost Storm cover"></a> | **[The Lost Storm](#the-lost-storm)** | [Mark Arguinbaev](https://x.com/marginsystems) | Claude Fable 5.2 | [▶ Play URL](https://theloststorm.com/play/) | [page](https://vibegamer.io/game/the-lost-storm?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/marginsystems/status/2120813222098071936) |  |  | 6.4/10 |
 
 ## Games
@@ -347,6 +406,132 @@ An open-world driving game in a neon 1986 Miami, in the browser: pick a car in a
 
 <sub>Our score: 8.7/10 for visuals and polish.</sub>
 
+### Uno com Escada
+<a id="uno-com-escada"></a>
+
+<a href="https://vibegamer.io/game/uno-com-escada?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/uno-com-escada.jpg" alt="Uno com Escada: cover art" width="100%"></a>
+
+Drive a 1996 Uno Mille with a ladder on the roof around a circuit
+
+<p><img src="https://cdn.vibegamer.io/submissions/904d2c66-498a-4284-8cd9-4ed46a179ea5-uno-com-escada-shot-1.jpg" width="32%" alt="Uno com Escada gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/b35405e5-5133-4dd5-9bfb-a0ccfb9d947d-uno-com-escada-shot-2.jpg" width="32%" alt="Uno com Escada gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/e931abe2-0020-4c10-bb92-5d019d05858b-uno-com-escada-shot-3.jpg" width="32%" alt="Uno com Escada gameplay screenshot"></p>
+
+- **Made by:** ViktorKav ([@ViktorKav](https://x.com/ViktorKav))
+- **Model:** Claude Fable 5.2
+- **Uno com Escada game URL:** https://viktorkav.com.br/apoio/uno-com-escada/fable/
+- **Original post:** https://x.com/ViktorKav/status/2122647483281015155 (9.2K likes, checked November 21, 2026)
+- **Tags:** 3D, Racing
+- **Uno com Escada on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/uno-com-escada](https://vibegamer.io/game/uno-com-escada?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.6/10 for visuals and polish.</sub>
+
+### Portals: Endless Worlds
+<a id="portals-endless-worlds"></a>
+
+<a href="https://vibegamer.io/game/portals-endless-worlds?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/portals-endless-worlds.jpg" alt="Portals: Endless Worlds: cover art" width="100%"></a>
+
+25,000 agents built 450+ code-only 3D worlds inspired by books, art and places, linked by portals you drift through
+
+<p><img src="https://cdn.vibegamer.io/submissions/b0e1554b-34a8-45d2-8677-70aaf5850bdd-portals-endless-worlds-shot-1.jpg" width="32%" alt="Portals: Endless Worlds gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/ebac768e-ec31-40db-bf92-ae2ceec5f106-portals-endless-worlds-shot-2.jpg" width="32%" alt="Portals: Endless Worlds gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/d40e3a59-5f50-4e12-8928-1d47ce40bc1b-portals-endless-worlds-shot-3.jpg" width="32%" alt="Portals: Endless Worlds gameplay screenshot"></p>
+
+- **Made by:** emollick ([@emollick](https://x.com/emollick))
+- **Model:** Claude Fable 5.2
+- **Portals: Endless Worlds game URL:** https://portals-endless-worlds.netlify.app/
+- **Original post:** https://x.com/emollick/status/2119918307457577163 (1.9K likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Portals: Endless Worlds on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/portals-endless-worlds](https://vibegamer.io/game/portals-endless-worlds?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.6/10 for visuals and polish.</sub>
+
+### Evensong
+<a id="evensong"></a>
+
+<a href="https://vibegamer.io/game/evensong?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/evensong.jpg" alt="Evensong: cover art" width="100%"></a>
+
+A dark-fantasy souls-like boss fight, playable in the browser
+
+<p><img src="https://cdn.vibegamer.io/submissions/bff2ecd9-9504-4fde-a795-16e7f78cb9a8-evensong-shot-1.jpg" width="32%" alt="Evensong gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/c26fc13c-6794-44f6-a944-f95231573f18-evensong-shot-2.jpg" width="32%" alt="Evensong gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8fc451f1-8a2c-4505-bbfe-e31a5d7a8b1f-evensong-shot-3.jpg" width="32%" alt="Evensong gameplay screenshot"></p>
+
+- **Made by:** kevin_t_ngo ([@kevin_t_ngo](https://x.com/kevin_t_ngo))
+- **Model:** Claude Fable 5.2
+- **Evensong game URL:** https://evensong-phi.vercel.app/
+- **Original post:** https://x.com/kevin_t_ngo/status/2120238844754923874 (1.8K likes, checked November 21, 2026)
+- **Tags:** 3D, Combat
+- **Evensong on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/evensong](https://vibegamer.io/game/evensong?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.6/10 for visuals and polish.</sub>
+
+### LANTERNFALL
+<a id="lanternfall"></a>
+
+<a href="https://vibegamer.io/game/lanternfall?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/lanternfall.jpg" alt="LANTERNFALL: cover art" width="100%"></a>
+
+The whole game — animations, models, everything — generated by Fable
+
+<p><img src="https://cdn.vibegamer.io/submissions/1bb2eded-9e6c-40a6-b5ea-8d88349499e2-lanternfall-shot-1.jpg" width="32%" alt="LANTERNFALL gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/a03f6e23-ae5c-4697-936f-781758752739-lanternfall-shot-2.jpg" width="32%" alt="LANTERNFALL gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/053443e8-2a97-445c-8809-cf8008317df5-lanternfall-shot-3.jpg" width="32%" alt="LANTERNFALL gameplay screenshot"></p>
+
+- **Made by:** loktar00 ([@loktar00](https://x.com/loktar00))
+- **Model:** Claude Fable 5.2
+- **LANTERNFALL game URL:** https://loktar00.github.io/lanternfall/
+- **Original post:** https://x.com/loktar00/status/2120192761542615271 (1.4K likes, checked November 21, 2026)
+- **Tags:** 3D
+- **LANTERNFALL on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/lanternfall](https://vibegamer.io/game/lanternfall?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.6/10 for visuals and polish.</sub>
+
+### Solar
+<a id="solar"></a>
+
+<a href="https://vibegamer.io/game/solar?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/solar.jpg" alt="Solar: cover art" width="100%"></a>
+
+Inspired by Outer Wilds: real orbits and gravity, unbroken flights between planets, and every world drawn by code
+
+<p><img src="https://cdn.vibegamer.io/submissions/3676cc97-9e8d-4e81-9aac-d97405432cc2-solar-shot-1.jpg" width="32%" alt="Solar gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/d7eed4e0-8f20-4a7a-8de7-9594da31dd52-solar-shot-2.jpg" width="32%" alt="Solar gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/aea0c765-fc10-4c75-bb7b-d68c03a8e13d-solar-shot-3.jpg" width="32%" alt="Solar gameplay screenshot"></p>
+
+- **Made by:** BlendiByl ([@BlendiByl](https://x.com/BlendiByl))
+- **Model:** Claude Fable 5.2
+- **Solar game URL:** https://patch.gg/play/blendi/solar
+- **Original post:** https://x.com/BlendiByl/status/2122673770607591855 (793 likes, checked November 21, 2026)
+- **Tags:** 3D, Flight
+- **Solar on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/solar](https://vibegamer.io/game/solar?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.6/10 for visuals and polish.</sub>
+
+### Coloured Pencil
+<a id="coloured-pencil"></a>
+
+<a href="https://vibegamer.io/game/coloured-pencil?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/coloured-pencil.jpg" alt="Coloured Pencil: cover art" width="100%"></a>
+
+A colored-pencil game slice; every surface's shading and the whole town are code
+
+<p><img src="https://cdn.vibegamer.io/submissions/d175084c-974e-4f8f-a6f8-0d7151497c96-coloured-pencil-shot-1.jpg" width="32%" alt="Coloured Pencil gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/53d543bd-2a4b-4958-81c1-26fcc070f2a4-coloured-pencil-shot-2.jpg" width="32%" alt="Coloured Pencil gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/382b1908-cf97-4b47-a3d4-eb9779b8b353-coloured-pencil-shot-3.jpg" width="32%" alt="Coloured Pencil gameplay screenshot"></p>
+
+- **Made by:** BlendiByl ([@BlendiByl](https://x.com/BlendiByl))
+- **Model:** Claude Fable 5.2
+- **Coloured Pencil game URL:** https://patch.gg/blendi/coloured-pencil
+- **Original post:** https://x.com/BlendiByl/status/2121130385723789637 (763 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Coloured Pencil on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/coloured-pencil](https://vibegamer.io/game/coloured-pencil?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.6/10 for visuals and polish.</sub>
+
+### Voxel Engine
+<a id="voxel-engine"></a>
+
+<a href="https://vibegamer.io/game/voxel-engine?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/voxel-engine.jpg" alt="Voxel Engine: cover art" width="100%"></a>
+
+Built from a single prompt
+
+<p><img src="https://cdn.vibegamer.io/submissions/258977b2-7428-4380-85c4-8ee980d3fbb8-voxel-engine-shot-1.jpg" width="32%" alt="Voxel Engine gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/27317186-8fe3-408f-a83e-c68b86323b06-voxel-engine-shot-2.jpg" width="32%" alt="Voxel Engine gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/e557a750-403a-47d3-81a4-e38cd70aedda-voxel-engine-shot-3.jpg" width="32%" alt="Voxel Engine gameplay screenshot"></p>
+
+- **Made by:** mattshumer_ ([@mattshumer_](https://x.com/mattshumer_))
+- **Model:** Claude Fable 5.2
+- **Voxel Engine game URL:** https://www.spawn.co/@mattshumer/voxel-engine
+- **Original post:** https://x.com/mattshumer_/status/2119870965106483384 (744 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Voxel Engine on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/voxel-engine](https://vibegamer.io/game/voxel-engine?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.6/10 for visuals and polish.</sub>
+
 ### Saltfire
 <a id="saltfire"></a>
 
@@ -401,6 +586,24 @@ An arena FPS where everyone carries a portal door: open one behind an enemy, sho
 
 <sub>Our score: 8.5/10 for visuals and polish.</sub>
 
+### Valsera — side-scrolling RPG
+<a id="valsera-side-scrolling-rpg"></a>
+
+<a href="https://vibegamer.io/game/valsera-side-scrolling-rpg?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/valsera-side-scrolling-rpg.jpg" alt="Valsera — side-scrolling RPG: cover art" width="100%"></a>
+
+A browser-playable side-scrolling RPG; every visual is drawn with code, no image model or pre-made art
+
+<p><img src="https://cdn.vibegamer.io/submissions/d441bd0f-6b8d-4689-a5cf-daf2bb12dda6-valsera-side-scrolling-rpg-shot-1.jpg" width="32%" alt="Valsera — side-scrolling RPG gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/41258fd1-a1ea-4415-b2db-2881cc3f7974-valsera-side-scrolling-rpg-shot-2.jpg" width="32%" alt="Valsera — side-scrolling RPG gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/771d5e13-8bb8-482a-9151-282604847619-valsera-side-scrolling-rpg-shot-3.jpg" width="32%" alt="Valsera — side-scrolling RPG gameplay screenshot"></p>
+
+- **Made by:** kevin_t_ngo ([@kevin_t_ngo](https://x.com/kevin_t_ngo))
+- **Model:** Claude Fable 5.2
+- **Valsera — side-scrolling RPG game URL:** https://valsera-game.vercel.app/
+- **Original post:** https://x.com/kevin_t_ngo/status/2121701020598415465 (511 likes, checked November 21, 2026)
+- **Tags:** Adventure, 2D
+- **Valsera — side-scrolling RPG on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/valsera-side-scrolling-rpg](https://vibegamer.io/game/valsera-side-scrolling-rpg?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.5/10 for visuals and polish.</sub>
+
 ### Dragon Rider
 <a id="dragon-rider"></a>
 
@@ -415,6 +618,24 @@ A dragon riding sim made with early access to Claude Fable 5.2: leap off floatin
 - **Play:** no public build yet; watch the gameplay video in the post
 - **Original post:** https://x.com/ForwardEditor/status/2119867743965163994 (461 likes, checked November 13, 2026)
 - **Tags:** Flight, Action, 3D
+
+<sub>Our score: 8.5/10 for visuals and polish.</sub>
+
+### The World of Hoodcraft
+<a id="the-world-of-hoodcraft"></a>
+
+<a href="https://vibegamer.io/game/the-world-of-hoodcraft?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/the-world-of-hoodcraft.jpg" alt="The World of Hoodcraft: cover art" width="100%"></a>
+
+World of Warcraft meets GTA in the browser: hijack wagons, hit 5-star heat until battlemages turn you into a sheep
+
+<p><img src="https://cdn.vibegamer.io/submissions/d2637c12-fbe0-44b7-8923-526c2f814561-the-world-of-hoodcraft-shot-1.jpg" width="32%" alt="The World of Hoodcraft gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/06fa1b80-f1bf-4a57-b58a-13a340f2c888-the-world-of-hoodcraft-shot-2.jpg" width="32%" alt="The World of Hoodcraft gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/10fd457a-b004-4a2e-aff0-1599c282f687-the-world-of-hoodcraft-shot-3.jpg" width="32%" alt="The World of Hoodcraft gameplay screenshot"></p>
+
+- **Made by:** Izkimar ([@Izkimar](https://x.com/Izkimar))
+- **Model:** Claude Fable 5.2
+- **The World of Hoodcraft game URL:** https://www.spawn.co/@izkimar/the-world-of-hoodcraft
+- **Original post:** https://x.com/Izkimar/status/2123188582836031910 (454 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **The World of Hoodcraft on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/the-world-of-hoodcraft](https://vibegamer.io/game/the-world-of-hoodcraft?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8.5/10 for visuals and polish.</sub>
 
@@ -454,6 +675,78 @@ One tank of air, one speargun and a 140 m sinkhole: spear fish, fight off sharks
 
 <sub>Our score: 8.5/10 for visuals and polish.</sub>
 
+### Childhood Rug Racer
+<a id="childhood-rug-racer"></a>
+
+<a href="https://vibegamer.io/game/childhood-rug-racer?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/childhood-rug-racer.jpg" alt="Childhood Rug Racer: cover art" width="100%"></a>
+
+A racing game on your childhood play rug, same prompt as GPT-6.2 Sol
+
+<p><img src="https://cdn.vibegamer.io/submissions/7115f1a5-ffea-4f21-9fd9-b17b871bc9b8-childhood-rug-racer-shot-1.jpg" width="32%" alt="Childhood Rug Racer gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/5c424dc6-8a10-40b7-ba8a-eef2e38de6f0-childhood-rug-racer-shot-2.jpg" width="32%" alt="Childhood Rug Racer gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/242ccdfa-32ed-41b9-b41f-4844d6938708-childhood-rug-racer-shot-3.jpg" width="32%" alt="Childhood Rug Racer gameplay screenshot"></p>
+
+- **Made by:** noclipepe ([@noclipepe](https://x.com/noclipepe))
+- **Model:** Claude Fable 5.2
+- **Childhood Rug Racer game URL:** https://noclipepe.pages.dev/rug/
+- **Original post:** https://x.com/noclipepe/status/2119728047754547326 (428 likes, checked November 21, 2026)
+- **Tags:** 3D, Racing
+- **Childhood Rug Racer on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/childhood-rug-racer](https://vibegamer.io/game/childhood-rug-racer?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.4/10 for visuals and polish.</sub>
+
+### HADAL
+<a id="hadal"></a>
+
+<a href="https://vibegamer.io/game/hadal?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/hadal.jpg" alt="HADAL: cover art" width="100%"></a>
+
+Start on a sunlit reef, board a submarine and descend past shipwrecks and a whale fall to Challenger Deep, scanning 18 discoveries
+
+<p><img src="https://cdn.vibegamer.io/submissions/f9beb03c-6236-407b-a47b-dc93661e3b22-hadal-shot-1.jpg" width="32%" alt="HADAL gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/37c7c7d2-7e16-4062-89d1-e52df1fe92d8-hadal-shot-2.jpg" width="32%" alt="HADAL gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/30e814a0-3bb2-4498-830a-890a970cb25f-hadal-shot-3.jpg" width="32%" alt="HADAL gameplay screenshot"></p>
+
+- **Made by:** AravSrinivas ([@AravSrinivas](https://x.com/AravSrinivas))
+- **Model:** Claude Fable 5.2
+- **HADAL game URL:** https://mariana.pplx.app
+- **Original post:** https://x.com/AravSrinivas/status/2122713692324384793 (364 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **HADAL on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/hadal](https://vibegamer.io/game/hadal?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.4/10 for visuals and polish.</sub>
+
+### Cloud Stunt 3D
+<a id="cloud-stunt-3d"></a>
+
+<a href="https://vibegamer.io/game/cloud-stunt-3d?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/cloud-stunt-3d.jpg" alt="Cloud Stunt 3D: cover art" width="100%"></a>
+
+Generated in 30 minutes; an optimized "golden" version is linked too
+
+<p><img src="https://cdn.vibegamer.io/submissions/91574704-27cd-49dd-8595-9489e9cf1960-cloud-stunt-3d-shot-1.jpg" width="32%" alt="Cloud Stunt 3D gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/b2a39a94-520e-4cf5-aee5-7cff07c39104-cloud-stunt-3d-shot-2.jpg" width="32%" alt="Cloud Stunt 3D gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/018b18fd-5ade-403d-8530-9f4c7adedb86-cloud-stunt-3d-shot-3.jpg" width="32%" alt="Cloud Stunt 3D gameplay screenshot"></p>
+
+- **Made by:** jev_chat ([@jev_chat](https://x.com/jev_chat))
+- **Model:** Claude Fable 5.2
+- **Cloud Stunt 3D game URL:** https://finderchangchang.github.io/cloud-stunt-3d/
+- **Original post:** https://x.com/jev_chat/status/2120015641151426838 (328 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Cloud Stunt 3D on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/cloud-stunt-3d](https://vibegamer.io/game/cloud-stunt-3d?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.4/10 for visuals and polish.</sub>
+
+### Valle Morta
+<a id="valle-morta"></a>
+
+<a href="https://vibegamer.io/game/valle-morta?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/valle-morta.jpg" alt="Valle Morta: cover art" width="100%"></a>
+
+A first-person zombie survival shooter in a war-torn alpine valley, built in two days
+
+<p><img src="https://cdn.vibegamer.io/submissions/c2e017bc-ca23-43f7-95a2-c7b79f742a13-valle-morta-shot-1.jpg" width="32%" alt="Valle Morta gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/4548f056-0fd2-43aa-a293-fd38f2358035-valle-morta-shot-2.jpg" width="32%" alt="Valle Morta gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/9888a898-62f9-4248-8865-007fdf3fccf9-valle-morta-shot-3.jpg" width="32%" alt="Valle Morta gameplay screenshot"></p>
+
+- **Made by:** LexnLin ([@LexnLin](https://x.com/LexnLin))
+- **Model:** Claude Fable 5.2
+- **Valle Morta game URL:** https://valle-morta.vercel.app/
+- **Original post:** https://x.com/LexnLin/status/2121934071429468543 (323 likes, checked November 21, 2026)
+- **Tags:** 3D, Shooter
+- **Valle Morta on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/valle-morta](https://vibegamer.io/game/valle-morta?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.4/10 for visuals and polish.</sub>
+
 ### CORDON 9
 <a id="cordon-9"></a>
 
@@ -471,6 +764,78 @@ An endless first-person zombie shooter on a rain-soaked quarantine street, with 
 - **CORDON 9 on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/cordon-9](https://vibegamer.io/game/cordon-9?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8.4/10 for visuals and polish.</sub>
+
+### Dread & District
+<a id="dread-district"></a>
+
+<a href="https://vibegamer.io/game/dread-district?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/dread-district.jpg" alt="Dread & District: cover art" width="100%"></a>
+
+A fantasy transport sim "with heart": one vague paragraph, then a bunch of agents arguing about art, lore and jokes
+
+<p><img src="https://cdn.vibegamer.io/submissions/253bb8de-8e50-4c4e-bd59-507149fb95fc-dread-district-shot-1.jpg" width="32%" alt="Dread & District gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/c5a89a88-2b66-46e8-a75a-aad37e90e6d7-dread-district-shot-2.jpg" width="32%" alt="Dread & District gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/0c940939-9a90-4ad9-b7f2-c1ea91212fc2-dread-district-shot-3.jpg" width="32%" alt="Dread & District gameplay screenshot"></p>
+
+- **Made by:** emollick ([@emollick](https://x.com/emollick))
+- **Model:** Claude Fable 5.2
+- **Dread & District game URL:** https://dread-and-district.netlify.app
+- **Original post:** https://x.com/emollick/status/2120248525254742318 (303 likes, checked November 21, 2026)
+- **Tags:** 3D, Sports, Horror
+- **Dread & District on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/dread-district](https://vibegamer.io/game/dread-district?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.3/10 for visuals and polish.</sub>
+
+### Unsung Vale — open-world RPG
+<a id="unsung-vale-open-world-rpg"></a>
+
+<a href="https://vibegamer.io/game/unsung-vale-open-world-rpg?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/unsung-vale-open-world-rpg.jpg" alt="Unsung Vale — open-world RPG: cover art" width="100%"></a>
+
+A third-person open-world RPG demo
+
+<p><img src="https://cdn.vibegamer.io/submissions/11177bed-d128-4c93-9ffc-4d27a40a2dd5-unsung-vale-open-world-rpg-shot-1.jpg" width="32%" alt="Unsung Vale — open-world RPG gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/0a02eea1-5c04-4818-aec9-5a66fbe8e340-unsung-vale-open-world-rpg-shot-2.jpg" width="32%" alt="Unsung Vale — open-world RPG gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/da904645-d294-4d17-b778-b3a3031fbca6-unsung-vale-open-world-rpg-shot-3.jpg" width="32%" alt="Unsung Vale — open-world RPG gameplay screenshot"></p>
+
+- **Made by:** LexnLin ([@LexnLin](https://x.com/LexnLin))
+- **Model:** Claude Fable 5.2
+- **Unsung Vale — open-world RPG game URL:** https://unsung-vale.vercel.app/
+- **Original post:** https://x.com/LexnLin/status/2121253191748669705 (302 likes, checked November 21, 2026)
+- **Tags:** 3D, Adventure, Open world
+- **Unsung Vale — open-world RPG on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/unsung-vale-open-world-rpg](https://vibegamer.io/game/unsung-vale-open-world-rpg?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.3/10 for visuals and polish.</sub>
+
+### Fall Line: downhill MTB
+<a id="fall-line-downhill-mtb"></a>
+
+<a href="https://vibegamer.io/game/fall-line-downhill-mtb?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/fall-line-downhill-mtb.jpg" alt="Fall Line: downhill MTB: cover art" width="100%"></a>
+
+A downhill mountain bike game in three.js, playable in the browser with a keyboard
+
+<p><img src="https://cdn.vibegamer.io/submissions/71a4542e-dd79-470d-8822-428aa70ba85f-fall-line-downhill-mtb-shot-1.jpg" width="32%" alt="Fall Line: downhill MTB gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/306637aa-d138-415e-89fb-1539344e9bec-fall-line-downhill-mtb-shot-2.jpg" width="32%" alt="Fall Line: downhill MTB gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/c4b4fe2d-9ef6-4238-9ab9-98da356e19fc-fall-line-downhill-mtb-shot-3.jpg" width="32%" alt="Fall Line: downhill MTB gameplay screenshot"></p>
+
+- **Made by:** BananaOfMercy ([@BananaOfMercy](https://x.com/BananaOfMercy))
+- **Model:** Claude Fable 5.2
+- **Fall Line: downhill MTB game URL:** https://fallline-9zo.pages.dev
+- **Original post:** https://x.com/BananaOfMercy/status/2123037856398733438 (279 likes, checked November 21, 2026)
+- **Tags:** 3D, Sports
+- **Fall Line: downhill MTB on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/fall-line-downhill-mtb](https://vibegamer.io/game/fall-line-downhill-mtb?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.3/10 for visuals and polish.</sub>
+
+### First Crush
+<a id="first-crush"></a>
+
+<a href="https://vibegamer.io/game/first-crush?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/first-crush.jpg" alt="First Crush: cover art" width="100%"></a>
+
+A winemaking game: scrub the vat, crush 250 kg of fruit, read the hydrometer, pick a yeast — and it explains why
+
+<p><img src="https://cdn.vibegamer.io/submissions/de7405f2-2184-44a3-86ab-2cb265cf3e95-first-crush-shot-1.jpg" width="32%" alt="First Crush gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/0aab8af0-665c-47d2-a9b2-fccb2d974dfe-first-crush-shot-2.jpg" width="32%" alt="First Crush gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/adcc9c62-de62-435c-ad31-46e6da4cc899-first-crush-shot-3.jpg" width="32%" alt="First Crush gameplay screenshot"></p>
+
+- **Made by:** kieranklaassen ([@kieranklaassen](https://x.com/kieranklaassen))
+- **Model:** Claude Fable 5.2
+- **First Crush game URL:** https://frontier.every.to/experiments/first-crush
+- **Original post:** https://x.com/kieranklaassen/status/2119871673294037280 (230 likes, checked November 21, 2026)
+- **Tags:** 3D, Runner
+- **First Crush on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/first-crush](https://vibegamer.io/game/first-crush?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.3/10 for visuals and polish.</sub>
 
 ### Great Wave
 <a id="great-wave"></a>
@@ -526,6 +891,78 @@ A storybook flying adventure: ride Mo, a big gliding sky creature, over a turquo
 
 <sub>Our score: 8.2/10 for visuals and polish.</sub>
 
+### Rambo Dino
+<a id="rambo-dino"></a>
+
+<a href="https://vibegamer.io/game/rambo-dino?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/rambo-dino.jpg" alt="Rambo Dino: cover art" width="100%"></a>
+
+The Chrome T-Rex game, rebuilt
+
+<p><img src="https://cdn.vibegamer.io/submissions/282d633f-d696-4fec-b37c-945538b1b4ae-rambo-dino-shot-1.jpg" width="32%" alt="Rambo Dino gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8319867a-c44f-4889-91ee-d18d5c5c4548-rambo-dino-shot-2.jpg" width="32%" alt="Rambo Dino gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/34108699-3f9f-4c3a-978f-dd08cacf1afc-rambo-dino-shot-3.jpg" width="32%" alt="Rambo Dino gameplay screenshot"></p>
+
+- **Made by:** noclipepe ([@noclipepe](https://x.com/noclipepe))
+- **Model:** Claude Fable 5.2
+- **Rambo Dino game URL:** https://noclipepe.pages.dev/dino
+- **Original post:** https://x.com/noclipepe/status/2119927838321328577 (183 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Rambo Dino on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/rambo-dino](https://vibegamer.io/game/rambo-dino?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.2/10 for visuals and polish.</sub>
+
+### Cozy Lisbon
+<a id="cozy-lisbon"></a>
+
+<a href="https://vibegamer.io/game/cozy-lisbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/cozy-lisbon.jpg" alt="Cozy Lisbon: cover art" width="100%"></a>
+
+A one-prompt cozy game about a little plane flying over Lisbon
+
+<p><img src="https://cdn.vibegamer.io/submissions/8513266e-f818-47a6-9b3e-d5d0653db5b5-cozy-lisbon-shot-1.jpg" width="32%" alt="Cozy Lisbon gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8a9b1df2-d453-4ec4-8b7c-88acb154f82a-cozy-lisbon-shot-2.jpg" width="32%" alt="Cozy Lisbon gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/1af633b1-abb5-4b6d-917b-2554e5fbb877-cozy-lisbon-shot-3.jpg" width="32%" alt="Cozy Lisbon gameplay screenshot"></p>
+
+- **Made by:** goncalo_canhoto ([@goncalo_canhoto](https://x.com/goncalo_canhoto))
+- **Model:** Claude Fable 5.2
+- **Cozy Lisbon game URL:** https://cozylisbon.vercel.app
+- **Original post:** https://x.com/goncalo_canhoto/status/2119932946346094690 (172 likes, checked November 21, 2026)
+- **Tags:** 3D, Flight, Cosy
+- **Cozy Lisbon on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/cozy-lisbon](https://vibegamer.io/game/cozy-lisbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.2/10 for visuals and polish.</sub>
+
+### Market Order
+<a id="market-order"></a>
+
+<a href="https://vibegamer.io/game/market-order?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/market-order.jpg" alt="Market Order: cover art" width="100%"></a>
+
+An open-world driving game where you steal cars and run missions
+
+<p><img src="https://cdn.vibegamer.io/submissions/a48e4acd-cb64-45fb-ac1f-dca1d2200143-market-order-shot-1.jpg" width="32%" alt="Market Order gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/9fe1e13a-60bd-4ff1-b495-cab5e9ecfb36-market-order-shot-2.jpg" width="32%" alt="Market Order gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/5fac5c44-a6d6-4ead-aa9a-8cd343592d16-market-order-shot-3.jpg" width="32%" alt="Market Order gameplay screenshot"></p>
+
+- **Made by:** emollick ([@emollick](https://x.com/emollick))
+- **Model:** Claude Fable 5.2
+- **Market Order game URL:** https://market-order-city.netlify.app/
+- **Original post:** https://x.com/emollick/status/2123520499368263977 (170 likes, checked November 21, 2026)
+- **Tags:** 3D, Racing, Open world, Strategy
+- **Market Order on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/market-order](https://vibegamer.io/game/market-order?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.2/10 for visuals and polish.</sub>
+
+### Frontline Warfare Deathmatch
+<a id="frontline-warfare-deathmatch"></a>
+
+<a href="https://vibegamer.io/game/frontline-warfare-deathmatch?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/frontline-warfare-deathmatch.jpg" alt="Frontline Warfare Deathmatch: cover art" width="100%"></a>
+
+A Call of Duty-style shooter in the browser
+
+<p><img src="https://cdn.vibegamer.io/submissions/8deb5413-d1c1-4f97-b519-5dd9a96f2c88-frontline-warfare-deathmatch-shot-1.jpg" width="32%" alt="Frontline Warfare Deathmatch gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/a04072f5-090b-4191-be79-673f5fc1d887-frontline-warfare-deathmatch-shot-2.jpg" width="32%" alt="Frontline Warfare Deathmatch gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/6644d76c-3c4f-411a-b7f8-c6702ab5c932-frontline-warfare-deathmatch-shot-3.jpg" width="32%" alt="Frontline Warfare Deathmatch gameplay screenshot"></p>
+
+- **Made by:** alightinastorm ([@alightinastorm](https://x.com/alightinastorm))
+- **Model:** Claude Fable 5.2
+- **Frontline Warfare Deathmatch game URL:** https://spawn.co/@robot/frontline-warfare-deathmatch
+- **Original post:** https://x.com/alightinastorm/status/2120020469487440210 (163 likes, checked November 21, 2026)
+- **Tags:** 3D, Shooter
+- **Frontline Warfare Deathmatch on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/frontline-warfare-deathmatch](https://vibegamer.io/game/frontline-warfare-deathmatch?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.2/10 for visuals and polish.</sub>
+
 ### Valley Ride
 <a id="valley-ride"></a>
 
@@ -562,6 +999,60 @@ Drift through a rainy neon city at night, chain drift and speed zones for score,
 - **NightClub: Drift & Speed on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/nightclub-drift-speed](https://vibegamer.io/game/nightclub-drift-speed?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8.2/10 for visuals and polish.</sub>
+
+### Fable 5.2 FPS Repro
+<a id="fable-5-2-fps-repro"></a>
+
+<a href="https://vibegamer.io/game/fable-5-2-fps-repro?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/fable-5-2-fps-repro.jpg" alt="Fable 5.2 FPS Repro: cover art" width="100%"></a>
+
+Four single-file 3D FPS demos: models, sound and textures all in code
+
+<p><img src="https://cdn.vibegamer.io/submissions/9207baac-c1f1-4d2f-891a-af4a2c3c6511-fable-5-2-fps-repro-shot-1.jpg" width="32%" alt="Fable 5.2 FPS Repro gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/19b32a66-be57-45f3-b00b-381f81354eac-fable-5-2-fps-repro-shot-2.jpg" width="32%" alt="Fable 5.2 FPS Repro gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/d8d899e9-44c7-4adc-acf7-ae85e5b70842-fable-5-2-fps-repro-shot-3.jpg" width="32%" alt="Fable 5.2 FPS Repro gameplay screenshot"></p>
+
+- **Made by:** wquguru ([@wquguru](https://x.com/wquguru))
+- **Model:** Claude Fable 5.2
+- **Fable 5.2 FPS Repro game URL:** https://wquguru.github.io/fable52-fps-repro/
+- **Original post:** https://x.com/wquguru/status/2120383332722905400 (158 likes, checked November 21, 2026)
+- **Tags:** 3D, Shooter
+- **Fable 5.2 FPS Repro on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/fable-5-2-fps-repro](https://vibegamer.io/game/fable-5-2-fps-repro?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.1/10 for visuals and polish.</sub>
+
+### Banana Mine Rush
+<a id="banana-mine-rush"></a>
+
+<a href="https://vibegamer.io/game/banana-mine-rush?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/banana-mine-rush.jpg" alt="Banana Mine Rush: cover art" width="100%"></a>
+
+A 3D kart racer on Remix: plays instantly in the browser with no account, with multiplayer and leaderboards
+
+<p><img src="https://cdn.vibegamer.io/submissions/e8091645-83c9-4260-a7c4-210667d77e06-banana-mine-rush-shot-1.jpg" width="32%" alt="Banana Mine Rush gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8e3b99bb-eda3-4ffc-8cbf-da044723308a-banana-mine-rush-shot-2.jpg" width="32%" alt="Banana Mine Rush gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/58d72e21-5de9-42cb-9969-143d932a111a-banana-mine-rush-shot-3.jpg" width="32%" alt="Banana Mine Rush gameplay screenshot"></p>
+
+- **Made by:** 0xChuckstock ([@0xChuckstock](https://x.com/0xChuckstock))
+- **Model:** Claude Fable 5.2
+- **Banana Mine Rush game URL:** https://remix.gg/g/banana-mine-rush
+- **Original post:** https://x.com/0xChuckstock/status/2120125184606658728 (154 likes, checked November 21, 2026)
+- **Tags:** 3D, Racing, Runner
+- **Banana Mine Rush on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/banana-mine-rush](https://vibegamer.io/game/banana-mine-rush?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.1/10 for visuals and polish.</sub>
+
+### Lumina Zombies
+<a id="lumina-zombies"></a>
+
+<a href="https://vibegamer.io/game/lumina-zombies?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/lumina-zombies.jpg" alt="Lumina Zombies: cover art" width="100%"></a>
+
+A brand-new map with easter eggs in a few prompts, plus upgrades that halved hardware demand and latency on the other two maps
+
+<p><img src="https://cdn.vibegamer.io/submissions/01ec143e-49de-484c-9e07-3fb3f7f0366e-lumina-zombies-shot-1.jpg" width="32%" alt="Lumina Zombies gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/a40d1abb-9e09-44f9-80e2-803b355f725c-lumina-zombies-shot-2.jpg" width="32%" alt="Lumina Zombies gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/4cfef49d-9770-4fbc-b9ab-307bfeb5daf6-lumina-zombies-shot-3.jpg" width="32%" alt="Lumina Zombies gameplay screenshot"></p>
+
+- **Made by:** LuminaBench ([@LuminaBench](https://x.com/LuminaBench))
+- **Model:** Claude Fable 5.2
+- **Lumina Zombies game URL:** https://luminazombies.com/
+- **Original post:** https://x.com/LuminaBench/status/2120660076927099048 (123 likes, checked November 21, 2026)
+- **Tags:** 3D, Shooter
+- **Lumina Zombies on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/lumina-zombies](https://vibegamer.io/game/lumina-zombies?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.1/10 for visuals and polish.</sub>
 
 ### Danfo Run
 <a id="danfo-run"></a>
@@ -681,6 +1172,24 @@ Ok let's add multiplayer the simplest way
 
 <sub>Our score: 8/10 for visuals and polish.</sub>
 
+### Thunder Valley dino chase
+<a id="thunder-valley-dino-chase"></a>
+
+<a href="https://vibegamer.io/game/thunder-valley-dino-chase?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/thunder-valley-dino-chase.jpg" alt="Thunder Valley dino chase: cover art" width="100%"></a>
+
+Vanilla JS with its own WebGL renderer; dinos, trees and terrain are stacked 2D pixel slices
+
+<p><img src="https://cdn.vibegamer.io/submissions/4111365f-87d9-4ead-865f-04891571035f-thunder-valley-dino-chase-shot-1.jpg" width="32%" alt="Thunder Valley dino chase gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/9897ff8e-c05a-416b-ba70-88745068d15c-thunder-valley-dino-chase-shot-2.jpg" width="32%" alt="Thunder Valley dino chase gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/c61866b6-adf8-46db-bdfc-51f440ea5168-thunder-valley-dino-chase-shot-3.jpg" width="32%" alt="Thunder Valley dino chase gameplay screenshot"></p>
+
+- **Made by:** loktar00 ([@loktar00](https://x.com/loktar00))
+- **Model:** Claude Fable 5.2
+- **Thunder Valley dino chase game URL:** https://loktar00.github.io/llm-test-pages/fable52-dino-chase/
+- **Original post:** https://x.com/loktar00/status/2120905457380507991 (99 likes, checked November 21, 2026)
+- **Tags:** 2D
+- **Thunder Valley dino chase on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/thunder-valley-dino-chase](https://vibegamer.io/game/thunder-valley-dino-chase?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.0/10 for visuals and polish.</sub>
+
 ### Party Royale
 <a id="party-royale"></a>
 
@@ -698,6 +1207,24 @@ A Fall Guys-style party royale with dozens of jelly-bean players, fake doors and
 - **Party Royale on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/party-royale](https://vibegamer.io/game/party-royale?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8/10 for visuals and polish.</sub>
+
+### Feed the Backrooms
+<a id="feed-the-backrooms"></a>
+
+<a href="https://vibegamer.io/game/feed-the-backrooms?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/feed-the-backrooms.jpg" alt="Feed the Backrooms: cover art" width="100%"></a>
+
+The Backrooms, reversed: you are the monster and your job is to catch people
+
+<p><img src="https://cdn.vibegamer.io/submissions/5e9110d0-9dc3-4a23-afd8-e022a800569b-feed-the-backrooms-shot-1.jpg" width="32%" alt="Feed the Backrooms gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/fef0d8a3-dcb0-438c-bdef-455eafaaf5e3-feed-the-backrooms-shot-2.jpg" width="32%" alt="Feed the Backrooms gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/77678c69-a94b-47a4-9e18-0353f68482b8-feed-the-backrooms-shot-3.jpg" width="32%" alt="Feed the Backrooms gameplay screenshot"></p>
+
+- **Made by:** LexnLin ([@LexnLin](https://x.com/LexnLin))
+- **Model:** Claude Fable 5.2
+- **Feed the Backrooms game URL:** https://feed-backrooms.vercel.app
+- **Original post:** https://x.com/LexnLin/status/2119966127149429093 (96 likes, checked November 21, 2026)
+- **Tags:** 3D, Horror
+- **Feed the Backrooms on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/feed-the-backrooms](https://vibegamer.io/game/feed-the-backrooms?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.0/10 for visuals and polish.</sub>
 
 ### Fablecraft
 <a id="fablecraft"></a>
@@ -912,6 +1439,78 @@ Google's launch demo for Gemini 4 Hydrogen: a shared voxel island where one prom
 
 <sub>Our score: 8/10 for visuals and polish.</sub>
 
+### KUMOKIRI
+<a id="kumokiri"></a>
+
+<a href="https://vibegamer.io/game/kumokiri?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/kumokiri.jpg" alt="KUMOKIRI: cover art" width="100%"></a>
+
+A painterly samurai game made with Fable 5.2, Crayon and three.js
+
+<p><img src="https://cdn.vibegamer.io/submissions/c96ed2be-39c9-4d98-b924-fb995cc63500-kumokiri-shot-1.jpg" width="32%" alt="KUMOKIRI gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/a5cf09e7-a1cf-4fc5-b94e-c8f734faac45-kumokiri-shot-2.jpg" width="32%" alt="KUMOKIRI gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/5cb59e7d-be25-4383-98db-36b634255320-kumokiri-shot-3.jpg" width="32%" alt="KUMOKIRI gameplay screenshot"></p>
+
+- **Made by:** aniketjart ([@aniketjart](https://x.com/aniketjart))
+- **Model:** Claude Fable 5.2
+- **KUMOKIRI game URL:** https://app.usecrayon.ai/play/0cd7624e-1297-417e-a5be-b3c3036a496a
+- **Original post:** https://x.com/aniketjart/status/2121101334900617631 (73 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **KUMOKIRI on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/kumokiri](https://vibegamer.io/game/kumokiri?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.9/10 for visuals and polish.</sub>
+
+### Pogo Riot
+<a id="pogo-riot"></a>
+
+<a href="https://vibegamer.io/game/pogo-riot?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/pogo-riot.jpg" alt="Pogo Riot: cover art" width="100%"></a>
+
+A free-for-all FPS where you bounce on a pogo stick and aim at the same time
+
+<p><img src="https://cdn.vibegamer.io/submissions/02a61507-812c-43c2-9c8d-3f2e14e70fd3-pogo-riot-shot-1.jpg" width="32%" alt="Pogo Riot gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/a73c861d-2839-44bd-8cfc-9d830eae81ec-pogo-riot-shot-2.jpg" width="32%" alt="Pogo Riot gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/74b51c78-f0e1-4998-9d6c-5f34469076bc-pogo-riot-shot-3.jpg" width="32%" alt="Pogo Riot gameplay screenshot"></p>
+
+- **Made by:** Pumpnasterr ([@Pumpnasterr](https://x.com/Pumpnasterr))
+- **Model:** Claude Fable 5.2
+- **Pogo Riot game URL:** https://www.spawn.co/@abbidabbi/pogo-riot
+- **Original post:** https://x.com/Pumpnasterr/status/2121343507885682917 (63 likes, checked November 21, 2026)
+- **Tags:** 3D, Shooter
+- **Pogo Riot on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/pogo-riot](https://vibegamer.io/game/pogo-riot?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.9/10 for visuals and polish.</sub>
+
+### Ringfall
+<a id="ringfall"></a>
+
+<a href="https://vibegamer.io/game/ringfall?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/ringfall.jpg" alt="Ringfall: cover art" width="100%"></a>
+
+A Destiny-inspired FPS
+
+<p><img src="https://cdn.vibegamer.io/submissions/56bb2bff-cfcf-4737-bf14-28b5c515764f-ringfall-shot-1.jpg" width="32%" alt="Ringfall gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/81058ac3-969e-46ea-b6fb-e610d45ab9ef-ringfall-shot-2.jpg" width="32%" alt="Ringfall gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8413c355-d1df-49f6-a162-2b7f3f6ad6a8-ringfall-shot-3.jpg" width="32%" alt="Ringfall gameplay screenshot"></p>
+
+- **Made by:** rehan_shei ([@rehan_shei](https://x.com/rehan_shei))
+- **Model:** Claude Fable 5.2
+- **Ringfall game URL:** https://patch.gg/games/rehan/ringfall
+- **Original post:** https://x.com/rehan_shei/status/2119994607291584962 (63 likes, checked November 21, 2026)
+- **Tags:** 3D, Shooter
+- **Ringfall on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/ringfall](https://vibegamer.io/game/ringfall?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.9/10 for visuals and polish.</sub>
+
+### Save the World
+<a id="save-the-world"></a>
+
+<a href="https://vibegamer.io/game/save-the-world?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/save-the-world.jpg" alt="Save the World: cover art" width="100%"></a>
+
+It built the street, found the 3D models and sounds, and played the game itself to record the trailer
+
+<p><img src="https://cdn.vibegamer.io/submissions/87a8a342-c532-4dd0-ab95-8a6e6cb3ea46-save-the-world-shot-1.jpg" width="32%" alt="Save the World gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/c4592419-7564-467b-bb08-60ed3577ebed-save-the-world-shot-2.jpg" width="32%" alt="Save the World gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/b0184bf5-b13e-4e88-8230-fc47d3058509-save-the-world-shot-3.jpg" width="32%" alt="Save the World gameplay screenshot"></p>
+
+- **Made by:** global_techgirl ([@global_techgirl](https://x.com/global_techgirl))
+- **Model:** Claude Fable 5.2
+- **Save the World game URL:** https://save-the-world-fable.vercel.app/
+- **Original post:** https://x.com/global_techgirl/status/2120246750459961453 (63 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Save the World on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/save-the-world](https://vibegamer.io/game/save-the-world?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.9/10 for visuals and polish.</sub>
+
 ### PaletteRider
 <a id="paletterider"></a>
 
@@ -929,6 +1528,150 @@ Ride a bicycle inside famous paintings, from Paul Klee's Castle and Sun to Van G
 - **PaletteRider on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/paletterider](https://vibegamer.io/game/paletterider?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 7.9/10 for visuals and polish.</sub>
+
+### Kestrel Head — Solstice racing
+<a id="kestrel-head-solstice-racing"></a>
+
+<a href="https://vibegamer.io/game/kestrel-head-solstice-racing?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/kestrel-head-solstice-racing.jpg" alt="Kestrel Head — Solstice racing: cover art" width="100%"></a>
+
+Built on the author's own Rust + WebGPU engine: a Porsche 992 GT3 R modeled in Blender and a 3 km island circuit
+
+<p><img src="https://cdn.vibegamer.io/submissions/badd4513-2aee-403e-b985-11a961e25bd6-kestrel-head-solstice-racing-shot-1.jpg" width="32%" alt="Kestrel Head — Solstice racing gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/322a467d-114f-4536-9ade-491ceb959f3d-kestrel-head-solstice-racing-shot-2.jpg" width="32%" alt="Kestrel Head — Solstice racing gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/e48409e6-5199-43c6-955a-f9039b96921e-kestrel-head-solstice-racing-shot-3.jpg" width="32%" alt="Kestrel Head — Solstice racing gameplay screenshot"></p>
+
+- **Made by:** SamGCoder ([@SamGCoder](https://x.com/SamGCoder))
+- **Model:** Claude Fable 5.2
+- **Kestrel Head — Solstice racing game URL:** https://samg-coder.github.io/solstice-racing/
+- **Original post:** https://x.com/SamGCoder/status/2120044542087070066 (56 likes, checked November 21, 2026)
+- **Tags:** 3D, Racing
+- **Kestrel Head — Solstice racing on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/kestrel-head-solstice-racing](https://vibegamer.io/game/kestrel-head-solstice-racing?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
+
+### HITOFUDE
+<a id="hitofude"></a>
+
+<a href="https://vibegamer.io/game/hitofude?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/hitofude.jpg" alt="HITOFUDE: cover art" width="100%"></a>
+
+Every frame brushed in code as sumi ink on paper
+
+<p><img src="https://cdn.vibegamer.io/submissions/08125f49-eae8-41ef-8bc3-a5f752c9c799-hitofude-shot-1.jpg" width="32%" alt="HITOFUDE gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/7fcec6d7-c12e-4235-b021-35f75384ccb9-hitofude-shot-2.jpg" width="32%" alt="HITOFUDE gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/655721b8-73c0-4a7e-9383-4c724e7f356c-hitofude-shot-3.jpg" width="32%" alt="HITOFUDE gameplay screenshot"></p>
+
+- **Made by:** positronx_ ([@positronx_](https://x.com/positronx_))
+- **Model:** Claude Fable 5.2
+- **HITOFUDE game URL:** https://shubhu121.github.io/hitdude/play/
+- **Original post:** https://x.com/positronx_/status/2120374208043876422 (52 likes, checked November 21, 2026)
+- **Tags:** 3D, Runner
+- **HITOFUDE on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/hitofude](https://vibegamer.io/game/hitofude?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
+
+### Midnight Pass
+<a id="midnight-pass"></a>
+
+<a href="https://vibegamer.io/game/midnight-pass?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/midnight-pass.jpg" alt="Midnight Pass: cover art" width="100%"></a>
+
+One HTML file, 603 lines, zero assets: real drift physics, a generated mountain, synthesized engine and tyres
+
+<p><img src="https://cdn.vibegamer.io/submissions/ee70afd6-2cea-4e86-b1bb-78e0b91e5557-midnight-pass-shot-1.jpg" width="32%" alt="Midnight Pass gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/f24f40a0-e9f0-4f04-a682-6f13666a42df-midnight-pass-shot-2.jpg" width="32%" alt="Midnight Pass gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8a6f0f57-8933-4b38-8704-41dbd6062738-midnight-pass-shot-3.jpg" width="32%" alt="Midnight Pass gameplay screenshot"></p>
+
+- **Made by:** andreysuperior ([@andreysuperior](https://x.com/andreysuperior))
+- **Model:** Claude Fable 5.2
+- **Midnight Pass game URL:** https://claude.ai/artifact/UD9pGEN4QFA8F5EadRw8eL
+- **Original post:** https://x.com/andreysuperior/status/2120666660130746458 (49 likes, checked November 21, 2026)
+- **Tags:** 3D, Physics
+- **Midnight Pass on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/midnight-pass](https://vibegamer.io/game/midnight-pass?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
+
+### VOWLORN
+<a id="vowlorn"></a>
+
+<a href="https://vibegamer.io/game/vowlorn?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/vowlorn.jpg" alt="VOWLORN: cover art" width="100%"></a>
+
+A dark RPG where even the voices are code, deployed through Higgsfield MCP
+
+<p><img src="https://cdn.vibegamer.io/submissions/a60b3024-3eb8-463a-b5c6-b7d88aa28d89-vowlorn-shot-1.jpg" width="32%" alt="VOWLORN gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/89d4c220-9523-4ca8-a292-f677e877b73c-vowlorn-shot-2.jpg" width="32%" alt="VOWLORN gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/431a5dd3-c72c-4e00-9eb3-9378d5598f95-vowlorn-shot-3.jpg" width="32%" alt="VOWLORN gameplay screenshot"></p>
+
+- **Made by:** higgsfield_ai ([@higgsfield_ai](https://x.com/higgsfield_ai))
+- **Model:** Claude Fable 5.2
+- **VOWLORN game URL:** https://higgsfield.ai/@higgsfield.studio/blogs/fable-5-2-built-this-rpg-from-pure-code-here-s-every-step
+- **Original post:** https://x.com/higgsfield_ai/status/2119997122896601269 (48 likes, checked November 21, 2026)
+- **Tags:** 3D, Adventure
+- **VOWLORN on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/vowlorn](https://vibegamer.io/game/vowlorn?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
+
+### Chairmageddon
+<a id="chairmageddon"></a>
+
+<a href="https://vibegamer.io/game/chairmageddon?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/chairmageddon.jpg" alt="Chairmageddon: cover art" width="100%"></a>
+
+Destroy a peaceful town of blue chairs
+
+<p><img src="https://cdn.vibegamer.io/submissions/8d442454-4070-470f-8337-9b1369ff5dbe-chairmageddon-shot-1.jpg" width="32%" alt="Chairmageddon gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/38772813-6a38-487a-a30c-9707d96a0468-chairmageddon-shot-2.jpg" width="32%" alt="Chairmageddon gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/f420ef06-279d-4d00-994f-86a13c11648e-chairmageddon-shot-3.jpg" width="32%" alt="Chairmageddon gameplay screenshot"></p>
+
+- **Made by:** argofowl ([@argofowl](https://x.com/argofowl))
+- **Model:** Claude Fable 5.2
+- **Chairmageddon game URL:** https://fowllabs.com/fable-5-2/chairmageddon/
+- **Original post:** https://x.com/argofowl/status/2120568779537273263 (48 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Chairmageddon on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/chairmageddon](https://vibegamer.io/game/chairmageddon?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
+
+### Stray Cat
+<a id="stray-cat"></a>
+
+<a href="https://vibegamer.io/game/stray-cat?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/stray-cat.jpg" alt="Stray Cat: cover art" width="100%"></a>
+
+Rescue kittens, hiss at dogs, yowl at an old tomcat
+
+<p><img src="https://cdn.vibegamer.io/submissions/e556ff52-368a-4e5b-bc8e-f634db08c89c-stray-cat-shot-1.jpg" width="32%" alt="Stray Cat gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/9e360abd-e9a2-45c1-bddf-92cb1ff02748-stray-cat-shot-2.jpg" width="32%" alt="Stray Cat gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/ea863ad8-d4f6-4c07-9d8e-adbf0c80ecb7-stray-cat-shot-3.jpg" width="32%" alt="Stray Cat gameplay screenshot"></p>
+
+- **Made by:** aimikoda ([@aimikoda](https://x.com/aimikoda))
+- **Model:** Claude Fable 5.2
+- **Stray Cat game URL:** https://claude.ai/artifact/4nPXUKJjQWNsZEHVNmXXCt
+- **Original post:** https://x.com/aimikoda/status/2120120133712593118 (44 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Stray Cat on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/stray-cat](https://vibegamer.io/game/stray-cat?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
+
+### Farewell Light
+<a id="farewell-light"></a>
+
+<a href="https://vibegamer.io/game/farewell-light?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/farewell-light.jpg" alt="Farewell Light: cover art" width="100%"></a>
+
+A gameplay demo made overnight
+
+<p><img src="https://cdn.vibegamer.io/submissions/6e91389a-9e60-4fa5-8962-302630c5460c-farewell-light-shot-1.jpg" width="32%" alt="Farewell Light gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/201a7f5e-56d0-4520-8c17-b6af6641bc3e-farewell-light-shot-2.jpg" width="32%" alt="Farewell Light gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/7aef9699-a597-47e4-a65a-834b1ba12820-farewell-light-shot-3.jpg" width="32%" alt="Farewell Light gameplay screenshot"></p>
+
+- **Made by:** RyanSael ([@RyanSael](https://x.com/RyanSael))
+- **Model:** Claude Fable 5.2
+- **Farewell Light game URL:** https://sael.net/demo/farewell-light/
+- **Original post:** https://x.com/RyanSael/status/2120695866684231998 (44 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Farewell Light on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/farewell-light](https://vibegamer.io/game/farewell-light?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
+
+### Knock It Off
+<a id="knock-it-off"></a>
+
+<a href="https://vibegamer.io/game/knock-it-off?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/knock-it-off.jpg" alt="Knock It Off: cover art" width="100%"></a>
+
+You're a cat at 3am, swatting everything off the desk without waking the human
+
+<p><img src="https://cdn.vibegamer.io/submissions/4a3b6d6e-a174-40ec-9f72-dda277a7271a-knock-it-off-shot-1.jpg" width="32%" alt="Knock It Off gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/0dd1b7f5-279b-45a2-bfee-596de87707c7-knock-it-off-shot-2.jpg" width="32%" alt="Knock It Off gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/d4e0f335-730e-4314-bd5d-94f8213e5f5e-knock-it-off-shot-3.jpg" width="32%" alt="Knock It Off gameplay screenshot"></p>
+
+- **Made by:** argofowl ([@argofowl](https://x.com/argofowl))
+- **Model:** Claude Fable 5.2
+- **Knock It Off game URL:** https://fowllabs.com/fable-5-2/knock-it-off/
+- **Original post:** https://x.com/argofowl/status/2121276206683410839 (43 likes, checked November 21, 2026)
+- **Tags:** 3D, Physics
+- **Knock It Off on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/knock-it-off](https://vibegamer.io/game/knock-it-off?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.8/10 for visuals and polish.</sub>
 
 ### Handful: Island God Game
 <a id="handful-island-god-game"></a>
@@ -984,6 +1727,186 @@ A third-person squad shooter against waves of giant alien spiders: clear the bre
 
 <sub>Our score: 7.8/10 for visuals and polish.</sub>
 
+### Survivors
+<a id="survivors"></a>
+
+<a href="https://vibegamer.io/game/survivors?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/survivors.jpg" alt="Survivors: cover art" width="100%"></a>
+
+Vampire Survivors with WoW-style leveling and loot
+
+<p><img src="https://cdn.vibegamer.io/submissions/62c831ca-1c65-41af-b908-1382ecd2e570-survivors-shot-1.jpg" width="32%" alt="Survivors gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/3038629e-c697-4e6e-8eda-6820fe3ff503-survivors-shot-2.jpg" width="32%" alt="Survivors gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/fc996882-3e3d-4194-985e-5a293ea8aa0e-survivors-shot-3.jpg" width="32%" alt="Survivors gameplay screenshot"></p>
+
+- **Made by:** BLACKST0CK ([@BLACKST0CK](https://x.com/BLACKST0CK))
+- **Model:** Claude Fable 5.2
+- **Survivors game URL:** https://remix.gg/g/survivors
+- **Original post:** https://x.com/BLACKST0CK/status/2120329788896498123 (40 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Survivors on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/survivors](https://vibegamer.io/game/survivors?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.7/10 for visuals and polish.</sub>
+
+### Thermal
+<a id="thermal"></a>
+
+<a href="https://vibegamer.io/game/thermal?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/thermal.jpg" alt="Thermal: cover art" width="100%"></a>
+
+A little hang glider game: ride the thermals and reach the target
+
+<p><img src="https://cdn.vibegamer.io/submissions/67a19c3e-1be6-47e6-b63a-5752dbda9a9d-thermal-shot-1.jpg" width="32%" alt="Thermal gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/065f6b23-7c26-4373-b2b3-4d7044de3781-thermal-shot-2.jpg" width="32%" alt="Thermal gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/6c581f2d-6453-4f95-b502-5b10065e0c35-thermal-shot-3.jpg" width="32%" alt="Thermal gameplay screenshot"></p>
+
+- **Made by:** loktar00 ([@loktar00](https://x.com/loktar00))
+- **Model:** Claude Fable 5.2
+- **Thermal game URL:** https://loktar00.github.io/llm-test-pages/fable52-hang-glider/
+- **Original post:** https://x.com/loktar00/status/2121005021131083851 (40 likes, checked November 21, 2026)
+- **Tags:** 3D, Flight
+- **Thermal on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/thermal](https://vibegamer.io/game/thermal?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.7/10 for visuals and polish.</sub>
+
+### Harbor Lights Grand Prix
+<a id="harbor-lights-grand-prix"></a>
+
+<a href="https://vibegamer.io/game/harbor-lights-grand-prix?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/harbor-lights-grand-prix.jpg" alt="Harbor Lights Grand Prix: cover art" width="100%"></a>
+
+One HTML file: 20 pixel cars on a 22-corner street circuit, with a betting window before each race (play money)
+
+<p><img src="https://cdn.vibegamer.io/submissions/88b1a500-de19-4617-932a-e59220ffdc3c-harbor-lights-grand-prix-shot-1.jpg" width="32%" alt="Harbor Lights Grand Prix gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/238ad7d6-7461-4959-b064-91ab4f88d651-harbor-lights-grand-prix-shot-2.jpg" width="32%" alt="Harbor Lights Grand Prix gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/f1acf265-5cbe-4d11-a805-997f0ed8bf52-harbor-lights-grand-prix-shot-3.jpg" width="32%" alt="Harbor Lights Grand Prix gameplay screenshot"></p>
+
+- **Made by:** Tetriss112 ([@Tetriss112](https://x.com/Tetriss112))
+- **Model:** Claude Fable 5.2
+- **Harbor Lights Grand Prix game URL:** https://tetriss22.github.io/harbor-gp/
+- **Original post:** https://x.com/Tetriss112/status/2120946576663134308 (34 likes, checked November 21, 2026)
+- **Tags:** Racing, 2D
+- **Harbor Lights Grand Prix on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/harbor-lights-grand-prix](https://vibegamer.io/game/harbor-lights-grand-prix?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.7/10 for visuals and polish.</sub>
+
+### Fighting game (plays on phones)
+<a id="fighting-game-plays-on-phones"></a>
+
+<a href="https://vibegamer.io/game/fighting-game-plays-on-phones?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/fighting-game-plays-on-phones.jpg" alt="Fighting game (plays on phones): cover art" width="100%"></a>
+
+A fighting game iterated overnight, playable in a mobile browser
+
+<p><img src="https://cdn.vibegamer.io/submissions/4a358876-da17-481d-8618-3a1cd70ce9ea-fighting-game-plays-on-phones-shot-1.jpg" width="32%" alt="Fighting game (plays on phones) gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/20ad147f-677d-480b-9b6f-ee41fc15cfae-fighting-game-plays-on-phones-shot-2.jpg" width="32%" alt="Fighting game (plays on phones) gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/7b24119c-5b9e-46b0-877f-b057f2f3fcbe-fighting-game-plays-on-phones-shot-3.jpg" width="32%" alt="Fighting game (plays on phones) gameplay screenshot"></p>
+
+- **Made by:** s_shigel ([@s_shigel](https://x.com/s_shigel))
+- **Model:** Claude Fable 5.2
+- **Fighting game (plays on phones) game URL:** https://claude.ai/artifact/QvSjL7Hexf3nKdUP9Zerr7
+- **Original post:** https://x.com/s_shigel/status/2120300080569975034 (32 likes, checked November 21, 2026)
+- **Tags:** 3D, Combat
+- **Fighting game (plays on phones) on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/fighting-game-plays-on-phones](https://vibegamer.io/game/fighting-game-plays-on-phones?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.7/10 for visuals and polish.</sub>
+
+### Tilt Labyrinth
+<a id="tilt-labyrinth"></a>
+
+<a href="https://vibegamer.io/game/tilt-labyrinth?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/tilt-labyrinth.jpg" alt="Tilt Labyrinth: cover art" width="100%"></a>
+
+A wooden ball maze in 2,000 lines of three.js
+
+<p><img src="https://cdn.vibegamer.io/submissions/97df2e5a-19c4-4a90-86c9-c791a7ddc1ff-tilt-labyrinth-shot-1.jpg" width="32%" alt="Tilt Labyrinth gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/e0a32553-4b9b-4301-a727-e94ae85bcfdc-tilt-labyrinth-shot-2.jpg" width="32%" alt="Tilt Labyrinth gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/32c442fd-3989-4cff-b55e-00deb94b8173-tilt-labyrinth-shot-3.jpg" width="32%" alt="Tilt Labyrinth gameplay screenshot"></p>
+
+- **Made by:** mylifcc ([@mylifcc](https://x.com/mylifcc))
+- **Model:** Claude Fable 5.2
+- **Tilt Labyrinth game URL:** https://blog.silencestar.com/posts/tilt-labyrinth/play/
+- **Original post:** https://x.com/mylifcc/status/2120054646282870910 (32 likes, checked November 21, 2026)
+- **Tags:** 3D, Puzzle
+- **Tilt Labyrinth on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/tilt-labyrinth](https://vibegamer.io/game/tilt-labyrinth?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.7/10 for visuals and polish.</sub>
+
+### Aussie Outback 4x4
+<a id="aussie-outback-4x4"></a>
+
+<a href="https://vibegamer.io/game/aussie-outback-4x4?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/aussie-outback-4x4.jpg" alt="Aussie Outback 4x4: cover art" width="100%"></a>
+
+Off-roading in the Australian bush on the author's own Rust + WebGPU engine: mud, creek crossings, rock crawling, diff locks, tyre pressure and dynamic weather
+
+<p><img src="https://cdn.vibegamer.io/submissions/ecdd8b8f-9ba5-47fe-bf25-5668d46b4dfa-aussie-outback-4x4-shot-1.jpg" width="32%" alt="Aussie Outback 4x4 gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/3c9942df-6008-43fc-9ee1-9734d1829f43-aussie-outback-4x4-shot-2.jpg" width="32%" alt="Aussie Outback 4x4 gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/cc040c17-f83a-4533-8551-a818bc83b392-aussie-outback-4x4-shot-3.jpg" width="32%" alt="Aussie Outback 4x4 gameplay screenshot"></p>
+
+- **Made by:** SamGCoder ([@SamGCoder](https://x.com/SamGCoder))
+- **Model:** Claude Fable 5.2
+- **Aussie Outback 4x4 game URL:** https://rust4x4.com/
+- **Original post:** https://x.com/SamGCoder/status/2121513178303811931 (31 likes, checked November 21, 2026)
+- **Tags:** 3D, Racing
+- **Aussie Outback 4x4 on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/aussie-outback-4x4](https://vibegamer.io/game/aussie-outback-4x4?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.7/10 for visuals and polish.</sub>
+
+### Midnight Grid
+<a id="midnight-grid"></a>
+
+<a href="https://vibegamer.io/game/midnight-grid?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/midnight-grid.jpg" alt="Midnight Grid: cover art" width="100%"></a>
+
+An open-world driving game from one prompt: race through the city, crash into traffic and get chased by the cops
+
+<p><img src="https://cdn.vibegamer.io/submissions/b75692bd-79a0-4889-98a9-a211ad9c0e19-midnight-grid-shot-1.jpg" width="32%" alt="Midnight Grid gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/9346a862-68a3-4831-9a55-735f20f17f51-midnight-grid-shot-2.jpg" width="32%" alt="Midnight Grid gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/1ec1568a-0038-4e67-9c99-d6bdafbc8be0-midnight-grid-shot-3.jpg" width="32%" alt="Midnight Grid gameplay screenshot"></p>
+
+- **Made by:** mikenevermiss ([@mikenevermiss](https://x.com/mikenevermiss))
+- **Model:** Claude Fable 5.2
+- **Midnight Grid game URL:** https://mikenevermiss.github.io/midnight-grid/
+- **Original post:** https://x.com/mikenevermiss/status/2121900977959612500 (28 likes, checked November 21, 2026)
+- **Tags:** 3D, Racing, Open world, Strategy
+- **Midnight Grid on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/midnight-grid](https://vibegamer.io/game/midnight-grid?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.6/10 for visuals and polish.</sub>
+
+### The Vast Horizon
+<a id="the-vast-horizon"></a>
+
+<a href="https://vibegamer.io/game/the-vast-horizon?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/the-vast-horizon.jpg" alt="The Vast Horizon: cover art" width="100%"></a>
+
+A multiplayer surf game on a shared lake; type a word and the world changes
+
+<p><img src="https://cdn.vibegamer.io/submissions/892d3053-1d71-407e-89af-2335337e051c-the-vast-horizon-shot-1.jpg" width="32%" alt="The Vast Horizon gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/970fc784-9b00-4e18-9e3c-219ac8ba21da-the-vast-horizon-shot-2.jpg" width="32%" alt="The Vast Horizon gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/71f446a1-8fb7-4343-b65a-c681b3e33528-the-vast-horizon-shot-3.jpg" width="32%" alt="The Vast Horizon gameplay screenshot"></p>
+
+- **Made by:** OdinLovis ([@OdinLovis](https://x.com/OdinLovis))
+- **Model:** Claude Fable 5.2
+- **The Vast Horizon game URL:** https://the-vast-horizon.vercel.app
+- **Original post:** https://x.com/OdinLovis/status/2120198469755503091 (27 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **The Vast Horizon on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/the-vast-horizon](https://vibegamer.io/game/the-vast-horizon?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.6/10 for visuals and polish.</sub>
+
+### Open-world kart adventure
+<a id="open-world-kart-adventure"></a>
+
+<a href="https://vibegamer.io/game/open-world-kart-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/open-world-kart-adventure.jpg" alt="Open-world kart adventure: cover art" width="100%"></a>
+
+One-shot in three hours; the main quest takes about half an hour
+
+<p><img src="https://cdn.vibegamer.io/submissions/383d70bc-4568-4ed7-86d5-2555c7c5993e-open-world-kart-adventure-shot-1.jpg" width="32%" alt="Open-world kart adventure gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/23ae7fd4-76d8-4d0f-9058-2571679aea94-open-world-kart-adventure-shot-2.jpg" width="32%" alt="Open-world kart adventure gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/3da2ace9-1a2e-4898-951a-363e5f71c837-open-world-kart-adventure-shot-3.jpg" width="32%" alt="Open-world kart adventure gameplay screenshot"></p>
+
+- **Made by:** realWeZZard ([@realWeZZard](https://x.com/realWeZZard))
+- **Model:** Claude Fable 5.2
+- **Open-world kart adventure game URL:** https://claude.ai/artifact/FpdQ81sJs1KiV1a6JCY4jj
+- **Original post:** https://x.com/realWeZZard/status/2120379500492185939 (24 likes, checked November 21, 2026)
+- **Tags:** 3D, Racing, Adventure, Open world
+- **Open-world kart adventure on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/open-world-kart-adventure](https://vibegamer.io/game/open-world-kart-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.6/10 for visuals and polish.</sub>
+
+### Giant Leap
+<a id="giant-leap"></a>
+
+<a href="https://vibegamer.io/game/giant-leap?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/giant-leap.jpg" alt="Giant Leap: cover art" width="100%"></a>
+
+Jump from the Moon to the Earth
+
+<p><img src="https://cdn.vibegamer.io/submissions/8367bb1f-1fe0-44cf-813d-c96373de6415-giant-leap-shot-1.jpg" width="32%" alt="Giant Leap gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/4bdb2c8d-daf5-4e06-b019-acb458f82719-giant-leap-shot-2.jpg" width="32%" alt="Giant Leap gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8cfc5208-5131-406b-84de-82a35aca79e6-giant-leap-shot-3.jpg" width="32%" alt="Giant Leap gameplay screenshot"></p>
+
+- **Made by:** handsher_NGU ([@handsher_NGU](https://x.com/handsher_NGU))
+- **Model:** Claude Fable 5.2
+- **Giant Leap game URL:** https://giant-leap.vercel.app
+- **Original post:** https://x.com/handsher_NGU/status/2120287667141374212 (22 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Giant Leap on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/giant-leap](https://vibegamer.io/game/giant-leap?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.6/10 for visuals and polish.</sub>
+
 ### Patchwork Quilt
 <a id="patchwork-quilt"></a>
 
@@ -1017,6 +1940,42 @@ A cute one-level 3D platformer from one prompt to Gemini 4 Hydrogen: guide Pip t
 - **Original post:** https://x.com/SahilPanhotra/status/2119102771173769262 (60 likes, checked November 13, 2026)
 - **Tags:** Platformer, 3D, Cosy
 - **Skyseed: Pip's Tempest Run on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/skyseed-pips-tempest-run](https://vibegamer.io/game/skyseed-pips-tempest-run?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.5/10 for visuals and polish.</sub>
+
+### Cozy Bakery
+<a id="cozy-bakery"></a>
+
+<a href="https://vibegamer.io/game/cozy-bakery?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/cozy-bakery.jpg" alt="Cozy Bakery: cover art" width="100%"></a>
+
+An Overcooked-style co-op cooking game around Portugal, 1 to 4 players, works on mobile
+
+<p><img src="https://cdn.vibegamer.io/submissions/b1b5fa9a-0920-464d-a408-e0b6b03455c2-cozy-bakery-shot-1.jpg" width="32%" alt="Cozy Bakery gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/2cb9f22b-6491-4b82-83c1-a67f576d618f-cozy-bakery-shot-2.jpg" width="32%" alt="Cozy Bakery gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/4da9a118-2455-4c8e-9940-24bd8ebe6436-cozy-bakery-shot-3.jpg" width="32%" alt="Cozy Bakery gameplay screenshot"></p>
+
+- **Made by:** goncalo_canhoto ([@goncalo_canhoto](https://x.com/goncalo_canhoto))
+- **Model:** Claude Fable 5.2
+- **Cozy Bakery game URL:** https://cozybakery.vercel.app
+- **Original post:** https://x.com/goncalo_canhoto/status/2120530199649432063 (19 likes, checked November 21, 2026)
+- **Tags:** 3D, Cosy
+- **Cozy Bakery on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/cozy-bakery](https://vibegamer.io/game/cozy-bakery?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.5/10 for visuals and polish.</sub>
+
+### Ink Flight
+<a id="ink-flight"></a>
+
+<a href="https://vibegamer.io/game/ink-flight?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/ink-flight.jpg" alt="Ink Flight: cover art" width="100%"></a>
+
+Fly a folded paper plane through a world drawn entirely in code
+
+<p><img src="https://cdn.vibegamer.io/submissions/2f055a4d-5e6c-4ae9-a233-a81a1743d486-ink-flight-shot-1.jpg" width="32%" alt="Ink Flight gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/12ba0d85-969c-4216-bcf0-38ab11572af9-ink-flight-shot-2.jpg" width="32%" alt="Ink Flight gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/6c27d8bb-2691-4ff1-bac6-c67fc3ccc382-ink-flight-shot-3.jpg" width="32%" alt="Ink Flight gameplay screenshot"></p>
+
+- **Made by:** prasenx ([@prasenx](https://x.com/prasenx))
+- **Model:** Claude Fable 5.2
+- **Ink Flight game URL:** https://wavedash.com/games/ink-flight
+- **Original post:** https://x.com/prasenx/status/2123467881170243808 (16 likes, checked November 21, 2026)
+- **Tags:** 3D, Flight
+- **Ink Flight on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/ink-flight](https://vibegamer.io/game/ink-flight?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 7.5/10 for visuals and polish.</sub>
 
@@ -1056,6 +2015,42 @@ A first-person 3D mystery on a dead mining station in the asteroid belt: silence
 
 <sub>Our score: 7.4/10 for visuals and polish.</sub>
 
+### IGNITION fighting game
+<a id="ignition-fighting-game"></a>
+
+<a href="https://vibegamer.io/game/ignition-fighting-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/ignition-fighting-game.jpg" alt="IGNITION fighting game: cover art" width="100%"></a>
+
+A 2D fighting game with generated voices and sound, play logs and replays
+
+<p><img src="https://cdn.vibegamer.io/submissions/bd47bb18-0ae9-4d63-9791-e59fa891d22d-ignition-fighting-game-shot-1.jpg" width="32%" alt="IGNITION fighting game gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/d29a69a6-d915-48d0-901e-21f972ff8aa9-ignition-fighting-game-shot-2.jpg" width="32%" alt="IGNITION fighting game gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/280f659b-c258-457b-a129-62c628709434-ignition-fighting-game-shot-3.jpg" width="32%" alt="IGNITION fighting game gameplay screenshot"></p>
+
+- **Made by:** s_shigel ([@s_shigel](https://x.com/s_shigel))
+- **Model:** Claude Fable 5.2
+- **IGNITION fighting game game URL:** https://fighting-game-ignition.saito-931.workers.dev
+- **Original post:** https://x.com/s_shigel/status/2120895161890914336 (13 likes, checked November 21, 2026)
+- **Tags:** Combat, 2D
+- **IGNITION fighting game on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/ignition-fighting-game](https://vibegamer.io/game/ignition-fighting-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.4/10 for visuals and polish.</sub>
+
+### Silicon Seduction
+<a id="silicon-seduction"></a>
+
+<a href="https://vibegamer.io/game/silicon-seduction?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/silicon-seduction.jpg" alt="Silicon Seduction: cover art" width="100%"></a>
+
+Can you make it out without being seduced?
+
+<p><img src="https://cdn.vibegamer.io/submissions/3aa9a167-26aa-4e54-b023-8fc309e8ca7e-silicon-seduction-shot-1.jpg" width="32%" alt="Silicon Seduction gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/4e03b5da-f4f6-4860-9116-09575a1912fa-silicon-seduction-shot-2.jpg" width="32%" alt="Silicon Seduction gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/47922432-d246-4cdd-aa6b-235014dce757-silicon-seduction-shot-3.jpg" width="32%" alt="Silicon Seduction gameplay screenshot"></p>
+
+- **Made by:** ZryMiller ([@ZryMiller](https://x.com/ZryMiller))
+- **Model:** Claude Fable 5.2
+- **Silicon Seduction game URL:** https://silicon-seduction.vercel.app/
+- **Original post:** https://x.com/ZryMiller/status/2119918766691954691 (12 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Silicon Seduction on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/silicon-seduction](https://vibegamer.io/game/silicon-seduction?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.4/10 for visuals and polish.</sub>
+
 ### Watercolour
 <a id="watercolour"></a>
 
@@ -1073,6 +2068,114 @@ Walk a girl in a red hood through a pencil sketch that turns into watercolour wh
 - **Watercolour on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/watercolour](https://vibegamer.io/game/watercolour?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 7.4/10 for visuals and polish.</sub>
+
+### Napoleon x Locke
+<a id="napoleon-x-locke"></a>
+
+<a href="https://vibegamer.io/game/napoleon-x-locke?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/napoleon-x-locke.jpg" alt="Napoleon x Locke: cover art" width="100%"></a>
+
+Ride Napoleon's winged horse through Egypt, Italy, Paris and Saint Helena
+
+<p><img src="https://cdn.vibegamer.io/submissions/08d7feeb-e5aa-41dd-b547-cfc948f0f2cf-napoleon-x-locke-shot-1.jpg" width="32%" alt="Napoleon x Locke gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/bca4dde6-58c1-4c19-9d43-c089f5a86124-napoleon-x-locke-shot-2.jpg" width="32%" alt="Napoleon x Locke gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/3b38a566-9ca7-495b-992a-bebdef41338f-napoleon-x-locke-shot-3.jpg" width="32%" alt="Napoleon x Locke gameplay screenshot"></p>
+
+- **Made by:** lockeorca ([@lockeorca](https://x.com/lockeorca))
+- **Model:** Claude Fable 5.2
+- **Napoleon x Locke game URL:** https://napolehim.com
+- **Original post:** https://x.com/lockeorca/status/2123044026152890803 (9 likes, checked November 21, 2026)
+- **Tags:** 3D, Flight
+- **Napoleon x Locke on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/napoleon-x-locke](https://vibegamer.io/game/napoleon-x-locke?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.3/10 for visuals and polish.</sub>
+
+### Room 13
+<a id="room-13"></a>
+
+<a href="https://vibegamer.io/game/room-13?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/room-13.jpg" alt="Room 13: cover art" width="100%"></a>
+
+An interactive game for learning English through mystery stories: double-click any word to look it up, translate sentences, then clear reading quizzes
+
+<p><img src="https://cdn.vibegamer.io/submissions/c6e8d811-2eba-4875-99c2-15251c0337bf-room-13-shot-1.jpg" width="32%" alt="Room 13 gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8564a1e2-af2a-473a-86f4-12ba6c2ce5ea-room-13-shot-2.jpg" width="32%" alt="Room 13 gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/bee1462a-c877-432d-86b5-93d00cc79c06-room-13-shot-3.jpg" width="32%" alt="Room 13 gameplay screenshot"></p>
+
+- **Made by:** MartinaBuilds ([@MartinaBuilds](https://x.com/MartinaBuilds))
+- **Model:** Claude Fable 5.2
+- **Room 13 game URL:** https://room13.srv1903550.hstgr.cloud
+- **Original post:** https://x.com/MartinaBuilds/status/2123424275462053893 (7 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **Room 13 on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/room-13](https://vibegamer.io/game/room-13?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.2/10 for visuals and polish.</sub>
+
+### Hello Jello
+<a id="hello-jello"></a>
+
+<a href="https://vibegamer.io/game/hello-jello?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/hello-jello.jpg" alt="Hello Jello: cover art" width="100%"></a>
+
+A cute jelly physics toy: click and drag to stretch and fling a bunch of wobbly jellies
+
+<p><img src="https://cdn.vibegamer.io/submissions/e256c31a-7dfe-4f24-9dd9-57ec44bfa179-hello-jello-shot-1.jpg" width="32%" alt="Hello Jello gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8ca2f141-161e-4aed-9014-f470c3f3b182-hello-jello-shot-2.jpg" width="32%" alt="Hello Jello gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/5a962b80-1c28-4e19-b32e-29709c3e6dba-hello-jello-shot-3.jpg" width="32%" alt="Hello Jello gameplay screenshot"></p>
+
+- **Made by:** photonstorm ([@photonstorm](https://x.com/photonstorm))
+- **Model:** Claude Fable 5.2
+- **Hello Jello game URL:** https://jello.sixfingerpunch.com/
+- **Original post:** https://x.com/photonstorm/status/2122879821986627587 (6 likes, checked November 21, 2026)
+- **Tags:** 3D, Physics
+- **Hello Jello on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/hello-jello](https://vibegamer.io/game/hello-jello?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.2/10 for visuals and polish.</sub>
+
+### Roost
+<a id="roost"></a>
+
+<a href="https://vibegamer.io/game/roost?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/roost.jpg" alt="Roost: cover art" width="100%"></a>
+
+3D dirt-bike racing in one chat: 5 prompts, 15 minutes, 3 tracks, AI rivals, nitro, handlebar cam
+
+<p><img src="https://cdn.vibegamer.io/submissions/dae1e709-bd27-4097-aee6-9c6c3fd09596-roost-shot-1.jpg" width="32%" alt="Roost gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/03b2454c-e9e4-45af-ad6d-a7569e56d9b7-roost-shot-2.jpg" width="32%" alt="Roost gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/8ee4f280-bc57-443d-af31-3f769f28fad7-roost-shot-3.jpg" width="32%" alt="Roost gameplay screenshot"></p>
+
+- **Made by:** tejas3732 ([@tejas3732](https://x.com/tejas3732))
+- **Model:** Claude Fable 5.2
+- **Roost game URL:** https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ
+- **Original post:** https://x.com/tejas3732/status/2120091513657139549 (6 likes, checked November 21, 2026)
+- **Tags:** 3D, Racing
+- **Roost on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/roost](https://vibegamer.io/game/roost?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.2/10 for visuals and polish.</sub>
+
+### INFALL — you are the black hole
+<a id="infall-you-are-the-black-hole"></a>
+
+<a href="https://vibegamer.io/game/infall-you-are-the-black-hole?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/infall-you-are-the-black-hole.jpg" alt="INFALL — you are the black hole: cover art" width="100%"></a>
+
+The only instruction was "go crazy and blow my mind"; it went from idea to game in one shot
+
+<p><img src="https://cdn.vibegamer.io/submissions/d6f0a9ba-b473-427e-a7bf-faad3260e9f5-infall-you-are-the-black-hole-shot-1.jpg" width="32%" alt="INFALL — you are the black hole gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/e2b75c0b-a8c6-448c-af41-214a21703cb8-infall-you-are-the-black-hole-shot-2.jpg" width="32%" alt="INFALL — you are the black hole gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/4846d12a-21dd-40c1-863b-4c70520f5c47-infall-you-are-the-black-hole-shot-3.jpg" width="32%" alt="INFALL — you are the black hole gameplay screenshot"></p>
+
+- **Made by:** AugustCastilIo ([@AugustCastilIo](https://x.com/AugustCastilIo))
+- **Model:** Claude Fable 5.2
+- **INFALL — you are the black hole game URL:** https://infall-game.vercel.app
+- **Original post:** https://x.com/AugustCastilIo/status/2121350653037756557 (4 likes, checked November 21, 2026)
+- **Tags:** 3D
+- **INFALL — you are the black hole on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/infall-you-are-the-black-hole](https://vibegamer.io/game/infall-you-are-the-black-hole?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.1/10 for visuals and polish.</sub>
+
+### Four-character fighting game
+<a id="four-character-fighting-game"></a>
+
+<a href="https://vibegamer.io/game/four-character-fighting-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/four-character-fighting-game.jpg" alt="Four-character fighting game: cover art" width="100%"></a>
+
+Fable 5.2 + ElevenLabs MCP for 39 voice and sound clips, including an announcer it designed
+
+<p><img src="https://cdn.vibegamer.io/submissions/01a18300-082c-4475-ae85-fe584d0ee809-four-character-fighting-game-shot-1.jpg" width="32%" alt="Four-character fighting game gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/2fa1a142-fec3-42a3-8d1f-efcd638ada9a-four-character-fighting-game-shot-2.jpg" width="32%" alt="Four-character fighting game gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/72fefee8-6349-4254-804c-6c31138e545b-four-character-fighting-game-shot-3.jpg" width="32%" alt="Four-character fighting game gameplay screenshot"></p>
+
+- **Made by:** promodenstudio ([@promodenstudio](https://x.com/promodenstudio))
+- **Model:** Claude Fable 5.2
+- **Four-character fighting game game URL:** https://claude.ai/artifact/1QGGhB68jMCjjjeeKtKNUo
+- **Original post:** https://x.com/promodenstudio/status/2120085977079107788 (4 likes, checked November 21, 2026)
+- **Tags:** 3D, Combat
+- **Four-character fighting game on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/four-character-fighting-game](https://vibegamer.io/game/four-character-fighting-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 7.1/10 for visuals and polish.</sub>
 
 ### Hogwarts Royale
 <a id="hogwarts-royale"></a>
@@ -1133,6 +2236,24 @@ Fast cars, hot nights, bad ideas: a GTA-style driving game in a pink-lit Miami b
 - **Neon Coast on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/neon-coast](https://vibegamer.io/game/neon-coast?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 7/10 for visuals and polish.</sub>
+
+### Vippi
+<a id="vippi"></a>
+
+<a href="https://vibegamer.io/game/vippi?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/vippi.jpg" alt="Vippi: cover art" width="100%"></a>
+
+A COD-style shooter
+
+<p><img src="https://cdn.vibegamer.io/submissions/8ac0609e-4f90-4f31-be13-284280565e01-vippi-shot-1.jpg" width="32%" alt="Vippi gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/b93f9204-1195-4098-99b3-9477a85d2baa-vippi-shot-2.jpg" width="32%" alt="Vippi gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/d4cbc937-def1-419b-965e-fdb212f48e04-vippi-shot-3.jpg" width="32%" alt="Vippi gameplay screenshot"></p>
+
+- **Made by:** Shrit1401 ([@Shrit1401](https://x.com/Shrit1401))
+- **Model:** Claude Fable 5.2
+- **Vippi game URL:** https://vippi.vercel.app/
+- **Original post:** https://x.com/Shrit1401/status/2120060593763926314 (2 likes, checked November 21, 2026)
+- **Tags:** 3D, Shooter
+- **Vippi on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/vippi](https://vibegamer.io/game/vippi?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 6.9/10 for visuals and polish.</sub>
 
 ### The Lost Storm
 <a id="the-lost-storm"></a>

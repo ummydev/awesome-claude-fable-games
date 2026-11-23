@@ -2030,6 +2030,36 @@
   "cover": "assets/covers/lumina-zombies.jpg"
  },
  {
+  "slug": "sanhattan",
+  "name": "Sanhattan",
+  "headline": "Follow the orange marker to a Santiago repair shop.",
+  "maker": "Benjamín Cordero",
+  "maker_handle": null,
+  "model": "Claude Fable 5.2",
+  "play_url": "https://sanhattan-gta-santiago.vercel.app/",
+  "post_url": "https://www.youtube.com/watch?v=d7AOxj2pnZc",
+  "score": 8.1,
+  "tags": [
+   "Driving",
+   "Adventure",
+   "3D"
+  ],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/a6eb9bd5-2210-45ee-8641-2e4a253a04ab-sanhattan-shot-1.webp",
+   "https://cdn.vibegamer.io/submissions/2e54cb74-a1c7-4e2f-84c0-8a8fe1b5d3b2-sanhattan-shot-2.webp",
+   "https://cdn.vibegamer.io/submissions/560b9d0b-4c8a-4214-ac6a-36ed435b2645-sanhattan-shot-3.webp",
+   "https://cdn.vibegamer.io/submissions/af3e2006-8426-473d-8515-89da267d670f-sanhattan-shot-4.webp",
+   "https://cdn.vibegamer.io/submissions/2f6daf21-673e-4af5-a5dd-7df8e2c436a3-sanhattan-shot-5.webp",
+   "https://cdn.vibegamer.io/submissions/da67fd57-b2f1-487e-b3c0-20ae69ec02f5-sanhattan-shot-6.webp"
+  ],
+  "prompts": [],
+  "checked_on": "2026-11-23",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "vibegamer_url": "https://vibegamer.io/game/sanhattan",
+  "cover": "assets/covers/sanhattan.jpg"
+ },
+ {
   "slug": "danfo-run",
   "name": "Danfo Run",
   "headline": "Drive a yellow danfo through Lagos traffic, load passengers and top the live leaderboard. The browser game that went viral in Nigeria as Lagos Run.",

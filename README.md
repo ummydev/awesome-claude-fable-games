@@ -1,6 +1,6 @@
 # Awesome Claude Fable Games
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-144-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-133-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Games](https://img.shields.io/badge/games-145-8a5cf6) ![Playable](https://img.shields.io/badge/playable_in_browser-134-22c55e) ![Prompts](https://img.shields.io/badge/verbatim_prompts-5-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ### ▶ [Play all of these in your browser → vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
@@ -8,7 +8,7 @@
 
 A curated list of **games made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026: browser games you can play right now, Unreal and Roblox projects, and one-prompt experiments. Each game names the model its maker says they used. Every game is credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**144 games · 133 playable in the browser · 5 with prompts** · Updated 2026-11-23
+**145 games · 134 playable in the browser · 5 with prompts** · Updated 2026-11-23
 
 Most games also have a page on **[vibegamer.io](https://vibegamer.io?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)** with its trailer, screenshots and a play button. Games made with other AI models (GPT, Gemini, Grok…) are in **[awesome-ai-games](https://github.com/ummydev/awesome-ai-games)**.
 
@@ -92,6 +92,7 @@ Sorted by our score, then by likes on the original post.
 | <a href="#banana-mine-rush"><img src="assets/covers/banana-mine-rush.jpg" width="160" alt="Banana Mine Rush cover"></a> | **[Banana Mine Rush](#banana-mine-rush)** | [0xChuckstock](https://x.com/0xChuckstock) | Claude Fable 5.2 | [▶ Play URL](https://remix.gg/g/banana-mine-rush) | [page](https://vibegamer.io/game/banana-mine-rush?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/0xChuckstock/status/2120125184606658728) | 154 |  | 8.1/10 |
 | <a href="#impossible-spaces"><img src="assets/covers/impossible-spaces.jpg" width="160" alt="Impossible Spaces cover"></a> | **[Impossible Spaces](#impossible-spaces)** | [BlendiByl](https://x.com/BlendiByl) | Claude Fable 5.2 | [▶ Play URL](https://patch.gg/blendi/impossible-spaces) | [page](https://vibegamer.io/game/impossible-spaces?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/BlendiByl/status/2120314459793355262) | 137 |  | 8.1/10 |
 | <a href="#lumina-zombies"><img src="assets/covers/lumina-zombies.jpg" width="160" alt="Lumina Zombies cover"></a> | **[Lumina Zombies](#lumina-zombies)** | [LuminaBench](https://x.com/LuminaBench) | Claude Fable 5.2 | [▶ Play URL](https://luminazombies.com/) | [page](https://vibegamer.io/game/lumina-zombies?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/LuminaBench/status/2120660076927099048) | 123 |  | 8.1/10 |
+| <a href="#sanhattan"><img src="assets/covers/sanhattan.jpg" width="160" alt="Sanhattan cover"></a> | **[Sanhattan](#sanhattan)** | Benjamín Cordero | Claude Fable 5.2 | [▶ Play URL](https://sanhattan-gta-santiago.vercel.app/) | [page](https://vibegamer.io/game/sanhattan?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [blog post](https://www.youtube.com/watch?v=d7AOxj2pnZc) |  |  | 8.1/10 |
 | <a href="#danfo-run"><img src="assets/covers/danfo-run.jpg" width="160" alt="Danfo Run cover"></a> | **[Danfo Run](#danfo-run)** | [Eureka](https://x.com/eureka_seamless) | Claude (version not stated) | [▶ Play URL](https://danforun.com) | [page](https://vibegamer.io/game/danfo-run?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/eureka_seamless/status/2103938108668420286) | 36.8K |  | 8/10 |
 | <a href="#the-clockmakers-heart"><img src="assets/covers/the-clockmakers-heart.jpg" width="160" alt="The Clockmaker's Heart cover"></a> | **[The Clockmaker's Heart](#the-clockmakers-heart)** | [Felix Rieseberg](https://x.com/felixrieseberg) | Claude Fable 5.2 | [▶ Play URL](https://claude.ai/artifact/6MjtQjf4ee1ZZjEpafaEpa) | [page](https://vibegamer.io/game/the-clockmakers-heart?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/felixrieseberg/status/2119867839033352596) | 283 |  | 8/10 |
 | <a href="#aestra-the-last-wish"><img src="assets/covers/aestra-the-last-wish.jpg" width="160" alt="Aestra: The Last Wish cover"></a> | **[Aestra: The Last Wish](#aestra-the-last-wish)** | [Mike Houser](https://x.com/M__Houser) | Claude Opus 5.5 (on Tesana) | [▶ Play URL](https://tesana.com/game/aestra-the-last-wish) | [page](https://vibegamer.io/game/aestra-the-last-wish?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games) | [X](https://x.com/M__Houser/status/2115438489995190285) | 281 |  | 8/10 |
@@ -1331,6 +1332,24 @@ A brand-new map with easter eggs in a few prompts, plus upgrades that halved har
 - **Original post:** https://x.com/LuminaBench/status/2120660076927099048 (123 likes, checked November 21, 2026)
 - **Tags:** 3D, Shooter
 - **Lumina Zombies on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/lumina-zombies](https://vibegamer.io/game/lumina-zombies?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
+
+<sub>Our score: 8.1/10 for visuals and polish.</sub>
+
+### Sanhattan
+<a id="sanhattan"></a>
+
+<a href="https://vibegamer.io/game/sanhattan?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games"><img src="assets/covers/sanhattan.jpg" alt="Sanhattan: cover art" width="100%"></a>
+
+Follow the orange marker to a Santiago repair shop.
+
+<p><img src="https://cdn.vibegamer.io/submissions/a6eb9bd5-2210-45ee-8641-2e4a253a04ab-sanhattan-shot-1.webp" width="32%" alt="Sanhattan gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/2e54cb74-a1c7-4e2f-84c0-8a8fe1b5d3b2-sanhattan-shot-2.webp" width="32%" alt="Sanhattan gameplay screenshot"> <img src="https://cdn.vibegamer.io/submissions/560b9d0b-4c8a-4214-ac6a-36ed435b2645-sanhattan-shot-3.webp" width="32%" alt="Sanhattan gameplay screenshot"></p>
+
+- **Made by:** Benjamín Cordero
+- **Model:** Claude Fable 5.2
+- **Sanhattan game URL:** https://sanhattan-gta-santiago.vercel.app/
+- **Original post:** https://www.youtube.com/watch?v=d7AOxj2pnZc
+- **Tags:** Driving, Adventure, 3D
+- **Sanhattan on VibeGamer (trailer, screenshots, reviews):** [vibegamer.io/game/sanhattan](https://vibegamer.io/game/sanhattan?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-fable-games)
 
 <sub>Our score: 8.1/10 for visuals and polish.</sub>
 

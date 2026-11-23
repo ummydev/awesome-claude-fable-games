@@ -1523,6 +1523,37 @@
   "cover": "assets/covers/baseboard.jpg"
  },
  {
+  "slug": "atlantis",
+  "name": "Atlantis",
+  "headline": "Fly over the canals and crystal towers of a city built from code.",
+  "maker": "Noniv",
+  "maker_handle": null,
+  "model": "Claude Fable 5.2, Claude Opus 5.5, Claude Code",
+  "play_url": "https://noniv.github.io/atlantis/",
+  "post_url": "https://www.reddit.com/r/singularity/comments/1y1z1cu/fable_52_built_a_flyable_atlantis_in_a_single_96/",
+  "score": 8.3,
+  "tags": [
+   "Flight",
+   "Open world",
+   "Sandbox"
+  ],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/10f78c50-fb23-4e6a-af05-067d4b997ddb-atlantis-shot-1.webp",
+   "https://cdn.vibegamer.io/submissions/5cc62934-c253-4426-9def-3f6809452b66-atlantis-shot-2.webp",
+   "https://cdn.vibegamer.io/submissions/934e8923-273d-4ec1-9374-0607efa437d5-atlantis-shot-3.webp",
+   "https://cdn.vibegamer.io/submissions/29d67133-51fa-44d5-aaf0-cc6fb2984a9a-atlantis-shot-4.webp",
+   "https://cdn.vibegamer.io/submissions/c9b2ea08-8279-4fe4-8ce9-ad37a0201675-atlantis-shot-5.webp",
+   "https://cdn.vibegamer.io/submissions/18eccf5c-23e3-46ea-b2e2-d301b0ea0776-atlantis-shot-6.webp",
+   "https://cdn.vibegamer.io/submissions/23d7df99-feb0-43eb-88e5-d309d21f0736-atlantis-shot-7.webp"
+  ],
+  "prompts": [],
+  "checked_on": "2026-11-23",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "vibegamer_url": "https://vibegamer.io/game/atlantis",
+  "cover": "assets/covers/atlantis.jpg"
+ },
+ {
   "slug": "a-claude-demo-you-can-walk-into",
   "name": "A Claude demo you can walk into",
   "headline": "Inspired by @rileybrown: walk in and sit at any computer",
@@ -1841,6 +1872,37 @@
   "checked_on": "2026-11-14",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/nightclub-drift-speed.jpg"
+ },
+ {
+  "slug": "cold-smoke",
+  "name": "Cold Smoke",
+  "headline": "Carve your own tracks down an endless mountain.",
+  "maker": "Huisky (灰斯基)",
+  "maker_handle": null,
+  "model": "Claude Fable 5.2",
+  "play_url": "https://huisky.xyz/cold-smoke/play",
+  "post_url": "https://www.xiaohongshu.com/explore/6af76cd8000000002a01d9ea",
+  "score": 8.1,
+  "tags": [
+   "Sports",
+   "Cosy",
+   "3D"
+  ],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/888ce95b-8d76-44d3-8062-6c3085f6b1af-cold-smoke-shot-1.webp",
+   "https://cdn.vibegamer.io/submissions/23eb39f6-1399-41a4-8521-0a0cfcf67aa2-cold-smoke-shot-2.webp",
+   "https://cdn.vibegamer.io/submissions/67667530-d077-4385-a970-43262c06035e-cold-smoke-shot-3.webp",
+   "https://cdn.vibegamer.io/submissions/02e417a8-7d4d-4e82-a787-82f90576ad0c-cold-smoke-shot-4.webp",
+   "https://cdn.vibegamer.io/submissions/2c6cb578-d59a-4fba-b0dd-3be66f796832-cold-smoke-shot-5.webp",
+   "https://cdn.vibegamer.io/submissions/2e1895ee-5975-4bec-ae80-3677ac8dbab7-cold-smoke-shot-6.webp",
+   "https://cdn.vibegamer.io/submissions/ff3f25ad-814b-40b8-843f-3b62cee687c4-cold-smoke-shot-7.webp"
+  ],
+  "prompts": [],
+  "checked_on": "2026-11-23",
+  "likes_at_check": 307,
+  "views_at_check": null,
+  "vibegamer_url": "https://vibegamer.io/game/cold-smoke",
+  "cover": "assets/covers/cold-smoke.jpg"
  },
  {
   "slug": "fable-5-2-fps-repro",
@@ -2687,6 +2749,37 @@
   "cover": "assets/covers/geminisland.jpg"
  },
  {
+  "slug": "tumblebuds-the-journey-home",
+  "name": "Tumblebuds: The Journey Home",
+  "headline": "Give a little marching crew the skills to find its way home.",
+  "maker": "Mossbell Games",
+  "maker_handle": null,
+  "model": "Claude Code, Claude Fable 5.2",
+  "play_url": "https://johnnyffm.github.io/tumblebuds/",
+  "post_url": "https://www.reddit.com/r/ClaudeAI/comments/1xx4y79/i_built_a_3d_puzzle_game_for_my_5yearold_with/",
+  "score": 8.0,
+  "tags": [
+   "Puzzle",
+   "Strategy",
+   "3D"
+  ],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/b09a5882-e47c-4636-8db7-6d3ea0ccb5bb-tumblebuds-the-journey-home-shot-1.webp",
+   "https://cdn.vibegamer.io/submissions/ddaaed03-5a53-4437-9c5b-0c51c72658fa-tumblebuds-the-journey-home-shot-2.webp",
+   "https://cdn.vibegamer.io/submissions/b2afbe5f-6c9d-46dc-8eaf-61fe7573c0c2-tumblebuds-the-journey-home-shot-3.webp",
+   "https://cdn.vibegamer.io/submissions/45112318-103f-4985-aab5-c7d0b62f65db-tumblebuds-the-journey-home-shot-4.webp",
+   "https://cdn.vibegamer.io/submissions/fbd2ecd1-2034-4f3d-8a14-8553b017133b-tumblebuds-the-journey-home-shot-5.webp",
+   "https://cdn.vibegamer.io/submissions/2e4f5111-f1de-47ca-bec9-65edfca808be-tumblebuds-the-journey-home-shot-6.webp",
+   "https://cdn.vibegamer.io/submissions/aad53069-87e2-497d-a83e-2a3de44e02f6-tumblebuds-the-journey-home-shot-7.webp"
+  ],
+  "prompts": [],
+  "checked_on": "2026-11-23",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "vibegamer_url": "https://vibegamer.io/game/tumblebuds-the-journey-home",
+  "cover": "assets/covers/tumblebuds-the-journey-home.jpg"
+ },
+ {
   "slug": "kumokiri",
   "name": "KUMOKIRI",
   "headline": "A painterly samurai game made with Fable 5.2, Crayon and three.js",
@@ -2839,6 +2932,36 @@
   "checked_on": "2026-11-14",
   "model": "Claude Fable 5.2",
   "cover": "assets/covers/paletterider.jpg"
+ },
+ {
+  "slug": "chasm",
+  "name": "Chasm",
+  "headline": "Guide a knight through a torchlit WebGPU dungeon.",
+  "maker": "dpsmkr7",
+  "maker_handle": null,
+  "model": "Claude Opus 5.5, Claude Fable 5.2",
+  "play_url": "https://chasm.layero.app/",
+  "post_url": "https://www.reddit.com/r/aigamedev/comments/1y13am9/im_making_an_isometric_soulslike_that_runs_in_the/",
+  "score": 7.9,
+  "tags": [
+   "RPG",
+   "Adventure",
+   "3D"
+  ],
+  "screenshots": [
+   "https://cdn.vibegamer.io/submissions/4e6fac70-2d76-4e27-a385-400c7ff698ab-chasm-shot-1.webp",
+   "https://cdn.vibegamer.io/submissions/152b73e2-0bbd-4c29-8910-de739dbdb386-chasm-shot-2.webp",
+   "https://cdn.vibegamer.io/submissions/873d178b-be58-45bc-8056-0f69ed1ea559-chasm-shot-3.webp",
+   "https://cdn.vibegamer.io/submissions/d57fab13-ff67-42c4-b90f-1bdfc1cc2c63-chasm-shot-4.webp",
+   "https://cdn.vibegamer.io/submissions/448e6157-f9d9-410a-ad35-7cb0e98c3a2d-chasm-shot-5.webp",
+   "https://cdn.vibegamer.io/submissions/215d620e-d2ec-485a-b5da-ac3266d5b14a-chasm-shot-6.webp"
+  ],
+  "prompts": [],
+  "checked_on": "2026-11-23",
+  "likes_at_check": null,
+  "views_at_check": null,
+  "vibegamer_url": "https://vibegamer.io/game/chasm",
+  "cover": "assets/covers/chasm.jpg"
  },
  {
   "slug": "kestrel-head-solstice-racing",
